@@ -6,22 +6,8 @@ workflow_dispatch:
 jobs:
 test:
 runs-on: ubuntu-latest
-
 steps:
-- name: Get repository
-uses: actions/checkout@v4
-
-- name: Set up Python
-uses: actions/setup-python@v5
-with:
-python-version: "3.12"
-
-- name: Install dependencies
-run: pip install requests beautifulsoup4
-
-- name: Test Telegram
-env:
-TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-run: |
-python -c "import os, requests; r=requests.post('api.telegram.org/bot'+os.environ['TELEGRAM_BOT_TOKEN']+'/sendMessage', data={'chat_id':os.environ['TELEGRAM_CHAT_ID'],'text':'✅ GitHub monitor test successful!'}); print(r.text)"
+- run: |
+curl -s -X POST "api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" 
+-d "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" 
+-d "text=✅ GitHub monitor test successful!"

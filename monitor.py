@@ -22,7 +22,6 @@ def get_page(url):
     )
 
     response.raise_for_status()
-
     return response.text
 
 
@@ -31,36 +30,28 @@ def find_articles(html, base_url):
     soup = BeautifulSoup(html, "html.parser")
 
     articles = []
+    seen = set()
 
     for link in soup.find_all("a", href=True):
 
-        text = link.get_text(" ", strip=True)
+        title = link.get_text(" ", strip=True)
 
-        if len(text) < 20:
+        if len(title) < 25:
             continue
 
-        href = link["href"]
+        url = urljoin(base_url, link["href"])
 
-        if href.startswith("#"):
+        if url in seen:
             continue
 
-        full_url = urljoin(base_url, href)
+        seen.add(url)
 
         articles.append({
-            "title": text,
-            "url": full_url
+            "title": title,
+            "url": url
         })
 
-    # Remove duplicates
-    unique = {}
-
-    for article in articles:
-        key = article["url"]
-
-        if key not in unique:
-            unique[key] = article
-
-    return list(unique.values())
+    return articles
 
 
 def main():
@@ -85,14 +76,12 @@ def main():
 
             print("Possible articles:", len(articles))
 
-            for article in articles[:30]:
+            # Show only the first 15.
+            for article in articles[:15]:
 
-                print(
-                    "-",
-                    article["title"],
-                    "→",
-                    article["url"]
-                )
+                print()
+                print("TITLE:", article["title"])
+                print("URL:", article["url"])
 
         except Exception as e:
 

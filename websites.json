@@ -1,22 +1,22 @@
 [
-{
-"name": "BILD Bayern",
-"url": "m.bild.de/sport/fussball/bayern-muenchen/startseite-bayern-muenchen-31074450.bildMobile.html"
-},
-{
-"name": "SPORT1 Bayern",
-"url": "www.sport1.de/team/fc-bayern-muenchen/opta_156"
-},
-{
-"name": "tz Bayern",
-"url": "www.tz.de/sport/fc-bayern/"
-},
-{
-"name": "kicker Bayern",
-"url": "www.kicker.de/fc-bayern-muenchen/team-news"
-},
-{
-"name": "Abendzeitung Bayern",
-"url": "www.abendzeitung-muenchen.de/sport/fcbayern/"
-}
+  {
+    "name": "BILD Bayern",
+    "url": "https://m.bild.de/sport/fussball/bayern-muenchen/startseite-bayern-muenchen-31074450.bildMobile.html"
+  },
+  {
+    "name": "SPORT1 Bayern",
+    "url": "https://www.sport1.de/team/fc-bayern-muenchen/opta_156"
+  },
+  {
+    "name": "tz Bayern",
+    "url": "https://www.tz.de/sport/fc-bayern/"
+  },
+  {
+    "name": "kicker Bayern",
+    "url": "https://www.kicker.de/fc-bayern-muenchen/team-news"
+  },
+  {
+    "name": "Abendzeitung Bayern",
+    "url": "https://www.abendzeitung-muenchen.de/sport/fcbayern/"
+  }
 ]

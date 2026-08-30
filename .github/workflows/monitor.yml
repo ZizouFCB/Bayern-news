@@ -7,3 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "GitHub Actions is working"
+
+      - uses: actions/checkout@v4
+
+      - run: pip install requests
+
+      - run: python telegram_test.py
+    v   env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

@@ -1,19 +1,12 @@
 import json
-import hashlib
-import os
-import re
-from pathlib import Path
-
 import requests
 from bs4 import BeautifulSoup
 
 WEBSITES_FILE = "websites.json"
-STATE_FILE = "state.json"
-
 
 def get_page(url):
     headers = {
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36"
     }
 
     response = requests.get(
@@ -26,106 +19,46 @@ def get_page(url):
     return response.text
 
 
-def clean_page(html):
+def find_headlines(html):
     soup = BeautifulSoup(html, "html.parser")
 
-    for tag in soup(["script", "style", "noscript", "svg"]):
-        tag.decompose()
+    headlines = []
 
-    text = soup.get_text(" ", strip=True)
-    text = re.sub(r"\s+", " ", text)
+    for tag in soup.find_all(["h1", "h2", "h3"]):
+        text = tag.get_text(" ", strip=True)
 
-    return text
+        if len(text) >= 15:
+            headlines.append(text)
 
-
-def make_hash(text):
-    return hashlib.sha256(
-        text.encode("utf-8")
-    ).hexdigest()
-
-
-def load_state():
-    if not Path(STATE_FILE).exists():
-        return {}
-
-    return json.loads(
-        Path(STATE_FILE).read_text()
-    )
-
-
-def save_state(state):
-    Path(STATE_FILE).write_text(
-        json.dumps(
-            state,
-            indent=2
-        )
-    )
-
-
-def send_telegram(message):
-    token = os.environ["TELEGRAM_BOT_TOKEN"]
-    chat_id = os.environ["TELEGRAM_CHAT_ID"]
-
-    requests.post(
-        f"https://api.telegram.org/bot{token}/sendMessage",
-        data={
-            "chat_id": chat_id,
-            "text": message
-        },
-        timeout=30
-    )
+    # Remove duplicates while preserving order
+    return list(dict.fromkeys(headlines))
 
 
 def main():
 
     websites = json.loads(
-        Path(WEBSITES_FILE).read_text()
+        open(WEBSITES_FILE, encoding="utf-8").read()
     )
-
-    state = load_state()
 
     for site in websites:
 
-        name = site["name"]
-        url = site["url"]
-
-        print(f"Checking {name}...")
+        print("\n==============================")
+        print(site["name"])
+        print("==============================")
 
         try:
 
-            html = get_page(url)
-            text = clean_page(html)
-            current_hash = make_hash(text)
+            html = get_page(site["url"])
+            headlines = find_headlines(html)
 
-            old_hash = state.get(url)
+            print("Headlines found:", len(headlines))
 
-            if old_hash is None:
-
-                print(f"Creating baseline for {name}")
-
-                state[url] = current_hash
-
-            elif old_hash != current_hash:
-
-                print(f"CHANGE DETECTED: {name}")
-
-                send_telegram(
-                    f"🔴 CHANGE DETECTED\n\n"
-                    f"{name}\n\n"
-                    f"{url}"
-                )
-
-                state[url] = current_hash
-
-            else:
-
-                print(f"No change: {name}")
+            for headline in headlines[:20]:
+                print("-", headline)
 
         except Exception as e:
 
-            print(f"ERROR: {name}: {e}")
-
-    save_state(state)
+            print("ERROR:", e)
 
 
 if __name__ == "__main__":

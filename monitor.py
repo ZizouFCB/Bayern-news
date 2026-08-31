@@ -1,92 +1,39 @@
 import json
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
 
-WEBSITES_FILE = "websites.json"
+with open("websites.json", encoding="utf-8") as f:
+    websites = json.load(f)
 
+for site in websites:
 
-def get_page(url):
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/131.0 Safari/537.36"
-        )
-    }
+    if site["name"] != "kicker Bayern":
+        continue
+
+    print("URL:", site["url"])
 
     response = requests.get(
-        url,
-        headers=headers,
+        site["url"],
+        headers={
+            "User-Agent": "Mozilla/5.0"
+        },
         timeout=30
     )
 
-    response.raise_for_status()
-    return response.text
+    print("STATUS:", response.status_code)
+    print("LENGTH:", len(response.text))
 
+    soup = BeautifulSoup(response.text, "html.parser")
 
-def find_articles(html, base_url):
+    print("PAGE TITLE:", soup.title.get_text(strip=True) if soup.title else "NONE")
 
-    soup = BeautifulSoup(html, "html.parser")
+    print("\nFIRST 20 LINKS:")
 
-    articles = []
-    seen = set()
+    for link in soup.find_all("a", href=True)[:20]:
 
-    for link in soup.find_all("a", href=True):
+        text = link.get_text(" ", strip=True)
 
-        title = link.get_text(" ", strip=True)
-
-        if len(title) < 25:
-            continue
-
-        url = urljoin(base_url, link["href"])
-
-        if url in seen:
-            continue
-
-        seen.add(url)
-
-        articles.append({
-            "title": title,
-            "url": url
-        })
-
-    return articles
-
-
-def main():
-
-    with open(WEBSITES_FILE, encoding="utf-8") as file:
-        websites = json.load(file)
-
-    for site in websites:
-
-        print("\n==============================")
-        print(site["name"])
-        print("==============================")
-
-        try:
-
-            html = get_page(site["url"])
-
-            articles = find_articles(
-                html,
-                site["url"]
-            )
-
-            print("Possible articles:", len(articles))
-
-            # Show only the first 15.
-            for article in articles[:15]:
-
-                print()
-                print("TITLE:", article["title"])
-                print("URL:", article["url"])
-
-        except Exception as e:
-
-            print("ERROR:", e)
-
-
-if __name__ == "__main__":
-    main()
+        if text:
+            print("TEXT:", text[:150])
+            print("URL:", link["href"])
+            print()

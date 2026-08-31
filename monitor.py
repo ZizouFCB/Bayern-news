@@ -7,7 +7,7 @@ with open("websites.json", encoding="utf-8") as f:
 
 for site in websites:
 
-    if site["name"] != "kicker Bayern":
+    if site["name"] != "Abendzeitung Bayern":
         continue
 
     print("URL:", site["url"])
@@ -25,7 +25,12 @@ for site in websites:
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    print("PAGE TITLE:", soup.title.get_text(strip=True) if soup.title else "NONE")
+    print(
+        "PAGE TITLE:",
+        soup.title.get_text(strip=True)
+        if soup.title
+        else "NONE"
+    )
 
     print("\nFIRST 20 LINKS:")
 

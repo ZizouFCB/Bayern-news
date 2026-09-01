@@ -114,8 +114,7 @@ def get_articles(html, site):
 
         # SZ Bayern
         elif name == "SZ Bayern":
-            path = 
-        urlparse(url).path.lower()
+            path = urlparse(url).path.lower()
 
             if not (
                 path.startswith("/sport/")

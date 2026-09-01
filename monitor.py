@@ -12,17 +12,23 @@ STATE_FILE = "state.json"
 
 def get_page(url):
     headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/131.0 Safari/537.36"
-        )
-    }
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/131.0.6778.86 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;"
+        "q=0.9,image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "en-US,en;q=0.9,de;q=0.8",
+    "Referer": "https://www.google.com/"
+}
 
     response = requests.get(
         url,
         headers=headers,
-        timeout=30
+        timeout=60
     )
 
     response.raise_for_status()
@@ -108,9 +114,9 @@ def get_articles(html, site):
                 continue
 
         # SPORT1 Bayern
-        elif name == "SPORT1 Bayern":
-            if "/team/fc-bayern-muenchen/" not in url:
-                continue
+elif name == "SPORT1 Bayern":
+    pass
+                
 
         # FC Bayern Official
         elif name == "FC Bayern Official":
@@ -138,9 +144,9 @@ def get_articles(html, site):
                 continue
 
         # SZ Bayern
-        elif name == "SZ Bayern":
-            if "sueddeutsche.de" not in url:
-                continue
+elif name == "SZ Bayern":
+    if "sueddeutsche.de" not in url:
+        continue
 
             if not is_bayern_article(title, url):
                 continue

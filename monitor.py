@@ -12,23 +12,17 @@ STATE_FILE = "state.json"
 
 def get_page(url):
     headers = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/131.0.6778.86 Safari/537.36"
-    ),
-    "Accept": (
-        "text/html,application/xhtml+xml,application/xml;"
-        "q=0.9,image/avif,image/webp,*/*;q=0.8"
-    ),
-    "Accept-Language": "en-US,en;q=0.9,de;q=0.8",
-    "Referer": "https://www.google.com/"
-}
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/131.0 Safari/537.36"
+        )
+    }
 
     response = requests.get(
         url,
         headers=headers,
-        timeout=60
+        timeout=30
     )
 
     response.raise_for_status()
@@ -61,7 +55,6 @@ def is_bayern_article(title, url):
         "pavlović",
         "davies",
         "laimer",
-        "stanišić",
         "stanišić",
         "díaz",
         "diaz",
@@ -105,33 +98,9 @@ def get_articles(html, site):
             if "fc-bayern" not in url.lower():
                 continue
 
-        # BILD2 - general football page, but only Bayern-related articles
-        elif name == "BILD2":
-            if "/sport/fussball/" not in url:
-                continue
-
-            if not is_bayern_article(title, url):
-                continue
-
         # SPORT1 Bayern
-elif name == "SPORT1 Bayern":
-    if "sport1.de" not in url:
-        continue
-                
-
-        # FC Bayern Official
-        elif name == "FC Bayern Official":
-            if "fcbayern.com" not in url:
-                continue
-
-        # Absolut Bayern
-        elif name == "Absolut Bayern":
-            if "/fc-bayern-muenchen/" not in url:
-                continue
-
-        # Sky Bayern
-        elif name == "Sky Bayern":
-            if "/fc-bayern-muenchen" not in url:
+        elif name == "SPORT1 Bayern":
+            if "/team/fc-bayern-muenchen/" not in url:
                 continue
 
         # TZ Bayern
@@ -142,14 +111,6 @@ elif name == "SPORT1 Bayern":
         # Abendzeitung Bayern
         elif name == "Abendzeitung Bayern":
             if "/sport/fcbayern/" not in url:
-                continue
-
-        # SZ Bayern
-elif name == "SZ Bayern":
-    if "sueddeutsche.de" not in url:
-        continue
-
-            if not is_bayern_article(title, url):
                 continue
 
         if url in seen:

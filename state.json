@@ -1,7 +1,7 @@
 {
   "BILD Bayern": {
     "https://m.bild.de/sport/fussball/fc-bayern-es-geht-auch-um-gnabry-sechs-nachrichten-aus-dem-kompany-training-6a9580dce93222a77575e9f4": "Es geht auch um Gnabry : Sechs Nachrichten aus dem Bayern-Training!",
-    "https://m.bild.de/sport/fussball/fc-bayern-adam-aznou-wagt-ein-jahr-nach-muenchen-abschied-den-naechsten-neuanfang-6a95982ce93222a77575ec0f": "1 Jahr nach München-Abschied : Ex-Bayern-Juwel wagt Neuanfang!",
+    "https://m.bild.de/sport/fussball/fc-bayern-adam-aznou-wagt-ein-jahr-nach-muenchen-abschied-den-naechsten-neuanfang-6a95982ce93222a77575ec0f": "Ein Jahr nach München-Abschied : Ex-Bayern-Juwel wagt Neuanfang!",
     "https://m.bild.de/sport/fussball/fc-bayern-minjae-kim-ist-ueberraschend-der-heimliche-gewinner-des-saisonstarts-6a9525d3ec27d32fb526a425": "Überraschend : Ein Gewinner und ein Verlierer des Bayern-Saisonstarts",
     "https://m.bild.de/sport/fussball/fc-bayern-nach-aerger-ueber-eberl-arijon-ibrahimovic-wechselt-zum-fc-augsburg-6a9557cfd88567044d84b3a5": "Er war eigentlich fest eingeplant : Bayern-Profi wechselt zu Bundesliga-Konkurrent!",
     "https://m.bild.de/sport/fussball/fc-bayern-nach-zusammenbruechen-faellt-superstar-jamal-musiala-weiter-aus-6a95463fec27d32fb526a728": "Nach Zusammenbrüchen : Fällt Bayern-Star Musiala weiter aus?",
@@ -14,7 +14,10 @@
     "https://m.bild.de/sport/fussball/fc-bayern-harry-kane-verraet-nach-dem-5-1-gegen-stuttgart-details-zum-vertrags-poker-6a927256d88567044d848d0d": "Nach Bayerns Auftakt-Gala : Kane verrät Details zum Vertrags-Poker!",
     "https://m.bild.de/sport/fussball/fc-bayern-lennart-karl-packt-nach-comeback-gegen-stuttgart-ueber-seine-leidenszeit-aus-6a92871527cdbc5135d069fc": "Nach Bayern-Comeback : Karl packt über Leidenszeit aus!"
   },
-  "SPORT1 Bayern": {},
+  "SPORT1 Bayern": {
+    "https://www.sport1.de/team/fc-bayern-muenchen/opta_156": "1  FC Bayern München 1 1-0-0 5:1 +4 3 S",
+    "https://www.sport1.de/team/fc-bayern-muenchen/opta_156/transfers": "FC Bayern München Transfers "
+  },
   "tz Bayern": {
     "https://www.tz.de/sport/fc-bayern/bundesliga-bayern-transferticker-wechselt-sacha-boey-innerhalb-der-94465962.html": "Bayern-Transferticker: FCB-Flop vor Wechsel innerhalb der Bundesliga?",
     "https://www.tz.de/sport/fc-bayern/giulia-gwinn-feiert-traum-comeback-doch-bayern-fans-jubeln-nicht-nur-ihr-zu-94468833.html": "Giulia Gwinn feiert Traum-Comeback – doch Bayern-Fans jubeln nicht nur ihr zu",

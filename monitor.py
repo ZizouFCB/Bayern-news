@@ -1,8 +1,7 @@
 import json
 import os
 from pathlib import Path
-from urllib.parse import urljoin,
-urlparse
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -115,11 +114,13 @@ def get_articles(html, site):
 
         # SZ Bayern
         elif name == "SZ Bayern":
-            path = urlparse(url).path.lower()
+            path = 
+        urlparse(url).path.lower()
 
             if not (
                 path.startswith("/sport/")
-                or path.startswith("/bayern/")
+                or 
+                path.startswith("/bayern/")
             ):
                 continue
 

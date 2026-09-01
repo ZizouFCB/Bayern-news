@@ -1,8 +1,7 @@
 import json
-import hashlib
 import os
-import re
 from pathlib import Path
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -30,6 +29,46 @@ def get_page(url):
     return response.text
 
 
+def is_bayern_article(title, url):
+    text = (title + " " + url).lower()
+
+    keywords = [
+        "bayern",
+        "fc bayern",
+        "fcb",
+        "münchen",
+        "munich",
+        "kompany",
+        "eberl",
+        "kane",
+        "neuer",
+        "upamecano",
+        "kim min-jae",
+        "olise",
+        "musiala",
+        "gnabry",
+        "sane",
+        "sané",
+        "goretzka",
+        "kimmich",
+        "pavlovic",
+        "pavlović",
+        "davies",
+        "laimer",
+        "stanišić",
+        "stanišić",
+        "díaz",
+        "diaz",
+        "saibari",
+        "brown",
+        "tah",
+        "jackson",
+        "bischof"
+    ]
+
+    return any(keyword in text for keyword in keywords)
+
+
 def get_articles(html, site):
     soup = BeautifulSoup(html, "html.parser")
 
@@ -43,48 +82,67 @@ def get_articles(html, site):
         if len(title) < 25:
             continue
 
-        href = link.get("href", "")
+        href = link.get("href", "").strip()
 
-        if href.startswith("#"):
+        if not href or href.startswith("#"):
             continue
 
-        if href.startswith("/"):
-            from urllib.parse import urljoin
-            url = urljoin(site["url"], href)
-        else:
-            url = href
+        url = urljoin(site["url"], href)
 
-        # BILD: Bayern football articles
-        if site["name"] == "BILD Bayern":
+        name = site["name"]
+
+        # BILD Bayern
+        if name == "BILD Bayern":
             if "/sport/fussball/" not in url:
                 continue
+
             if "fc-bayern" not in url.lower():
                 continue
 
-        # SPORT1: articles mentioning Bayern in the title
-        # or articles specifically under the FC Bayern URL pattern
-        elif site["name"] == "SPORT1 Bayern":
-            if "/news/fussball/" not in url:
+        # BILD2 - general football page, but only Bayern-related articles
+        elif name == "BILD2":
+            if "/sport/fussball/" not in url:
                 continue
 
-            combined = (title + " " + url).lower()
-
-            if not any(word in combined for word in [
-                "bayern",
-                "fc-bayern",
-                "münchen",
-                "munich"
-            ]):
+            if not is_bayern_article(title, url):
                 continue
 
-        # TZ: entire FC Bayern section
-        elif site["name"] == "tz Bayern":
+        # SPORT1 Bayern
+        elif name == "SPORT1 Bayern":
+            if "/team/fc-bayern-muenchen/" not in url:
+                continue
+
+        # FC Bayern Official
+        elif name == "FC Bayern Official":
+            if "fcbayern.com" not in url:
+                continue
+
+        # Absolut Bayern
+        elif name == "Absolut Bayern":
+            if "/fc-bayern-muenchen/" not in url:
+                continue
+
+        # Sky Bayern
+        elif name == "Sky Bayern":
+            if "/fc-bayern-muenchen" not in url:
+                continue
+
+        # TZ Bayern
+        elif name == "tz Bayern":
             if "/sport/fc-bayern/" not in url:
                 continue
 
-        # Abendzeitung: Bayern sports section
-        elif site["name"] == "Abendzeitung Bayern":
+        # Abendzeitung Bayern
+        elif name == "Abendzeitung Bayern":
             if "/sport/fcbayern/" not in url:
+                continue
+
+        # SZ Bayern
+        elif name == "SZ Bayern":
+            if "sueddeutsche.de" not in url:
+                continue
+
+            if not is_bayern_article(title, url):
                 continue
 
         if url in seen:
@@ -106,7 +164,9 @@ def load_state():
 
     try:
         return json.loads(
-            Path(STATE_FILE).read_text(encoding="utf-8")
+            Path(STATE_FILE).read_text(
+                encoding="utf-8"
+            )
         )
     except Exception:
         return {}
@@ -141,7 +201,10 @@ def send_telegram(message):
 
 def main():
 
-    with open(WEBSITES_FILE, encoding="utf-8") as file:
+    with open(
+        WEBSITES_FILE,
+        encoding="utf-8"
+    ) as file:
         websites = json.load(file)
 
     state = load_state()
@@ -165,14 +228,20 @@ def main():
                 site
             )
 
-            print("Articles found:", len(articles))
+            print(
+                "Articles found:",
+                len(articles)
+            )
 
             current_articles = {
                 article["url"]: article["title"]
                 for article in articles
             }
 
-            old_articles = state.get(name, {})
+            old_articles = state.get(
+                name,
+                {}
+            )
 
             if not old_articles:
 
@@ -186,17 +255,21 @@ def main():
             for article_url, title in current_articles.items():
 
                 if article_url not in old_articles:
+
                     new_articles.append({
                         "title": title,
                         "url": article_url
                     })
 
-            print("New articles:", len(new_articles))
+            print(
+                "New articles:",
+                len(new_articles)
+            )
 
             for article in reversed(new_articles):
 
                 message = (
-                    f"🆕 NEW BAYERN ARTICLE\n\n"
+                    "🆕 NEW BAYERN ARTICLE\n\n"
                     f"{name}\n\n"
                     f"{article['title']}\n\n"
                     f"{article['url']}"

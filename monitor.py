@@ -115,7 +115,8 @@ def get_articles(html, site):
 
         # SPORT1 Bayern
 elif name == "SPORT1 Bayern":
-    pass
+    if "sport1.de" not in url:
+        continue
                 
 
         # FC Bayern Official

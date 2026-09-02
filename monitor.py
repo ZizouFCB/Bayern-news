@@ -19,6 +19,10 @@ def get_page(url):
         )
     }
 
+    if "fcbayern.com" in url:
+        headers["Accept-Language"] = "de-DE,de;q=0.9"
+        headers["Referer"] = "https://www.google.com/"
+
     response = requests.get(
         url,
         headers=headers,

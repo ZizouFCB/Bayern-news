@@ -22,7 +22,7 @@ def get_page(url):
     response = requests.get(
         url,
         headers=headers,
-        timeout=30
+        timeout=60
     )
 
     response.raise_for_status()

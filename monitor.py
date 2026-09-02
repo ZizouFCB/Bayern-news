@@ -80,30 +80,19 @@ def is_bayern_article(title, url):
 
 def get_articles(html, site):
 
-    if site["name"] == "FC Bayern Official":
-        articles = []
-        seen = set()
+        if site["name"] == "FC Bayern Official":
+        print("FC BAYERN NEWS LINKS FOUND:")
 
-        pattern = r'\[([^\]]+)\]\((https://fcbayern\.com/de/news/[^)]+)\)'
+        matches = re.findall(
+            r'https?://fcbayern\.com/[^\s)]+',
+            html
+        )
 
-        for match in re.finditer(pattern, html):
-            title = match.group(1).strip()
-            url = match.group(2).strip()
+        for link in matches:
+            if "/de/news/" in link:
+                print(link)
 
-            if len(title) < 10:
-                continue
-
-            if url in seen:
-                continue
-
-            seen.add(url)
-
-            articles.append({
-                "title": title,
-                "url": url
-            })
-
-        return articles
+        return []
     soup = BeautifulSoup(html, "html.parser")
 
     articles = []

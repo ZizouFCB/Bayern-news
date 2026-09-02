@@ -23,8 +23,13 @@ def get_page(url):
         headers["Accept-Language"] = "de-DE,de;q=0.9"
         headers["Referer"] = "https://www.google.com/"
 
+    request_url = url
+
+    if "fcbayern.com" in url:
+        request_url = f"https://r.jina.ai/{url}"
+
     response = requests.get(
-        url,
+        request_url,
         headers=headers,
         timeout=60
     )

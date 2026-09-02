@@ -122,6 +122,10 @@ def get_articles(html, site):
         elif name == "SPORT1 Bayern":
             pass
 
+        # SPORT2
+        elif name == "SPORT2":
+            pass
+
         # TZ Bayern
         elif name == "tz Bayern":
             if "/sport/fc-bayern/" not in url:

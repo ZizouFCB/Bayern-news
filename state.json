@@ -155,7 +155,8 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "VfL Osnabrück gegen FC Bayern jetzt live: Kompany wechselt fast komplette Defensive aus – Neuer auf der Bank",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "VfL Osnabrück gegen FC Bayern jetzt live: Bayern geht durch Doppelschlag in Führung",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/esther-sedlaczek-witzelt-ueber-fitness-von-bastian-schweinsteiger-94472421.html": "Zu langsam? ARD-Moderatorin Sedlaczek verteilt fiese Spitze gegen Schweinsteiger",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-trainer-kompany-setzt-auf-48-stunden-regel-94472409.html": "Die geheime 48‑Stunden-Regel – das verbietet Kompany den Bayern-Stars",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-trainer-kompany-gesteht-fehler-bei-der-torwart-rotation-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/giulia-gwinn-feiert-perfektes-comeback-beim-fc-bayern-94472215.html": "Giulia Gwinn zelebriert ihr sensationelles Comeback",
@@ -190,7 +191,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/jetzt-abstimmen-soll-der-fc-bayern-ibrahimovic-noch-abgeben-94467676.html": "Jetzt abstimmen: Ist der Ibrahimovic-Abgang die richtige Entscheidung des FC Bayern?",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/lothar-matthaeus-verteilt-wegen-musiala-drama-sonderlob-an-den-fc-bayern-94467412.html": "Lothar Matthäus verteilt wegen Musiala-Drama Sonderlob an den FC Bayern",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-talent-binders-erfolgsgeschicht-mit-deja-vu-94466856.html": "FC Bayern glaubt trotz nächstem Rückschlag an Talent",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/saibari-schickt-kampfansage-an-bayern-kollegen-brown-94466475.html": "Saibari schickt Kampfansage an Bayern-Kollegen Brown",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {
@@ -255,13 +255,13 @@
   },
   "FC Bayern Official": {},
   "SPORT2": {
-    "https://www.sport1.de/daten/fussball/dfb-pokal/live-ticker/opta_2638524/ticker": "LIVE: Bayern schlägt eindrucksvoll zurück",
+    "https://www.sport1.de/daten/fussball/dfb-pokal/live-ticker/opta_2638524/ticker": "LIVE: Premieren-Treffer für Bischof",
     "https://www.sport1.de/news/fussball/frauen-champions-league/2026/09/champions-league-quali-der-frauen-heute-live-im-tv-stream-und-ticker-frankfurt-und-wolfsburg-kaempfen-um-cl-ticket": "LIVE: Deutscher Elfer-Thriller!",
-    "https://www.sport1.de/tv-video/video/sie-hat-ihn-getroffen-disqualifikation-bei-us-open-gefordert__512E9077-23D7-4E7E-9DE1-28981FF875F9": " 02:48 Disqualifikation gefordert: \"Sie hat ihn getroffen\"",
+    "https://www.sport1.de/tv-video/video/atubolu-mit-bemerkenswerten-worten-uber-seinen-ex-klub__EBBFF8BF-7C6A-489D-BC9C-5906A968D146": " 01:57 Atubolus bemerkenswerte Worte über Freiburg",
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/war-uns-irgendwann-zu-teuer-eberl-enthuellt-transferdetails-des-fc-bayern": " Gordon \"war uns irgendwann zu teuer\"",
     "https://www.sport1.de/news/transfermarkt/2026/09/fall-nick-woltemade-zeigt-die-brutalitaet-der-premier-league": " KOMMENTAR Es zeigt sich die Perversität der Premier League",
-    "https://www.sport1.de/tv-video/video/atubolu-mit-bemerkenswerten-worten-uber-seinen-ex-klub__EBBFF8BF-7C6A-489D-BC9C-5906A968D146": " 01:57 Atubolus bemerkenswerte Worte über Freiburg",
     "https://www.sport1.de/news/internationaler-fussball/premier-league/2026/09/mega-zoff-nach-geplatztem-chelsea-transfer": " Transfers gescheitert: Berater platzt der Kragen",
+    "https://www.sport1.de/tv-video/video/sie-hat-ihn-getroffen-disqualifikation-bei-us-open-gefordert__512E9077-23D7-4E7E-9DE1-28981FF875F9": " 02:48 Disqualifikation gefordert: \"Sie hat ihn getroffen\"",
     "https://www.sport1.de/news/transfermarkt/2026/09/fc-barcelona-transfers-174-mio-invest-70-mio-defizit": "Die Transferbilanz des FC Barcelona",
     "https://www.sport1.de/news/transfermarkt/2026/09/bvb-legende-woltemade-erinnert-an-den-jungen-ibrahimovic": "\"Woltemade erinnert an den jungen Ibrahimovic\"",
     "https://www.sport1.de/news/transfermarkt/2026/09/top-talent-wechselt-unter-traenen": "Bittere Tränen! Er wollte einfach nicht wechseln",

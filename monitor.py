@@ -122,6 +122,13 @@ def get_articles(html, site):
         if url in seen:
             continue
 
+        # T-Online Bayern
+        elif name == "T-Online Bayern":
+            path = urlparse(url).path.lower()
+
+            if "/sport/fussball/bundesliga/fc-bayern-muenchen/" not in path:
+                continue
+
         seen.add(url)
 
         articles.append({

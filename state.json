@@ -37,7 +37,9 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
-    "https://www.tz.de/sport/fc-bayern/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "VfL Osnabrück gegen FC Bayern jetzt live: Kane macht vom Punkt alles klar",
+    "https://www.tz.de/sport/fc-bayern/fc-bayern-dreht-rueckstand-im-dfb-pokal-wilder-ritt-in-runde-zwei-94472461.html": "FC Bayern dreht Rückstand: Wilder Ritt in Runde zwei",
+    "https://www.tz.de/sport/fc-bayern/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "FC Bayern löst Pflichtaufgabe gegen Osnabrück nach frühem Schock souverän",
+    "https://www.tz.de/sport/fc-bayern/bayern-einzelkritik-gegen-osnabrueck-kane-und-olise-liefern-defensiv-stars-fallen-ab-94472450.html": "Bayern-Einzelkritik: Kane und Olise liefern – Defensiv-Stars fallen ab",
     "https://www.tz.de/sport/fc-bayern/schweinsteiger-konfrontiert-bayern-boss-eberl-mit-musiala-verdacht-94472441.html": "Schweinsteiger konfrontiert Bayern-Boss Eberl mit brisantem Musiala-Verdacht",
     "https://www.tz.de/sport/fc-bayern/bayern-trainer-kompany-setzt-auf-48-stunden-regel-94472409.html": "Die geheime 48‑Stunden-Regel – das verbietet Kompany den Bayern-Stars",
     "https://www.tz.de/sport/fc-bayern/bayern-trainer-kompany-gesteht-fehler-bei-der-torwart-rotation-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
@@ -72,9 +74,7 @@
     "https://www.tz.de/sport/fc-bayern/lothar-matthaeus-verteilt-wegen-musiala-drama-sonderlob-an-den-fc-bayern-94467412.html": "Lothar Matthäus verteilt wegen Musiala-Drama Sonderlob an den FC Bayern",
     "https://www.tz.de/sport/fc-bayern/bayern-talent-binders-erfolgsgeschicht-mit-deja-vu-94466856.html": "FC Bayern glaubt trotz nächstem Rückschlag an Talent",
     "https://www.tz.de/sport/fc-bayern/saibari-schickt-kampfansage-an-bayern-kollegen-brown-94466475.html": "Saibari schickt Kampfansage an Bayern-Kollegen Brown",
-    "https://www.tz.de/sport/fc-bayern/daran-hakt-die-vertragsverlaengerung-von-bayern-star-kane-94466432.html": "Daran hakt die Vertragsverlängerung von Bayern-Star Kane",
-    "https://www.tz.de/sport/fc-bayern/vfl-osnabrueck-gegen-fc-bayern-live-im-tv-und-stream-hier-laeuft-der-dfb-pokal-94466408.html": "VfL Osnabrück gegen FC Bayern heute live im TV und Stream: Hier läuft der DFB-Pokal",
-    "https://www.tz.de/sport/fc-bayern/bayern-evolution-es-geht-darum-die-grenzen-zu-verschieben-94466296.html": "Taktische Evolution beim FC Bayern? „Es geht darum, die Grenzen zu verschieben“"
+    "https://www.tz.de/sport/fc-bayern/daran-hakt-die-vertragsverlaengerung-von-bayern-star-kane-94466432.html": "Daran hakt die Vertragsverlängerung von Bayern-Star Kane"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -267,11 +267,11 @@
     "https://www.sport1.de/news/transfermarkt/2026/09/bvb-legende-woltemade-erinnert-an-den-jungen-ibrahimovic": "\"Woltemade erinnert an den jungen Ibrahimovic\"",
     "https://www.sport1.de/news/transfermarkt/2026/09/top-talent-wechselt-unter-traenen": "Bittere Tränen! Er wollte einfach nicht wechseln",
     "https://www.sport1.de/news/transfermarkt/2026/09/mudryk-findet-neuen-klub": "Chelsea-Angreifer mit Erfolgstrainer vereint",
-    "https://www.sport1.de/news/tennis/grand-slams/2026/09/klatsche-in-der-ersten-runde-jodar-scheitert-an-lucky-loser": "Klatsche in der ersten Runde: Jódar scheitert an „Lucky Loser“",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/paula-badosa-offenbart-habe-nur-vier-stunden-geschlafen": "\"Ich habe es furchtbar gefunden\"",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/naechste-nachtschicht-fuer-zverev-auf-arthur-ashe": "Nächste Nachtschicht! Dann spielt Zverev wieder",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/us-open-er-darf-nicht-aufgeben-kuriose-szenen-um-tennis-ruepel-moutet": "Kuriose Szenen um Tennis-Rüpel",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/us-open-ein-ausrufezeichen-mit-dem-keiner-mehr-rechnete": "Ein riesiges Ausrufezeichen",
+    "https://www.sport1.de/news/tennis/grand-slams/2026/09/us-open-heute-live-im-tv-stream-ticker-mit-tennis-stars-alcaraz-und-sabalenka": "Neben Altmaier auch Alcaraz im Einsatz",
     "https://www.sport1.de/channel/online-casino": "Online-Casino und Spielotheken",
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   }

@@ -38,6 +38,8 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen",
+    "https://www.tz.de/sport/fc-bayern/bayern-bosse-redeten-kompany-wohl-weiteren-transfer-aus-94472021.html": "Bayern-Bosse redeten Kompany wohl weiteren Transfer aus",
     "https://www.tz.de/sport/fc-bayern/ismael-saibari-spricht-emotional-ueber-tragisches-schicksal-von-freund-94471842.html": "Bayern-Neuzugang spricht emotional über tragisches Schicksal von Freund",
     "https://www.tz.de/sport/fc-bayern/ich-wollte-uli-hoeness-verpruegeln-ex-bayern-star-packt-ueber-kabinen-eklat-aus-94471637.html": "„Ich wollte Uli Hoeneß verprügeln“: Ex-Bayern-Star packt über Kabinen-Eklat aus",
     "https://www.tz.de/sport/fc-bayern/wenn-david-gegen-goliath-gewinnt-bayerns-historische-blamagen-im-dfb-pokal-94471496.html": "Wenn David gegen Goliath gewinnt: Bayerns historische Blamagen im DFB-Pokal",
@@ -73,9 +75,7 @@
     "https://www.tz.de/sport/fc-bayern/fc-bayern-klopp-besucht-training-und-trifft-musiala-94466325.html": "Klopp besucht Bayern-Training – und trifft auf Musiala",
     "https://www.tz.de/sport/fc-bayern/ex-bayern-star-mathys-tel-nach-tottenham-fehlstart-hart-kritisiert-94466177.html": "„Absolut unterirdisch“: Ex-Bayern-Star nach Fehlstart hart kritisiert",
     "https://www.tz.de/sport/fc-bayern/effenberg-fordert-fc-bayern-bei-kane-olise-und-diaz-zum-handeln-auf-94466109.html": "Effenberg warnt FC Bayern eindringlich wegen Kane, Olise und Diaz",
-    "https://www.tz.de/sport/fc-bayern/bayern-ikone-thomas-mueller-feiert-gala-auftritt-fuer-die-whitecaps-94465997.html": "Auf Meisterkurs? Thomas Müller legt den nächsten Gala-Auftritt hin",
-    "https://www.tz.de/sport/fc-bayern/morgenluft-transferticker-im-poker-star-palhinha-chavez-leihe-94449116.html": "Bayern-Transferticker: FCB findet Abnehmer für Bryan Zaragoza",
-    "https://www.tz.de/sport/fc-bayern/ex-bayern-flirt-wohl-offen-fuer-ueberraschende-bundesliga-rueckkehr-94465868.html": "Nick Woltemade wohl offen für überraschende Bundesliga-Rückkehr"
+    "https://www.tz.de/sport/fc-bayern/bayern-ikone-thomas-mueller-feiert-gala-auftritt-fuer-die-whitecaps-94465997.html": "Auf Meisterkurs? Thomas Müller legt den nächsten Gala-Auftritt hin"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -156,6 +156,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-bosse-redeten-kompany-wohl-weiteren-transfer-aus-94472021.html": "Bayern-Bosse redeten Kompany wohl weiteren Transfer aus",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ismael-saibari-spricht-emotional-ueber-tragisches-schicksal-von-freund-94471842.html": "Bayern-Neuzugang spricht emotional über tragisches Schicksal von Freund",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ich-wollte-uli-hoeness-verpruegeln-ex-bayern-star-packt-ueber-kabinen-eklat-aus-94471637.html": "„Ich wollte Uli Hoeneß verprügeln“: Ex-Bayern-Star packt über Kabinen-Eklat aus",
@@ -191,7 +192,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/daran-hakt-die-vertragsverlaengerung-von-bayern-star-kane-94466432.html": "Daran hakt die Vertragsverlängerung von Bayern-Star Kane",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/vfl-osnabrueck-gegen-fc-bayern-live-im-tv-und-stream-hier-laeuft-der-dfb-pokal-94466408.html": "VfL Osnabrück gegen FC Bayern heute live im TV und Stream: Hier läuft der DFB-Pokal",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-evolution-es-geht-darum-die-grenzen-zu-verschieben-94466296.html": "Taktische Evolution beim FC Bayern? „Es geht darum, die Grenzen zu verschieben“",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-klopp-besucht-training-und-trifft-musiala-94466325.html": "Klopp besucht Bayern-Training – und trifft auf Musiala",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {

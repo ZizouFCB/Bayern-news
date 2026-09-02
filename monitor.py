@@ -35,10 +35,6 @@ def get_page(url):
         timeout=60
     )
 
-    if "fcbayern.com" in url:
-        print("FC BAYERN RESPONSE PREVIEW:")
-        print(response.text[:5000])
-
     response.raise_for_status()
     return response.text
 
@@ -88,11 +84,14 @@ def get_articles(html, site):
         articles = []
         seen = set()
 
-        pattern = r'\[([^\]]{25,})\]\((https://fcbayern\.com/de/news/[^)]+)\)'
+        pattern = r'\[([^\]]+)\]\((https://fcbayern\.com/de/news/[^)]+)\)'
 
         for match in re.finditer(pattern, html):
             title = match.group(1).strip()
             url = match.group(2).strip()
+
+            if len(title) < 10:
+                continue
 
             if url in seen:
                 continue

@@ -36,6 +36,7 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/bayern-trainer-kompany-gesteht-fehler-bei-der-torwart-rotation-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
     "https://www.tz.de/sport/fc-bayern/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "VfL Osnabrück gegen FC Bayern: Kompany kündigt Torwart-Rotation an",
     "https://www.tz.de/sport/fc-bayern/giulia-gwinn-feiert-perfektes-comeback-beim-fc-bayern-94472215.html": "Giulia Gwinn zelebriert ihr sensationelles Comeback",
     "https://www.tz.de/sport/fc-bayern/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen",
@@ -55,7 +56,6 @@
     "https://www.tz.de/sport/fc-bayern/osnabrueck-macht-sich-ueber-titel-kakadu-des-fc-bayern-lustig-94469832.html": "„Ohren zu, Kakadu“: Osnabrück macht sich über FC Bayern lustig",
     "https://www.tz.de/sport/fc-bayern/bayern-boss-bestaetigt-offensiv-juwel-cardozo-faellt-monatelang-aus-94469493.html": "Bayern-Boss bestätigt: Offensiv-Juwel muss operiert werden und fällt monatelang aus",
     "https://www.tz.de/sport/fc-bayern/mysterioese-beschwerden-ex-bayern-star-de-ligt-kaemfpt-seit-fast-einem-jahr-um-comeback-94469654.html": "Was macht eigentlich de Ligt? Ex-Bayern-Star seit fast einem Jahr außer Gefecht",
-    "https://www.tz.de/sport/fc-bayern/bayern-trainer-kompany-gesteht-fehler-bei-der-torwart-rotation-94469570.html": "Bayern-Aufstellung heute gegen Osnabrück: Musiala-Entscheidung endgültig gefallen",
     "https://www.tz.de/sport/fc-bayern/giulia-gwinn-feiert-traum-comeback-doch-bayern-fans-jubeln-nicht-nur-ihr-zu-94468833.html": "Giulia Gwinn feiert Traum-Comeback – doch Bayern-Fans jubeln nicht nur ihr zu",
     "https://www.tz.de/sport/fc-bayern/blutiges-comeback-training-von-bayern-juwel-binder-94467952.html": "Blutiges Comeback-Training von Bayern-Juwel Binder",
     "https://www.tz.de/sport/fc-bayern/darum-ist-kim-ploetzlich-beim-fc-bayern-als-stammspieler-gesetzt-94468146.html": "Vom Backup zum Stammspieler? Darum ist Kim plötzlich beim FC Bayern gesetzt",
@@ -154,7 +154,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-trainer-kompany-gesteht-fehler-bei-der-torwart-rotation-94469570.html": "Bayern-Aufstellung heute gegen Osnabrück: Musiala-Entscheidung endgültig gefallen",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-trainer-kompany-gesteht-fehler-bei-der-torwart-rotation-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "VfL Osnabrück gegen FC Bayern: Kompany kündigt Torwart-Rotation an",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/giulia-gwinn-feiert-perfektes-comeback-beim-fc-bayern-94472215.html": "Giulia Gwinn zelebriert ihr sensationelles Comeback",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen",
@@ -256,7 +256,7 @@
   "SPORT2": {
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/frank-baumann-die-zeit-der-one-man-show-ist-vorbei": " EXKLUSIV \"Als ich herkam, war man kurz vor der dritten Liga\"",
     "https://www.sport1.de/tv-video/video/sie-hat-ihn-getroffen-disqualifikation-bei-us-open-gefordert__512E9077-23D7-4E7E-9DE1-28981FF875F9": " 02:48 Disqualifikation gefordert: \"Sie hat ihn getroffen\"",
-    "https://www.sport1.de/news/tennis/grand-slams/2026/09/us-open-ein-ausrufezeichen-mit-dem-keiner-mehr-rechnete": " Ein riesiges Ausrufezeichen, mit dem keiner mehr rechnete",
+    "https://www.sport1.de/news/tennis/grand-slams/2026/09/us-open-ein-ausrufezeichen-mit-dem-keiner-mehr-rechnete": " Ein riesiges Ausrufezeichen",
     "https://www.sport1.de/news/transfermarkt/2026/09/fall-nick-woltemade-zeigt-die-brutalitaet-der-premier-league": " KOMMENTAR Es zeigt sich die Perversität der Premier League",
     "https://www.sport1.de/news/fussball/frauen-champions-league/2026/09/champions-league-quali-der-frauen-heute-live-im-tv-stream-und-ticker-frankfurt-und-wolfsburg-kaempfen-um-cl-ticket": "LIVE: Bittere Minuten für deutsche Teams",
     "https://www.sport1.de/tv-video/video/neuzugang-verrat-er-lockte-mich-zu-borussia-dortmund__1F820D7B-001D-43F1-AF97-A0F64AB2AC60": " 00:30 \"Er hat mich ermutigt, hierherzukommen\"",

@@ -80,7 +80,7 @@ def is_bayern_article(title, url):
 
 def get_articles(html, site):
 
-        if site["name"] == "FC Bayern Official":
+    if site["name"] == "FC Bayern Official":
         print("FC BAYERN NEWS LINKS FOUND:")
 
         matches = re.findall(
@@ -93,6 +93,7 @@ def get_articles(html, site):
                 print(link)
 
         return []
+        
     soup = BeautifulSoup(html, "html.parser")
 
     articles = []

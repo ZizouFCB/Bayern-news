@@ -81,12 +81,9 @@ def is_bayern_article(title, url):
 def get_articles(html, site):
 
     if site["name"] == "FC Bayern Official":
-        print("FC BAYERN NEWS LINES:")
-
-        for line in html.splitlines():
-            if "/de/news/" in line:
-                print(line[:500])
-
+        print("FC BAYERN RESPONSE START:")
+        print(html[:10000])
+        print("FC BAYERN RESPONSE END:")
         return []
         
     soup = BeautifulSoup(html, "html.parser")

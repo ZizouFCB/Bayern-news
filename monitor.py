@@ -35,6 +35,10 @@ def get_page(url):
         timeout=60
     )
 
+    if "fcbayern.com" in url:
+        print("FC BAYERN RESPONSE PREVIEW:")
+        print(response.text[:5000])
+
     response.raise_for_status()
     return response.text
 

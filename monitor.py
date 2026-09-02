@@ -82,7 +82,7 @@ def get_articles(html, site):
 
     if site["name"] == "FC Bayern Official":
         print("FC BAYERN RESPONSE START:")
-        print(html[10000:20000])
+        print(html[5000:10000])
         print("FC BAYERN RESPONSE END:")
         return []
         

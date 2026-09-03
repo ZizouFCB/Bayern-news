@@ -21,7 +21,7 @@
     "https://www.sport1.de/tv-video/video/deshalb-wird-urbig-unter-klopp-nicht-die-nummer-1__27eaa976-b1fb-4b4a-9bcf-ee4811867316": " 01:30 Deshalb wird Urbig unter Klopp nicht die Nummer 1",
     "https://www.sport1.de/tv-video/video/so-steht-es-um-die-vertragsverlangerung-von-christoph-freund__64e80429-2300-47fc-9cdb-5f05170dec7d": " 01:22 So steht es um die Vertragsverlängerung von Christoph Freund",
     "https://www.sport1.de/tv-video/video/mehr-einsatze-dieses-ziel-hat-sich-urbig-gesetzt__e188f6af-3f9f-4f4b-9d9e-09680f7d2bb7": " 01:03 Mehr Einsätze? Dieses Ziel hat sich Urbig gesetzt",
-    "https://www.sport1.de/tv-video/video/haben-sie-die-schrage-choreo-des-bayern-gegners-gesehen__0d3ed6f9-b2d3-47bb-9936-24e207828711": " 01:09 Haben Sie die schräge Choreo des Bayern-Gegners gesehen?",
+    "https://www.sport1.de/tv-video/video/schalke-fans-sind-heiss-ziehen-den-bayern-die-lederhosen-aus__286808a7-6b24-43c0-83f9-f815fa3bd4a7": " 02:08 Schalke-Fans sind heiß: \"Ziehen den Bayern die Lederhosen aus\"",
     "https://www.sport1.de/team/fc-bayern-muenchen/opta_156": "1  FC Bayern München 1 1-0-0 5:1 +4 3 S",
     "https://www.sport1.de/team/sport-club-freiburg/opta_160": "2  Sport-Club Freiburg 1 1-0-0 4:1 +3 3 S",
     "https://www.sport1.de/team/rb-leipzig/opta_6339": "3  RB Leipzig 1 1-0-0 3:0 +3 3 S",
@@ -153,6 +153,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/manuel-neuer-begruesst-sein-zweites-kind-auf-der-welt-94474303.html": "Manuel und Anika Neuer sind wieder Eltern geworden",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-in-der-runde-des-dfb-pokals-auslosung-gegner-termine-94474229.html": "FC Bayern in der 2. Runde des DFB-Pokals: Auslosung, Gegner, Termine",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/tor-in-osnabrueck-tom-bischof-bewirbt-sich-fuer-bayern-startelf-94473720.html": "Tom Bischof bewirbt sich für Bayern-Startelf",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/tuerkischer-klub-schnappt-sich-ex-bayern-flirt-fuer-rekordsumme-94473714.html": "Türkischer Klub schnappt sich Ex-Bayern-Flirt und stellt Transferrekord auf",
@@ -183,12 +184,11 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ismael-saibari-spricht-emotional-ueber-tragisches-schicksal-von-freund-94471842.html": "Bayern-Neuzugang spricht emotional über tragisches Schicksal von Freund",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ich-wollte-uli-hoeness-verpruegeln-ex-bayern-star-packt-ueber-kabinen-eklat-aus-94471637.html": "„Ich wollte Uli Hoeneß verprügeln“: Ex-Bayern-Star packt über Kabinen-Eklat aus",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/wenn-david-gegen-goliath-gewinnt-bayerns-historische-blamagen-im-dfb-pokal-94471496.html": "Wenn David gegen Goliath gewinnt: Bayerns historische Blamagen im DFB-Pokal",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/debuet-bayern-pechvogel-palhinha-glaenzt-bei-benfica-94471251.html": "Palhinha glänzt bei Benfica-Debüt – doch sein Trainer kritisiert ihn öffentlich",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/benfica-debuet-bayern-pechvogel-palhinha-glaenzt-bei-94471251.html": "Palhinha glänzt bei Benfica-Debüt – doch sein Trainer kritisiert ihn öffentlich",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/darts-weltmeister-littler-mischt-sich-in-kane-transfer-debatte-ein-94471047.html": "Darts-Weltmeister Littler mischt sich erneut in Kane-Transfer-Debatte ein",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/psg-auf-ex-bayern-profi-renato-sanches-loest-vertrag-bei-94470985.html": "Ex-Bayern-Star löst Vertrag auf und ist plötzlich vereinslos",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/wechsel-innerhalb-der-bundesliga-fc-bayern-transferticker-am-deadline-day-boey-vor-94465962.html": "FC Bayern am Deadline Day: Abgang von FCB-Juwel fix",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/boey-transfer-wohl-geplatzt-bleibt-verteidiger-beim-fc-bayern-94470680.html": "Transfer geplatzt – bleibt der FC Bayern auf Sacha Boey sitzen?",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-flop-vor-ueberraschendem-last-minute-abgang-nach-england-94470514.html": "Bayern-Flop vor überraschendem Last-Minute-Abgang nach England?",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {

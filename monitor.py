@@ -93,23 +93,19 @@ def get_articles(html, site):
         return []
 
     if site["name"] == "Sky Bayern":
+        import re
+
         articles = []
         seen = set()
 
-        lines = html.splitlines()
+        pattern = r'\[([^\]]+)\]\((https://sport\.sky\.de/fussball/artikel/[^)]+)\)'
 
-        for i in range(len(lines) - 1):
-            title_line = lines[i].strip()
-            url_line = lines[i + 1].strip()
+        for match in re.finditer(pattern, html, re.DOTALL):
+            title = match.group(1).strip()
+            url = match.group(2).strip()
 
-            if not title_line.startswith("#") or "[" not in title_line:
+            if len(title) < 20:
                 continue
-
-            if "](https://sport.sky.de/fussball/artikel/" not in url_line:
-                continue
-
-            title = title_line.split("[", 1)[1].split("]", 1)[0]
-            url = url_line.strip("()")
 
             if url in seen:
                 continue

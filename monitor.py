@@ -110,12 +110,12 @@ def get_articles(html, site):
 
         name = site["name"]
 
-            # BILD Bayern
-            if name == "BILD Bayern":
-                if "/sport/fussball/" not in url:
-                    continue
-                if "fc-bayern" not in url.lower() and "bayern-muenchen" not in url.lower():
-                    continue
+        # BILD Bayern
+        if name == "BILD Bayern":
+            if "/sport/fussball/" not in url:
+                continue
+            if "fc-bayern" not in url.lower() and "bayern-muenchen" not in url.lower():
+                continue
 
         # SPORT1 Bayern
         elif name == "SPORT1 Bayern":

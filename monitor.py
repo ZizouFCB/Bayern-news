@@ -94,7 +94,7 @@ def get_articles(html, site):
 
     if site["name"] == "Sky Bayern":
         print("SKY RESPONSE START:")
-        print(html[:10000])
+        print(html[10000:20000])
         print("SKY RESPONSE END:")
         return []
         

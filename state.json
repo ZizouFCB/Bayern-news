@@ -35,6 +35,9 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/fc-bayern-in-der-runde-des-dfb-pokals-auslosung-gegner-termine-94474229.html": "FC Bayern in der 2. Runde des DFB-Pokals: Auslosung, Gegner, Termine",
+    "https://www.tz.de/sport/fc-bayern/tor-in-osnabrueck-tom-bischof-bewirbt-sich-fuer-bayern-startelf-94473720.html": "Tom Bischof bewirbt sich für Bayern-Startelf",
+    "https://www.tz.de/sport/fc-bayern/tuerkischer-klub-schnappt-sich-ex-bayern-flirt-fuer-rekordsumme-94473714.html": "Türkischer Klub schnappt sich Ex-Bayern-Flirt und stellt Transferrekord auf",
     "https://www.tz.de/sport/fc-bayern/gnabry-arbeitet-sich-zurueck-hoffnung-auf-baldige-rueckkehr-94473463.html": "Gnabry arbeitet sich zurück: Kompany macht Hoffnung auf baldige Rückkehr",
     "https://www.tz.de/sport/fc-bayern/harry-kane-knackt-mueller-tor-rekord-in-osnabrueck-94473329.html": "Harry Kane knackt Müller-Rekord",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-neue-staerke-als-trumpf-in-allen-wettbewerben-94473232.html": "FC Bayern: Neue Stärke als Trumpf in allen Wettbewerben",
@@ -69,10 +72,7 @@
     "https://www.tz.de/sport/fc-bayern/bayern-boss-freund-sorgt-am-deadline-day-fuer-transfer-klarheit-94469688.html": "Bayern-Boss sorgt am Deadline-Day für Transfer-Klarheit",
     "https://www.tz.de/sport/fc-bayern/vincent-kompany-macht-bayern-fans-hoffnung-auf-comeback-von-jamal-musiala-94470007.html": "Kompany macht Bayern-Fans Hoffnung auf Musiala-Comeback",
     "https://www.tz.de/sport/fc-bayern/osnabrueck-macht-sich-ueber-titel-kakadu-des-fc-bayern-lustig-94469832.html": "„Ohren zu, Kakadu“: Osnabrück macht sich über FC Bayern lustig",
-    "https://www.tz.de/sport/fc-bayern/bayern-boss-bestaetigt-offensiv-juwel-cardozo-faellt-monatelang-aus-94469493.html": "Bayern-Boss bestätigt: Offensiv-Juwel muss operiert werden und fällt monatelang aus",
-    "https://www.tz.de/sport/fc-bayern/mysterioese-beschwerden-ex-bayern-star-de-ligt-kaemfpt-seit-fast-einem-jahr-um-comeback-94469654.html": "Was macht eigentlich de Ligt? Ex-Bayern-Star seit fast einem Jahr außer Gefecht",
-    "https://www.tz.de/sport/fc-bayern/giulia-gwinn-feiert-traum-comeback-doch-bayern-fans-jubeln-nicht-nur-ihr-zu-94468833.html": "Giulia Gwinn feiert Traum-Comeback – doch Bayern-Fans jubeln nicht nur ihr zu",
-    "https://www.tz.de/sport/fc-bayern/blutiges-comeback-training-von-bayern-juwel-binder-94467952.html": "Blutiges Comeback-Training von Bayern-Juwel Binder"
+    "https://www.tz.de/sport/fc-bayern/bayern-boss-bestaetigt-offensiv-juwel-cardozo-faellt-monatelang-aus-94469493.html": "Bayern-Boss bestätigt: Offensiv-Juwel muss operiert werden und fällt monatelang aus"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -153,6 +153,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-in-der-runde-des-dfb-pokals-auslosung-gegner-termine-94474229.html": "FC Bayern in der 2. Runde des DFB-Pokals: Auslosung, Gegner, Termine",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/tor-in-osnabrueck-tom-bischof-bewirbt-sich-fuer-bayern-startelf-94473720.html": "Tom Bischof bewirbt sich für Bayern-Startelf",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/tuerkischer-klub-schnappt-sich-ex-bayern-flirt-fuer-rekordsumme-94473714.html": "Türkischer Klub schnappt sich Ex-Bayern-Flirt und stellt Transferrekord auf",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/gnabry-arbeitet-sich-zurueck-hoffnung-auf-baldige-rueckkehr-94473463.html": "Gnabry arbeitet sich zurück: Kompany macht Hoffnung auf baldige Rückkehr",
@@ -188,7 +189,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/wechsel-innerhalb-der-bundesliga-fc-bayern-transferticker-am-deadline-day-boey-vor-94465962.html": "FC Bayern am Deadline Day: Abgang von FCB-Juwel fix",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/boey-transfer-wohl-geplatzt-bleibt-verteidiger-beim-fc-bayern-94470680.html": "Transfer geplatzt – bleibt der FC Bayern auf Sacha Boey sitzen?",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-flop-vor-ueberraschendem-last-minute-abgang-nach-england-94470514.html": "Bayern-Flop vor überraschendem Last-Minute-Abgang nach England?",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-trainer-kompany-spricht-offen-ueber-gespraech-mit-bundestrainer-klopp-94470454.html": "Bayern-Trainer Kompany verrät Details über Gespräch mit Bundestrainer Klopp",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {

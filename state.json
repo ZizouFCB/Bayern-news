@@ -152,6 +152,8 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-ikone-thomas-mueller-wendet-mit-vancouver-whitecaps-pokal-pleite-ab-94472920.html": "Thomas Müller wendet in ungewohnter Rolle Pokal-Pleite ab",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-boss-eberl-gibt-vielsagendes-update-zum-musiala-comeback-94472837.html": "Comeback erst bei „Anfallsarmut“?: Eberl gibt vielsagendes Musiala-Update",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ex-bayern-star-guerreiro-nach-abschied-noch-ohne-neuen-verein-94472836.html": "Ex-Bayern-Star nach Abgang im Sommer noch ohne neuen Verein",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-sedlaczek-und-schweinsteiger-verwirren-kompany-live-im-tv-94472712.html": "Schweinsteiger und Sedlaczek bringen Kompany mit Kane-Frage aus dem Konzept",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-in-osnabrueck-torwart-jonas-urbig-imitiert-neuer-interview-94472594.html": "Traumtor oder Torwartfehler? Urbig imitiert legendäres Neuer-Interview",
@@ -186,8 +188,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/giulia-gwinn-feiert-traum-comeback-doch-bayern-fans-jubeln-nicht-nur-ihr-zu-94468833.html": "Giulia Gwinn feiert Traum-Comeback – doch Bayern-Fans jubeln nicht nur ihr zu",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/die-traenen-wm-2014-uli-hoeness-kamen-bei-schweinsteiger-worten-94468929.html": "Schweinsteiger-Aktion brachte Uli Hoeneß im Gefängnis zum Weinen",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/blutiges-comeback-training-von-bayern-juwel-binder-94467952.html": "Blutiges Comeback-Training von Bayern-Juwel Binder",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/darum-ist-kim-ploetzlich-beim-fc-bayern-als-stammspieler-gesetzt-94468146.html": "Vom Backup zum Stammspieler? Darum ist Kim plötzlich beim FC Bayern gesetzt",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/zwischen-bayern-rekord-und-wehmut-neuer-vor-rueckkehr-nach-schalke-94468522.html": "Zwischen Bayern-Rekord und Wehmut: Neuer vor Rückkehr nach Schalke",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {
@@ -254,10 +254,10 @@
   "SPORT2": {
     "https://www.sport1.de/tv-video/video/arger-im-pokal-bayern-tor-hatte-nicht-zahlen-durfen__91836AF3-C610-4F8A-98CE-FF7332CAD093": " 00:38 Ärger im Pokal! Bayern-Tor hätte nicht zählen dürfen",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/us-open-jan-lennard-struff-und-das-zerwuerfnis-mit-seiner-ex-trainerin": " Er wurde \"ausgequetscht wie eine Zitrone\"",
-    "https://www.sport1.de/tv-video/video/ihr-seid-ein-witz-tennis-ass-geht-reporter-heftig-an__BBEA5440-1394-4F30-8B81-FAE5386D294C": " 01:15 Diese Frage passt ihr gar nicht! Wilder Zoff mit Reporter",
     "https://www.sport1.de/news/internationaler-fussball/sueper-lig/2026/09/leroy-sane-soll-sich-ueber-bankrolle-bei-galatasaray-beschwert-haben": "Sané soll sich beschwert haben",
-    "https://www.sport1.de/news/internationaler-fussball/serie-a/2026/09/nick-woltemade-nennt-zlatan-ibrahimovic-als-vorbild": " Woltemade nennt Ibrahimovic als Vorbild",
     "https://www.sport1.de/tv-video/video/dfb-pokal-vfl-osnabruck-fc-bayern-munchen-tore-highlights-im-video__3A70E071-5A51-4BCF-A313-250D4C89A8FA": " 05:34 Dieses Wahnsinns-Tor ließ Bayerns Gegner kurz träumen",
+    "https://www.sport1.de/news/internationaler-fussball/serie-a/2026/09/nick-woltemade-nennt-zlatan-ibrahimovic-als-vorbild": " Woltemade nennt Ibrahimovic als Vorbild",
+    "https://www.sport1.de/tv-video/video/ihr-seid-ein-witz-tennis-ass-geht-reporter-heftig-an__BBEA5440-1394-4F30-8B81-FAE5386D294C": " 01:15 Diese Frage passt ihr gar nicht! Wilder Zoff mit Reporter",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/unmoeglicher-spielplan-alcaraz-kuendigt-laengere-pausen-an": "Alcaraz kündigt \"einige längere Pausen\" an",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/us-open-ueberraschendes-aus-fuer-nakashima": "Überraschendes Aus bei US Open",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/ihr-seid-ein-witz-sabalenka-schimpft-ueber-party-fragen": "\"Ihr seid echt ein Witz\": Ärger um Sabalenka",

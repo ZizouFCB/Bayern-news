@@ -34,6 +34,7 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/ex-bayern-star-guerreiro-nach-abschied-noch-ohne-neuen-verein-94472836.html": "Ex-Bayern-Star nach Abgang im Sommer noch ohne neuen Verein",
     "https://www.tz.de/sport/fc-bayern/dfb-pokal-in-osnabrueck-torwart-jonas-urbig-imitiert-neuer-interview-94472594.html": "Traumtor oder Torwartfehler? Urbig imitiert legendäres Neuer-Interview",
     "https://www.tz.de/sport/fc-bayern/dfb-pokal-achterbahn-choreo-des-vfl-osnabrueck-gegen-fc-bayern-94472508.html": "„Achterbahn“-Choreo bringt selbst Bayern-Fans zum Beben",
     "https://www.tz.de/sport/fc-bayern/bayern-star-michael-olise-erzielt-irregulaeres-tor-im-dfb-pokal-94472468.html": "Olise trifft im DFB‑Pokal – doch das Tor hätte nicht zählen dürfen",
@@ -70,8 +71,7 @@
     "https://www.tz.de/sport/fc-bayern/keine-chance-unter-kompany-ibrahimovic-sucht-sein-glueck-in-augsburg-94468153.html": "Keine Chance unter Kompany: Ibrahimovic sucht sein Glück beim Bundesliga-Konkurrenten",
     "https://www.tz.de/sport/fc-bayern/dieser-abwehr-star-koennte-den-fc-bayern-noch-im-sommer-verlassen-94468132.html": "Last-Minute-Abgang? Abwehr-Ass könnte den FC Bayern noch verlassen",
     "https://www.tz.de/sport/fc-bayern/besondere-ueberraschung-hat-bayern-neuzugang-saibari-kalt-erwischt-94467878.html": "Besondere Überraschung hat Bayern-Neuzugang kalt erwischt",
-    "https://www.tz.de/sport/fc-bayern/jetzt-abstimmen-soll-der-fc-bayern-ibrahimovic-noch-abgeben-94467676.html": "Jetzt abstimmen: Ist der Ibrahimovic-Abgang die richtige Entscheidung des FC Bayern?",
-    "https://www.tz.de/sport/fc-bayern/lothar-matthaeus-verteilt-wegen-musiala-drama-sonderlob-an-den-fc-bayern-94467412.html": "Lothar Matthäus verteilt wegen Musiala-Drama Sonderlob an den FC Bayern"
+    "https://www.tz.de/sport/fc-bayern/jetzt-abstimmen-soll-der-fc-bayern-ibrahimovic-noch-abgeben-94467676.html": "Jetzt abstimmen: Ist der Ibrahimovic-Abgang die richtige Entscheidung des FC Bayern?"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -152,6 +152,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ex-bayern-star-guerreiro-nach-abschied-noch-ohne-neuen-verein-94472836.html": "Ex-Bayern-Star nach Abgang im Sommer noch ohne neuen Verein",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-sedlaczek-und-schweinsteiger-verwirren-kompany-live-im-tv-94472712.html": "Schweinsteiger und Sedlaczek bringen Kompany mit Kane-Frage aus dem Konzept",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-in-osnabrueck-torwart-jonas-urbig-imitiert-neuer-interview-94472594.html": "Traumtor oder Torwartfehler? Urbig imitiert legendäres Neuer-Interview",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-achterbahn-choreo-des-vfl-osnabrueck-gegen-fc-bayern-94472508.html": "„Achterbahn“-Choreo bringt selbst Bayern-Fans zum Beben",
@@ -187,7 +188,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/blutiges-comeback-training-von-bayern-juwel-binder-94467952.html": "Blutiges Comeback-Training von Bayern-Juwel Binder",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/darum-ist-kim-ploetzlich-beim-fc-bayern-als-stammspieler-gesetzt-94468146.html": "Vom Backup zum Stammspieler? Darum ist Kim plötzlich beim FC Bayern gesetzt",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/zwischen-bayern-rekord-und-wehmut-neuer-vor-rueckkehr-nach-schalke-94468522.html": "Zwischen Bayern-Rekord und Wehmut: Neuer vor Rückkehr nach Schalke",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/steht-musiala-gegen-osnabrueck-ploetzlich-doch-im-bayern-kader-94468440.html": "Steht Musiala im Pokalspiel gegen Osnabrück überraschend doch im Bayern-Kader?",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {

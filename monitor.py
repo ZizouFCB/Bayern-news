@@ -93,27 +93,29 @@ def get_articles(html, site):
         return []
 
     if site["name"] == "Sky Bayern":
-        soup = BeautifulSoup(html, "html.parser")
-
         articles = []
         seen = set()
 
-        for link in soup.find_all("a", href=True):
-            title = link.get_text(" ", strip=True)
-            href = link.get("href", "").strip()
+        lines = html.splitlines()
 
-            if len(title) < 20:
+        for i in range(len(lines) - 1):
+            title_line = lines[i].strip()
+            url_line = lines[i + 1].strip()
+
+            if not title_line.startswith("#") or "[" not in title_line:
                 continue
 
-            if "/fussball/artikel/" not in href:
+            if "](https://sport.sky.de/fussball/artikel/" not in url_line:
                 continue
 
-            url = urljoin(site["url"], href)
+            title = title_line.split("[", 1)[1].split("]", 1)[0]
+            url = url_line.strip("()")
 
             if url in seen:
                 continue
 
             seen.add(url)
+
             articles.append({
                 "title": title,
                 "url": url

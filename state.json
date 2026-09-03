@@ -35,6 +35,7 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/bayer-legende-thomas-mueller-philosophiert-ueber-plaene-nach-karriereende-94474385.html": "Trainer-Dasein nach Karriereende? Thomas Müller lässt aufhorchen",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-in-der-runde-des-dfb-pokals-auslosung-gegner-termine-94474229.html": "FC Bayern in der 2. Runde des DFB-Pokals: Auslosung, Gegner, Termine",
     "https://www.tz.de/sport/fc-bayern/tor-in-osnabrueck-tom-bischof-bewirbt-sich-fuer-bayern-startelf-94473720.html": "Tom Bischof bewirbt sich für Bayern-Startelf",
     "https://www.tz.de/sport/fc-bayern/tuerkischer-klub-schnappt-sich-ex-bayern-flirt-fuer-rekordsumme-94473714.html": "Türkischer Klub schnappt sich Ex-Bayern-Flirt und stellt Transferrekord auf",
@@ -44,7 +45,7 @@
     "https://www.tz.de/sport/fc-bayern/fc-schalke-04-gegen-fc-bayern-live-im-tv-und-stream-hier-laeuft-die-bundesliga-94473192.html": "FC Schalke 04 gegen FC Bayern live im TV und Stream: Hier läuft die Bundesliga",
     "https://www.tz.de/sport/fc-bayern/vater-von-ex-bayern-star-tritt-aus-gesundheitlichen-gruenden-zurueck-94473184.html": "Vater von Ex-Bayern-Star tritt aus gesundheitlichen Gründen als Trainer zurück",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-und-harry-kane-bringen-vertragsverhandkungen-ins-rollen-94473079.html": "Kane und Bayern wollen Vertrag verlängern – doch ein Detail sorgt für Spannung",
-    "https://www.tz.de/sport/fc-bayern/bayern-ikone-thomas-mueller-wendet-mit-vancouver-whitecaps-pokal-pleite-ab-94472920.html": "Thomas Müller wendet in ungewohnter Rolle Pokal-Pleite ab",
+    "https://www.tz.de/sport/fc-bayern/ab-bayern-ikone-thomas-mueller-wendet-mit-vancouver-whitecaps-pokal-pleite-94472920.html": "Thomas Müller wendet in ungewohnter Rolle Pokal-Pleite ab",
     "https://www.tz.de/sport/fc-bayern/bayern-boss-eberl-gibt-vielsagendes-update-zum-musiala-comeback-94472837.html": "Comeback erst bei „Anfallsarmut“?: Eberl gibt vielsagendes Musiala-Update",
     "https://www.tz.de/sport/fc-bayern/ex-bayern-star-guerreiro-nach-abschied-noch-ohne-neuen-verein-94472836.html": "Ex-Bayern-Star nach Abgang im Sommer noch ohne neuen Verein",
     "https://www.tz.de/sport/fc-bayern/dfb-pokal-in-osnabrueck-torwart-jonas-urbig-imitiert-neuer-interview-94472594.html": "Traumtor oder Torwartfehler? Urbig imitiert legendäres Neuer-Interview",
@@ -53,16 +54,16 @@
     "https://www.tz.de/sport/fc-bayern/fc-bayern-dreht-rueckstand-im-dfb-pokal-wilder-ritt-in-runde-zwei-94472461.html": "FC Bayern dreht Rückstand: Wilder Ritt in Runde zwei",
     "https://www.tz.de/sport/fc-bayern/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "FC Bayern löst Pflichtaufgabe gegen Osnabrück nach frühem Schock souverän",
     "https://www.tz.de/sport/fc-bayern/ab-bayern-einzelkritik-gegen-osnabrueck-kane-und-olise-liefern-defensiv-stars-fallen-94472450.html": "Bayern-Einzelkritik: Kane und Olise liefern – Defensiv-Stars fallen ab",
-    "https://www.tz.de/sport/fc-bayern/schweinsteiger-konfrontiert-bayern-boss-eberl-mit-musiala-verdacht-94472441.html": "Schweinsteiger konfrontiert Bayern-Boss Eberl mit brisantem Musiala-Verdacht",
+    "https://www.tz.de/sport/fc-bayern/verdacht-schweinsteiger-konfrontiert-bayern-boss-eberl-mit-musiala-94472441.html": "Schweinsteiger konfrontiert Bayern-Boss Eberl mit brisantem Musiala-Verdacht",
     "https://www.tz.de/sport/fc-bayern/bayern-trainer-kompany-setzt-auf-48-stunden-regel-94472409.html": "Die geheime 48‑Stunden-Regel – das verbietet Kompany den Bayern-Stars",
-    "https://www.tz.de/sport/fc-bayern/rotation-bayern-trainer-kompany-gesteht-fehler-bei-der-torwart-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
+    "https://www.tz.de/sport/fc-bayern/torwart-rotation-bayern-trainer-kompany-gesteht-fehler-bei-der-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
     "https://www.tz.de/sport/fc-bayern/giulia-gwinn-feiert-perfektes-comeback-beim-fc-bayern-94472215.html": "Giulia Gwinn zelebriert ihr sensationelles Comeback",
     "https://www.tz.de/sport/fc-bayern/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen",
     "https://www.tz.de/sport/fc-bayern/bayern-bosse-redeten-kompany-wohl-weiteren-transfer-aus-94472021.html": "Bayern-Bosse redeten Kompany wohl weiteren Transfer aus",
     "https://www.tz.de/sport/fc-bayern/ismael-saibari-spricht-emotional-ueber-tragisches-schicksal-von-freund-94471842.html": "Bayern-Neuzugang spricht emotional über tragisches Schicksal von Freund",
     "https://www.tz.de/sport/fc-bayern/ich-wollte-uli-hoeness-verpruegeln-ex-bayern-star-packt-ueber-kabinen-eklat-aus-94471637.html": "„Ich wollte Uli Hoeneß verprügeln“: Ex-Bayern-Star packt über Kabinen-Eklat aus",
     "https://www.tz.de/sport/fc-bayern/wenn-david-gegen-goliath-gewinnt-bayerns-historische-blamagen-im-dfb-pokal-94471496.html": "Wenn David gegen Goliath gewinnt: Bayerns historische Blamagen im DFB-Pokal",
-    "https://www.tz.de/sport/fc-bayern/debuet-bayern-pechvogel-palhinha-glaenzt-bei-benfica-94471251.html": "Palhinha glänzt bei Benfica-Debüt – doch sein Trainer kritisiert ihn öffentlich",
+    "https://www.tz.de/sport/fc-bayern/benfica-debuet-bayern-pechvogel-palhinha-glaenzt-bei-94471251.html": "Palhinha glänzt bei Benfica-Debüt – doch sein Trainer kritisiert ihn öffentlich",
     "https://www.tz.de/sport/fc-bayern/darts-weltmeister-littler-mischt-sich-in-kane-transfer-debatte-ein-94471047.html": "Darts-Weltmeister Littler mischt sich erneut in Kane-Transfer-Debatte ein",
     "https://www.tz.de/sport/fc-bayern/psg-auf-ex-bayern-profi-renato-sanches-loest-vertrag-bei-94470985.html": "Ex-Bayern-Star löst Vertrag auf und ist plötzlich vereinslos",
     "https://www.tz.de/sport/fc-bayern/wechsel-innerhalb-der-bundesliga-fc-bayern-transferticker-am-deadline-day-boey-vor-94465962.html": "FC Bayern am Deadline Day: Abgang von FCB-Juwel fix",
@@ -71,8 +72,7 @@
     "https://www.tz.de/sport/fc-bayern/bayern-trainer-kompany-spricht-offen-ueber-gespraech-mit-bundestrainer-klopp-94470454.html": "Bayern-Trainer Kompany verrät Details über Gespräch mit Bundestrainer Klopp",
     "https://www.tz.de/sport/fc-bayern/bayern-boss-freund-sorgt-am-deadline-day-fuer-transfer-klarheit-94469688.html": "Bayern-Boss sorgt am Deadline-Day für Transfer-Klarheit",
     "https://www.tz.de/sport/fc-bayern/vincent-kompany-macht-bayern-fans-hoffnung-auf-comeback-von-jamal-musiala-94470007.html": "Kompany macht Bayern-Fans Hoffnung auf Musiala-Comeback",
-    "https://www.tz.de/sport/fc-bayern/osnabrueck-macht-sich-ueber-titel-kakadu-des-fc-bayern-lustig-94469832.html": "„Ohren zu, Kakadu“: Osnabrück macht sich über FC Bayern lustig",
-    "https://www.tz.de/sport/fc-bayern/bayern-boss-bestaetigt-offensiv-juwel-cardozo-faellt-monatelang-aus-94469493.html": "Bayern-Boss bestätigt: Offensiv-Juwel muss operiert werden und fällt monatelang aus"
+    "https://www.tz.de/sport/fc-bayern/osnabrueck-macht-sich-ueber-titel-kakadu-des-fc-bayern-lustig-94469832.html": "„Ohren zu, Kakadu“: Osnabrück macht sich über FC Bayern lustig"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -153,6 +153,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayer-legende-thomas-mueller-philosophiert-ueber-plaene-nach-karriereende-94474385.html": "Trainer-Dasein nach Karriereende? Thomas Müller lässt aufhorchen",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/manuel-neuer-begruesst-sein-zweites-kind-auf-der-welt-94474303.html": "Manuel und Anika Neuer sind wieder Eltern geworden",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-in-der-runde-des-dfb-pokals-auslosung-gegner-termine-94474229.html": "FC Bayern in der 2. Runde des DFB-Pokals: Auslosung, Gegner, Termine",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/tor-in-osnabrueck-tom-bischof-bewirbt-sich-fuer-bayern-startelf-94473720.html": "Tom Bischof bewirbt sich für Bayern-Startelf",
@@ -188,7 +189,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/darts-weltmeister-littler-mischt-sich-in-kane-transfer-debatte-ein-94471047.html": "Darts-Weltmeister Littler mischt sich erneut in Kane-Transfer-Debatte ein",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/psg-auf-ex-bayern-profi-renato-sanches-loest-vertrag-bei-94470985.html": "Ex-Bayern-Star löst Vertrag auf und ist plötzlich vereinslos",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/wechsel-innerhalb-der-bundesliga-fc-bayern-transferticker-am-deadline-day-boey-vor-94465962.html": "FC Bayern am Deadline Day: Abgang von FCB-Juwel fix",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/boey-transfer-wohl-geplatzt-bleibt-verteidiger-beim-fc-bayern-94470680.html": "Transfer geplatzt – bleibt der FC Bayern auf Sacha Boey sitzen?",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {

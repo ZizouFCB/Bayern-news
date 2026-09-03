@@ -23,7 +23,11 @@ def get_page(url):
     if "fcbayern.com" in url:
         headers["Accept-Language"] = "de-DE,de;q=0.9"
         headers["Referer"] = "https://www.google.com/"
-
+        
+    if "sport.sky.de" in url:
+        headers["Accept-Language"] = "de-DE,de;q=0.9"
+        headers["Referer"] = "https://www.google.com/"
+    
     request_url = url
 
     if "fcbayern.com" in url:

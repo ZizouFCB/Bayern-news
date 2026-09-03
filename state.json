@@ -36,6 +36,7 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/dfb-pokal-in-osnabrueck-torwart-jonas-urbig-imitiert-neuer-interview-94472594.html": "Traumtor oder Torwartfehler? Urbig imitiert legendäres Neuer-Interview",
     "https://www.tz.de/sport/fc-bayern/dfb-pokal-achterbahn-choreo-des-vfl-osnabrueck-gegen-fc-bayern-94472508.html": "„Achterbahn“-Choreo bringt selbst Bayern-Fans zum Beben",
     "https://www.tz.de/sport/fc-bayern/bayern-star-michael-olise-erzielt-irregulaeres-tor-im-dfb-pokal-94472468.html": "Olise trifft im DFB‑Pokal – doch das Tor hätte nicht zählen dürfen",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-dreht-rueckstand-im-dfb-pokal-wilder-ritt-in-runde-zwei-94472461.html": "FC Bayern dreht Rückstand: Wilder Ritt in Runde zwei",
@@ -72,8 +73,7 @@
     "https://www.tz.de/sport/fc-bayern/dieser-abwehr-star-koennte-den-fc-bayern-noch-im-sommer-verlassen-94468132.html": "Last-Minute-Abgang? Abwehr-Ass könnte den FC Bayern noch verlassen",
     "https://www.tz.de/sport/fc-bayern/besondere-ueberraschung-hat-bayern-neuzugang-saibari-kalt-erwischt-94467878.html": "Besondere Überraschung hat Bayern-Neuzugang kalt erwischt",
     "https://www.tz.de/sport/fc-bayern/jetzt-abstimmen-soll-der-fc-bayern-ibrahimovic-noch-abgeben-94467676.html": "Jetzt abstimmen: Ist der Ibrahimovic-Abgang die richtige Entscheidung des FC Bayern?",
-    "https://www.tz.de/sport/fc-bayern/lothar-matthaeus-verteilt-wegen-musiala-drama-sonderlob-an-den-fc-bayern-94467412.html": "Lothar Matthäus verteilt wegen Musiala-Drama Sonderlob an den FC Bayern",
-    "https://www.tz.de/sport/fc-bayern/bayern-talent-binders-erfolgsgeschicht-mit-deja-vu-94466856.html": "FC Bayern glaubt trotz nächstem Rückschlag an Talent"
+    "https://www.tz.de/sport/fc-bayern/lothar-matthaeus-verteilt-wegen-musiala-drama-sonderlob-an-den-fc-bayern-94467412.html": "Lothar Matthäus verteilt wegen Musiala-Drama Sonderlob an den FC Bayern"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -154,6 +154,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-in-osnabrueck-torwart-jonas-urbig-imitiert-neuer-interview-94472594.html": "Traumtor oder Torwartfehler? Urbig imitiert legendäres Neuer-Interview",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-achterbahn-choreo-des-vfl-osnabrueck-gegen-fc-bayern-94472508.html": "„Achterbahn“-Choreo bringt selbst Bayern-Fans zum Beben",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-star-michael-olise-erzielt-irregulaeres-tor-im-dfb-pokal-94472468.html": "Olise trifft im DFB‑Pokal – doch das Tor hätte nicht zählen dürfen",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bastian-schweinsteiger-fungiert-als-losfee-fuer-runde-im-dfb-pokal-94471498.html": "Warum die 32 Pokal-Klubs jetzt alle auf Bastian Schweinsteiger schauen",
@@ -189,7 +190,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/zwischen-bayern-rekord-und-wehmut-neuer-vor-rueckkehr-nach-schalke-94468522.html": "Zwischen Bayern-Rekord und Wehmut: Neuer vor Rückkehr nach Schalke",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/steht-musiala-gegen-osnabrueck-ploetzlich-doch-im-bayern-kader-94468440.html": "Steht Musiala im Pokalspiel gegen Osnabrück überraschend doch im Bayern-Kader?",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/unfit-bayern-maschine-saibari-beeindruckt-mit-starken-werten-94468382.html": "Unfit? Bayern-Maschine Saibari beeindruckt mit starken Werten",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/keine-chance-unter-kompany-ibrahimovic-sucht-sein-glueck-in-augsburg-94468153.html": "Keine Chance unter Kompany: Ibrahimovic sucht sein Glück beim Bundesliga-Konkurrenten",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {
@@ -255,21 +255,21 @@
   "FC Bayern Official": {},
   "SPORT2": {
     "https://www.sport1.de/tv-video/video/dfb-pokal-vfl-osnabruck-fc-bayern-munchen-tore-highlights-im-video__3A70E071-5A51-4BCF-A313-250D4C89A8FA": " 05:34 Dieses Wahnsinns-Tor ließ Bayerns Gegner kurz träumen",
-    "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dfb-pokal-fc-bayern-vollendet-das-gab-es-seit-18-jahren-nicht": " Das gab es seit 18 Jahren nicht",
+    "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/fc-bayern-warum-olises-tor-in-der-bundesliga-nicht-gezaehlt-haette": " Olise-Tor hätte in der Bundesliga nicht gezählt",
     "https://www.sport1.de/tv-video/video/gesprach-mit-klopp-das-sagt-urbig__24364494-CC26-42A3-9146-7CE9E4BF0AA7": " 00:56 Gespräch mit Klopp? Das sagt Urbig",
-    "https://www.sport1.de/news/tennis/grand-slams/2026/09/mitfavorit-bei-us-open-raus-dieses-ergebnis-verwundert-auch-boris-becker": " Faustdicke US-Open-Überraschung!",
+    "https://www.sport1.de/news/tennis/grand-slams/2026/09/unmoeglicher-spielplan-deutliche-kritik-von-alcaraz": " Alcaraz kündigt \"einige längere Pausen\" an",
     "https://www.sport1.de/tv-video/video/diesen-ballwechsel-mussen-sie-gesehen-haben__78367539-BD15-4F06-B73D-A98FE522B446": " 01:18 Diesen Ballwechsel müssen Sie gesehen haben",
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/war-uns-irgendwann-zu-teuer-eberl-enthuellt-transferdetails-des-fc-bayern": " Schweinsteiger entlockt Eberl Transfer-Details",
-    "https://www.sport1.de/news/tennis/grand-slams/2026/09/unmoeglicher-spielplan-deutliche-kritik-von-alcaraz": " Alcaraz kündigt \"einige längere Pausen\" an",
+    "https://www.sport1.de/news/internationaler-fussball/sueper-lig/2026/09/leroy-sane-soll-sich-ueber-bankrolle-bei-galatasaray-beschwert-haben": "Sané soll sich beschwert haben",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/us-open-ueberraschendes-aus-fuer-nakashima": "Überraschendes Aus bei US Open",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/ihr-seid-ein-witz-sabalenka-schimpft-ueber-party-fragen": "\"Ihr seid echt ein Witz\": Ärger um Sabalenka",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/us-open-alcaraz-mueht-sich-nach-holperstart-weiter": "Nach Holperstart: Alcaraz müht sich weiter",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/ging-fast-zwei-tage-maria-nach-kraftakt-weiter": "Maria nach Kraftakt weiter",
     "https://www.sport1.de/news/tennis/grand-slams/2026/09/nach-angetaeuschter-aufgabe-tapferer-altmaier-ausgeschieden": "Altmaier verliert kurioses Match",
-    "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/fc-bayern-warum-olises-tor-in-der-bundesliga-nicht-gezaehlt-haette": "Olise-Tor hätte in der Bundesliga nicht gezählt",
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dfb-pokal-kane-schwaermt-vom-wundertor": "Kane schwärmt vom „Wundertor“",
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/so-sieht-es-in-der-bayern-kabine-nach-dem-spiel-aus": "So sieht es in der Bayern-Kabine nach dem Spiel aus",
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/wahnsinn-bayern-stars-staunen-ueber-gegentor": "Sein Treffer begeistert sogar Bayern",
+    "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dfb-pokal-fc-bayern-vollendet-das-gab-es-seit-18-jahren-nicht": "Das gab es seit 18 Jahren nicht",
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dann-wird-die-zweite-dfb-pokal-runde-ausgelost": "Dann wird die zweite DFB-Pokal-Runde ausgelost",
     "https://www.sport1.de/channel/online-casino": "Online-Casino und Spielotheken",
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"

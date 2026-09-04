@@ -152,7 +152,8 @@ def get_articles(html, site):
 
         # BILD FUSSBALL
         elif name == "BILD FUSSBALL":
-            pass
+            if "/sport/fussball/" not in url.lower():
+                continue
 
         # SPORT1 Bayern
         elif name == "SPORT1 Bayern":

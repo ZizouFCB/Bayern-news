@@ -153,7 +153,10 @@ def get_articles(html, site):
 
         # SPORT2
         elif name == "SPORT2":
-            pass
+            path = urlparse(url).path.lower()
+
+            if "/news/fussball/" not in path and "/tv-video/video/" not in path:
+                continue
 
         # TZ Bayern
         elif name == "tz Bayern":

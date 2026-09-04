@@ -17,11 +17,11 @@
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/ein-bisschen-wahnsinn-kompany-und-die-ki-wolke": "\"Wahnsinn\": Diese Reporter-Frage verblüfft Kompany",
     "https://www.sport1.de/news/fussball/champions-league/2026/09/bayern-liste-fuer-champions-league-darum-fehlt-lennart-karl": "Bayern-Liste für Champions League: Darum fehlt Karl",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/trauen-uns-das-zu-schalke-will-bayern-paroli-bieten": "Schalker Kampfansage an Bayern",
+    "https://www.sport1.de/tv-video/video/kommt-es-zur-kehrtwende-bei-boey__c09cdba2-2743-45b4-9134-6a27abdf03ff": " 00:46 Kommt es zur Kehrtwende bei Boey?",
     "https://www.sport1.de/tv-video/video/so-schlagt-die-musiala-medikation-bisher-an__c8adf401-88af-49c6-959a-c59eb4a33ca8": " 01:21 So schlägt die Musiala-Medikation bisher an",
     "https://www.sport1.de/tv-video/video/kompany-mit-sonderlob-fur-sport1-reporter__42251730-8b78-45c5-b4b2-98ed08c3b4a7": " 03:03 SPORT1-Reporter sorgt für Lachanfall bei Kompany",
     "https://www.sport1.de/tv-video/video/bayern-insider-diese-kane-idee-wird-in-munchen-diskutiert__80d28118-f388-4ccc-bc37-ce5fa0cd123a": " 01:25 Bayern-Insider: Diese Kane-Idee wird in München diskutiert",
     "https://www.sport1.de/tv-video/video/dieses-bayern-autogramm-ist-einmalig__c8ccdd65-57d1-438b-bbce-bd79dab9fbbf": " 00:35 Dieses Bayern-Autogramm ist einmalig!",
-    "https://www.sport1.de/tv-video/video/vorreiterrolle-der-bayern-campus-rechnet-sich-gleich-doppelt__e7db9e53-ecd0-4e2b-b5ff-c4cfcdadcedf": " 01:42 Vorreiterrolle: Der Bayern-Campus rechnet sich gleich doppelt",
     "https://www.sport1.de/team/fc-bayern-muenchen/opta_156": "1  FC Bayern München 1 1-0-0 5:1 +4 3 S",
     "https://www.sport1.de/team/sport-club-freiburg/opta_160": "2  Sport-Club Freiburg 1 1-0-0 4:1 +3 3 S",
     "https://www.sport1.de/team/rb-leipzig/opta_6339": "3  RB Leipzig 1 1-0-0 3:0 +3 3 S",
@@ -201,7 +201,8 @@
     "https://www.sueddeutsche.de/infoszurbarrierefreiheit": "Infos zur Barrierefreiheit"
   },
   "T-Online Bayern": {
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101417092/fc-bayern-ismael-saibari-ueber-freund-was-passiert-ist-tut-weh-.html": "Ex-Profi erlitt Herzstillstand Bayern-Stürmer emotional: \"Was ihm passiert ist, tut mir weh\"",
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101420408/transfer-wunsch-kompany-findet-es-ein-bisschen-wahnsinnig-.html": "Falschmeldung beim FC Bayern Transfer-Wunsch? Kompany findet es \"ein bisschen wahnsinnig\"",
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101417092/fc-bayern-ismael-saibari-ueber-freund-was-passiert-ist-tut-weh-.html": "Bayern-Stürmer emotional: \"Was ihm passiert ist, tut mir weh\"",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101417070/fc-bayern-muenchen-internetseite-vor-dfb-pokal-zusammengebrochen.html": "Internetseite des FC Bayern zusammengebrochen",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101415556/fc-bayern-ex-profi-thomas-helmer-wollte-uli-hoeness-verpruegeln-.html": "Ex-Bayern-Star offenbart: \"Ich wollte Hoeneß verprügeln\"",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101415172/bayern-flop-boey-vor-abschied-fulham-mischt-im-transfer-poker-mit.html": "Bayern-Flop zieht wohl Premier-League-Interesse auf sich",
@@ -249,8 +250,7 @@
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395404/fc-bayern-in-sorge-jamal-musiala-droht-wohl-nicht-das-karriere-ende.html": "Informationen aus dem Verein: So blickt der FC Bayern auf Musiala",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395038/sorgen-um-jamal-musiala-absencen-sind-eine-form-epileptischer-anfaelle.html": "Eine oftmals falsch eingeschätzte Krankheit",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395068/absencen-bei-jamal-musiala-er-koennte-dauerhafte-therapie-benoetigen.html": "Musiala könnte \"dauerhafte Therapie\" benötigen",
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395188/wegbegleiter-melden-sich-emotionale-reaktionen-auf-musialas-erkrankung.html": "Thomas Müller reagiert auf Jamal Musialas Erkrankung",
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101394864/nach-erneutem-zusammenbruch-musiala-gibt-erkrankung-bekannt.html": "Bayern-Star Musiala gibt Erkrankung bekannt"
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395188/wegbegleiter-melden-sich-emotionale-reaktionen-auf-musialas-erkrankung.html": "Thomas Müller reagiert auf Jamal Musialas Erkrankung"
   },
   "FC Bayern Official": {},
   "SPORT2": {

@@ -34,6 +34,8 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/boey-zukunft-beim-fc-bayern-weiterhin-ungeklaert-94476043.html": "Boey-Zukunft beim FC Bayern auch nach Transferfenster-Schluss noch ungeklärt",
+    "https://www.tz.de/sport/fc-bayern/lieber-paul-rummenigge-gratuliert-breitner-zum-75-geburtstags-94475926.html": "„Lieber Paul…“: Rummenigge gratuliert Breitner zum 75. Geburtstag",
     "https://www.tz.de/sport/fc-bayern/die-volle-breit-ner-seite-runder-geburtstag-einer-bayern-legende-94475915.html": "Die volle Breit(ner)-Seite: Runder Geburtstag einer Bayern-Legende",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-kompany-hat-keine-angst-vor-musiala-zusammenbruechen-94475634.html": "Kompany sorgt sich nicht vor erneuten Musiala-Zusammenbrüchen",
     "https://www.tz.de/sport/fc-bayern/dritter-transfer-geplant-bayern-trainer-kompany-reagiert-irritiert-94475467.html": "Dritter Top-Transfer geplant? Bayern-Trainer Kompany reagiert irritiert",
@@ -69,9 +71,7 @@
     "https://www.tz.de/sport/fc-bayern/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen",
     "https://www.tz.de/sport/fc-bayern/bayern-bosse-redeten-kompany-wohl-weiteren-transfer-aus-94472021.html": "Bayern-Bosse redeten Kompany wohl weiteren Transfer aus",
     "https://www.tz.de/sport/fc-bayern/ismael-saibari-spricht-emotional-ueber-tragisches-schicksal-von-freund-94471842.html": "Bayern-Neuzugang spricht emotional über tragisches Schicksal von Freund",
-    "https://www.tz.de/sport/fc-bayern/ich-wollte-uli-hoeness-verpruegeln-ex-bayern-star-packt-ueber-kabinen-eklat-aus-94471637.html": "„Ich wollte Uli Hoeneß verprügeln“: Ex-Bayern-Star packt über Kabinen-Eklat aus",
-    "https://www.tz.de/sport/fc-bayern/wenn-david-gegen-goliath-gewinnt-bayerns-historische-blamagen-im-dfb-pokal-94471496.html": "Wenn David gegen Goliath gewinnt: Bayerns historische Blamagen im DFB-Pokal",
-    "https://www.tz.de/sport/fc-bayern/bei-benfica-debuet-bayern-pechvogel-palhinha-glaenzt-94471251.html": "Palhinha glänzt bei Benfica-Debüt – doch sein Trainer kritisiert ihn öffentlich"
+    "https://www.tz.de/sport/fc-bayern/ich-wollte-uli-hoeness-verpruegeln-ex-bayern-star-packt-ueber-kabinen-eklat-aus-94471637.html": "„Ich wollte Uli Hoeneß verprügeln“: Ex-Bayern-Star packt über Kabinen-Eklat aus"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -152,6 +152,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/boey-zukunft-beim-fc-bayern-weiterhin-ungeklaert-94476043.html": "Boey-Zukunft beim FC Bayern auch nach Transferfenster-Schluss noch ungeklärt",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/lieber-paul-rummenigge-gratuliert-breitner-zum-75-geburtstags-94475926.html": "„Lieber Paul…“: Rummenigge gratuliert Breitner zum 75. Geburtstag",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/die-volle-breit-ner-seite-runder-geburtstag-einer-bayern-legende-94475915.html": "Die volle Breit(ner)-Seite: Runder Geburtstag einer Bayern-Legende",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-kompany-hat-keine-angst-vor-musiala-zusammenbruechen-94475634.html": "Kompany sorgt sich nicht vor erneuten Musiala-Zusammenbrüchen",
@@ -187,7 +188,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/musiala-verdacht-schweinsteiger-konfrontiert-bayern-boss-eberl-mit-94472441.html": "Schweinsteiger konfrontiert Bayern-Boss Eberl mit brisantem Musiala-Verdacht",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/esther-sedlaczek-witzelt-ueber-fitness-von-bastian-schweinsteiger-94472421.html": "Zu langsam? ARD-Moderatorin Sedlaczek verteilt fiese Spitze gegen Schweinsteiger",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-trainer-kompany-setzt-auf-48-stunden-regel-94472409.html": "Die geheime 48‑Stunden-Regel – das verbietet Kompany den Bayern-Stars",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/torwart-rotation-bayern-trainer-kompany-gesteht-fehler-bei-der-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {

@@ -35,6 +35,7 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/fc-bayern-kompany-hat-keine-angst-vor-musiala-zusammenbruechen-94475634.html": "Kompany sorgt sich nicht vor erneuten Musiala-Zusammenbrüchen",
     "https://www.tz.de/sport/fc-bayern/dritter-transfer-geplant-bayern-trainer-kompany-reagiert-irritiert-94475467.html": "Dritter Top-Transfer geplant? Bayern-Trainer Kompany reagiert irritiert",
     "https://www.tz.de/sport/fc-bayern/heftiges-lospech-fuer-die-fc-bayern-frauen-in-der-champions-league-94475300.html": "Heftiges Lospech für den FC Bayern in der Champions League",
     "https://www.tz.de/sport/fc-bayern/grosse-ueberraschung-in-liverpool-wegen-bayern-interesse-an-youngster-94475006.html": "Bayern-Interesse an Offensiv-Juwel hat FC Liverpool wohl kalt erwischt",
@@ -71,8 +72,7 @@
     "https://www.tz.de/sport/fc-bayern/ich-wollte-uli-hoeness-verpruegeln-ex-bayern-star-packt-ueber-kabinen-eklat-aus-94471637.html": "„Ich wollte Uli Hoeneß verprügeln“: Ex-Bayern-Star packt über Kabinen-Eklat aus",
     "https://www.tz.de/sport/fc-bayern/wenn-david-gegen-goliath-gewinnt-bayerns-historische-blamagen-im-dfb-pokal-94471496.html": "Wenn David gegen Goliath gewinnt: Bayerns historische Blamagen im DFB-Pokal",
     "https://www.tz.de/sport/fc-bayern/bei-benfica-debuet-bayern-pechvogel-palhinha-glaenzt-94471251.html": "Palhinha glänzt bei Benfica-Debüt – doch sein Trainer kritisiert ihn öffentlich",
-    "https://www.tz.de/sport/fc-bayern/darts-weltmeister-littler-mischt-sich-in-kane-transfer-debatte-ein-94471047.html": "Darts-Weltmeister Littler mischt sich erneut in Kane-Transfer-Debatte ein",
-    "https://www.tz.de/sport/fc-bayern/psg-auf-ex-bayern-profi-renato-sanches-loest-vertrag-bei-94470985.html": "Ex-Bayern-Star löst Vertrag auf und ist plötzlich vereinslos"
+    "https://www.tz.de/sport/fc-bayern/darts-weltmeister-littler-mischt-sich-in-kane-transfer-debatte-ein-94471047.html": "Darts-Weltmeister Littler mischt sich erneut in Kane-Transfer-Debatte ein"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -153,6 +153,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-kompany-hat-keine-angst-vor-musiala-zusammenbruechen-94475634.html": "Kompany sorgt sich nicht vor erneuten Musiala-Zusammenbrüchen",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dritter-transfer-geplant-bayern-trainer-kompany-reagiert-irritiert-94475467.html": "Dritter Top-Transfer geplant? Bayern-Trainer Kompany reagiert irritiert",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/heftiges-lospech-fuer-die-fc-bayern-frauen-in-der-champions-league-94475300.html": "Heftiges Lospech für den FC Bayern in der Champions League",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/grosse-ueberraschung-in-liverpool-wegen-bayern-interesse-an-youngster-94475006.html": "Bayern-Interesse an Offensiv-Juwel hat FC Liverpool wohl kalt erwischt",
@@ -188,7 +189,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/torwart-rotation-bayern-trainer-kompany-gesteht-fehler-bei-der-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/giulia-gwinn-feiert-perfektes-comeback-beim-fc-bayern-94472215.html": "Giulia Gwinn zelebriert ihr sensationelles Comeback",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-bosse-redeten-kompany-wohl-weiteren-transfer-aus-94472021.html": "Bayern-Bosse redeten Kompany wohl weiteren Transfer aus",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {

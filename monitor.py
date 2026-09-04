@@ -34,12 +34,12 @@ def get_page(url):
         request_url = f"https://r.jina.ai/{url}"
 
     if "sport.sky.de" in url:
-    headers["X-No-Cache"] = "true"
+        headers["X-No-Cache"] = "true"
 
     response = requests.get(
-    request_url,
-    headers=headers,
-    timeout=60
+        request_url,
+        headers=headers,
+        timeout=60
 )
 
     response.raise_for_status()

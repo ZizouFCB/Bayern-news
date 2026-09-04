@@ -150,6 +150,11 @@ def get_articles(html, site):
             if "fc-bayern" not in url.lower() and "bayern-muenchen" not in url.lower():
                 continue
 
+        # BILD FUSSBALL
+        elif name == "BILD FUSSBALL":
+            if "/sport/fussball/" not in url.lower():
+                continue
+
         # SPORT1 Bayern
         elif name == "SPORT1 Bayern":
             pass

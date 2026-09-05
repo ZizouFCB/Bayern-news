@@ -197,7 +197,7 @@
     "https://www.sueddeutsche.de/infoszurbarrierefreiheit": "Infos zur Barrierefreiheit"
   },
   "T-Online Bayern": {
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101422022/fc-bayern-in-der-einzelkritik-note-fuenf-fuer-drei-stars-gegen-schalke.html": "Meinung | Einzelkritik nach Schalke-Spiel Glücklos, schwach, vergessen: Note fünf für drei Bayern Ein Kommentar von David Digili",
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101422022/fc-bayern-in-der-einzelkritik-note-fuenf-fuer-drei-stars-gegen-schalke.html": "Meinung | Einzelkritik nach Schalke-Spiel Glücklos, schwach, unsichtbar: Note fünf für drei Bayern Ein Kommentar von David Digili",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421994/bundesliga-fc-bayern-laesst-punkte-gegen-schalke-liegen.html": "Ideenlose Bayern lassen zwei Punkte auf Schalke liegen",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421998/jamal-musiala-einwechslung-bayern-star-gibt-comeback-gegen-schalke.html": "Bayern-Star Musiala gibt Comeback",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421748/fc-bayern-aufstellung-gegen-schalke-kane-und-olise-auf-der-bank.html": "So startet der FC Bayern im Traditionsduell",
@@ -308,6 +308,7 @@
     "https://sport.sky.de/fussball/artikel/duell-der-deutschen-trainer-endet-mit-remis/13581765/34357": "Duell der deutschen Trainer endet mit Remis",
     "https://sport.sky.de/fussball/artikel/hamann-kritisiert-kleindienst-nach-gladbach-tor-scharf/13581974/34378": "Hamann tobt nach Kleindienst-Szene: \"Grobe Unsportlichkeit\"",
     "https://sport.sky.de/fussball/artikel/musiala-feiert-bayern-comeback-nationalspieler-kehrt-nach-18-tagen-zurueck/13582060/34943": "\"Kein großer Alarm mehr\": Musiala feiert Comeback",
+    "https://sport.sky.de/fussball/artikel/borussia-dortmund-hamann-adelt-fabio-silva-nach-hoffenheim-sieg-mit-real-madrid-vergleich/13582030/34943": "\"Sonst würde er bei Real Madrid spielen\"",
     "https://sport.sky.de/fussball/artikel/bayern-torhueter-manuel-neuer-bei-schalke-rueckkehr-mit-pfiffen-empfangen/13581873/34381": "Ungemütlicher Neuer-Empfang bei Schalke-Rückkehr",
     "https://sport.sky.de/fussball/artikel/bvb-verteidiger-filippo-mane-verletzt-sich-beim-spiel-gegen-die-tsg-hoffenheim/13581787/34372": "Nächste Verletzung! BVB-Abwehrsorgen werden größer",
     "https://sport.sky.de/fussball/artikel/msv-duisburg-bleibt-makellos-tabellenfuehrer-dreht-spiel-in-regensburg-saarbruecken-springt-auf-rang-zwei/13581784/34130": "MSV behauptet Tabellenführung || Saarbrücken springt auf Rang zwei",
@@ -325,7 +326,6 @@
     "https://sport.sky.de/fussball/artikel/juergen-klopp-begeistert-herbert-hainer-bayern-praesident-lobt-neuen-bundestrainer-fuer-deutschland-tour/13581349/34942": "\"So wünsche ich mir einen Bundestrainer\": FCB-Präsident lobt Klopp",
     "https://sport.sky.de/fussball/artikel/hat-book-seine-feuertaufe-bestanden-das-transferzeugnis-des-bvb/13580426/34943": "Hat Book die Feuertaufe bestanden? Das Transferzeugnis des BVB!",
     "https://sport.sky.de/fussball/artikel/huetter-zufrieden-trotz-kalimuendo-absage-frankfurt-setzt-auf-seinen-bestehenden-kader/13581281/34130": "Kader-Krise bei der SGE? Hütter trotz Deadline-Day-Flaute \"zufrieden\"",
-    "https://sport.sky.de/fussball/artikel/champions-league-der-frauen-bayern-trifft-auf-barcelona-real-madrid-und-mancity/13581247/33895": "CL-Hammerlose für FCB-Frauen! Barca, Real und City warten",
     "https://sport.sky.de/fussball/artikel/gesagt-gemeint-vom-04-09-26/13581425/34241": "Gesagt. Gemeint! vom 04.09.26"
   },
   "BILD FUSSBALL": {

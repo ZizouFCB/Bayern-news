@@ -33,6 +33,7 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/bayern-legende-david-alaba-vor-wechsel-nach-italien-94476675.html": "Vereinslose Bayern-Legende Alaba vor Wechsel nach Italien?",
     "https://www.tz.de/sport/fc-bayern/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke 04 gegen FC Bayern live: Kompany warnt eindringlich vor dem Aufsteiger",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-voraussichtliche-aufstellung-gegen-schalke-94476366.html": "Bayern-Aufstellung heute gegen Schalke: Kompany bekommt prominente Option zurück",
     "https://www.tz.de/sport/fc-bayern/boey-zukunft-beim-fc-bayern-weiterhin-ungeklaert-94476043.html": "Boey-Zukunft beim FC Bayern auch nach Transferfenster-Schluss noch ungeklärt",
@@ -69,8 +70,7 @@
     "https://www.tz.de/sport/fc-bayern/bayern-trainer-kompany-setzt-auf-48-stunden-regel-94472409.html": "Die geheime 48‑Stunden-Regel – das verbietet Kompany den Bayern-Stars",
     "https://www.tz.de/sport/fc-bayern/torwart-rotation-bayern-trainer-kompany-gesteht-fehler-bei-der-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
     "https://www.tz.de/sport/fc-bayern/giulia-gwinn-feiert-perfektes-comeback-beim-fc-bayern-94472215.html": "Giulia Gwinn zelebriert ihr sensationelles Comeback",
-    "https://www.tz.de/sport/fc-bayern/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen",
-    "https://www.tz.de/sport/fc-bayern/bayern-bosse-redeten-kompany-wohl-weiteren-transfer-aus-94472021.html": "Bayern-Bosse redeten Kompany wohl weiteren Transfer aus"
+    "https://www.tz.de/sport/fc-bayern/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -151,6 +151,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-legende-david-alaba-vor-wechsel-nach-italien-94476675.html": "Vereinslose Bayern-Legende Alaba vor Wechsel nach Italien?",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke 04 gegen FC Bayern live: Kompany warnt eindringlich vor dem Aufsteiger",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-voraussichtliche-aufstellung-gegen-schalke-94476366.html": "Bayern-Aufstellung heute gegen Schalke: Kompany bekommt prominente Option zurück",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/boey-zukunft-beim-fc-bayern-weiterhin-ungeklaert-94476043.html": "Boey-Zukunft beim FC Bayern auch nach Transferfenster-Schluss noch ungeklärt",
@@ -186,7 +187,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-dreht-rueckstand-im-dfb-pokal-wilder-ritt-in-runde-zwei-94472461.html": "FC Bayern dreht Rückstand: Wilder Ritt in Runde zwei",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "FC Bayern löst Pflichtaufgabe gegen Osnabrück nach frühem Schock souverän",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/stars-fallen-ab-bayern-einzelkritik-gegen-osnabrueck-kane-und-olise-liefern-defensiv-94472450.html": "Bayern-Einzelkritik: Kane und Olise liefern – Defensiv-Stars fallen ab",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/musiala-verdacht-schweinsteiger-konfrontiert-bayern-boss-eberl-mit-94472441.html": "Schweinsteiger konfrontiert Bayern-Boss Eberl mit brisantem Musiala-Verdacht",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {
@@ -301,13 +301,24 @@
     "https://sport.sky.de/fussball/artikel/tapetenwechsel-tut-ihm-gut-matthaeus-ueber-woltemade-wechsel/13580145/46256": "''Tapetenwechsel tut ihm gut'' - Matthäus über Woltemade-Wechsel",
     "https://sport.sky.de/fussball/artikel/manchester-city-darf-sich-auf-solche-buden-von-enzo-fernandez-freuen/13580003/34357": "Manchester City darf sich auf solche Buden von Enzo Fernandez freuen",
     "https://sport.sky.de/fussball/artikel/hamann-es-ist-der-wilde-westen-in-england/13579991/34357": "Hamann: ''Es ist der wilde Westen in England''",
+    "https://sport.sky.de/fussball/artikel/vfl-wolfsburg-verspielt-3-0-gegen-energie-cottbus-heimfluch-in-der-2-bundesliga-haelt-an/13581706/35311": "Denkwürdiges Acht-Tore-Spektakel in Wolfsburg",
+    "https://sport.sky.de/fussball/artikel/nuernbergs-serie-reisst-in-kiel-klose-team-verspielt-fuehrung-bleibt-aber-ungeschlagen/13581694/34942": "Trotz Remis: FCN mit bestem Saisonstart seit 26 Jahren",
+    "https://sport.sky.de/fussball/artikel/rose-verpasst-premier-league-premierensieg-bournemouth-gibt-2-0-in-newcastle-aus-der-hand/13581736/34130": "Jaissle gegen Rose! Kein Gewinner im deutschen Trainerduell",
     "https://sport.sky.de/fussball/artikel/harry-kane-vor-bundesliga-rekord-bayern-star-jagt-gegen-schalke-die-100-tore-marke/13581203/34130": "Bei Schalke-Premiere: Kane winkt historischer Rekord",
     "https://sport.sky.de/fussball/artikel/msv-duisburg-bleibt-makellos-tabellenfuehrer-dreht-spiel-in-regensburg-saarbruecken-springt-auf-rang-zwei/13581784/34130": "Duisburg behauptet Tabellenführung || Saarbrücken springt auf Rang zwei",
     "https://sport.sky.de/fussball/artikel/manuel-neuer-vor-schalke-rueckkehr-bayern-legende-erlebt-emotionales-wiedersehen-in-der-veltins-arena/13581224/34130": "Wegen Neuer: Klublegende appelliert an Schalke-Fans",
+    "https://sport.sky.de/fussball/artikel/1-fc-koeln-ueberzeugt-in-mainz-carlson-team-springt-auf-rang-drei/13581778/34942": "Kantersieg: FC fertigt Aufsteiger Mainz ab",
+    "https://sport.sky.de/fussball/artikel/1-fc-kaiserslautern-schlaegt-darmstadt-98-deutlich-und-bleibt-ungeschlagen/13581697/34944": "Lautern weiter ungeschlagen - Darmstadt bleibt Letzter",
     "https://sport.sky.de/fussball/artikel/schalke-gegen-bayern-das-grosse-bundesliga-quiz-zum-traditionsduell/13581309/34943": "Schaffst du 10 von 10? Das Quiz zum Bayern-Kracher auf Schalke",
+    "https://sport.sky.de/fussball/artikel/vfb-stuttgart-feiert-befreiungsschlag-el-khannouss-glaenzt-beim-4-1-gegen-den-1-fc-koeln/13581506/34130": "\"Sieht man nicht alle Tage\": Traumsolo krönt VfB-Feuerwerk gegen Köln",
     "https://sport.sky.de/fussball/artikel/schalke-04-gegen-fc-bayern-edin-dzeko-freut-sich-auf-wiedersehen-mit-vincent-kompany/13581617/34835": "Dzeko: \"Was Kompany schon geschafft hat, das ist Wahnsinn\"",
     "https://sport.sky.de/fussball/artikel/transfer-update-news/12478082/34942": "VfB gibt Stürmer ab || Bundesliga-Verteidiger geht nach Brasilien",
+    "https://sport.sky.de/fussball/artikel/real-madrid-patzt-erstmals-unter-jose-mourinho-mbappe-verschiesst-elfmeter-bei-betis-pleite/13581547/34942": "Erste Mourinho-Pleite! Real verliert dramatisch in Sevilla",
+    "https://sport.sky.de/fussball/artikel/liverpool-gewinnt-in-der-premier-league-bei-ipswich-town-barcola-feiert-debuet/13581528/34130": "Isak-Blitzstart & Barcola-Debüt! Reds-Knoten platzt bei Aufsteiger",
     "https://sport.sky.de/fussball/artikel/jamal-musiala-kehrt-auf-schalke-in-den-bayern-kader-zurueck/13581363/34826": "Sky Sport exklusiv || Musiala gegen S04 zurück im Bayern-Kader",
+    "https://sport.sky.de/fussball/artikel/psg-verlaengert-mit-luis-enrique-bis-2030-monaco-schockt-paris-trotz-meister-party/13581543/34942": "Fehlstart perfekt! PSG verliert trotz Partystimmung",
+    "https://sport.sky.de/fussball/artikel/hannover-96-verpasst-sieg-in-der-2-bundesliga-gegen-den-karlsruher-sc/13581413/34942": "Später Dämpfer & Alu-Pech! Hannover verpasst Sieg gegen KSC",
+    "https://sport.sky.de/fussball/artikel/arminia-bielefeld-und-fc-st-pauli-teilen-die-punkte-absteiger-wartet-weiter-auf-ersten-sieg/13581417/34150": "Wieder kein Sieg! St. Pauli bleibt im Tabellenkeller stecken",
     "https://sport.sky.de/fussball/artikel/ungewoehnlich-psg-gibt-sechs-vertragsverlaengerungen-auf-einmal-bekannt-erfolgstrainer-luis-enrique-bleibt-langfristig/13581486/34942": "Kurios! PSG gibt sechs Vertragsverlängerungen auf einmal bekannt",
     "https://sport.sky.de/fussball/artikel/bundesliga-schalke-04-fordert-meister-playoffs-bayern-lehnt-ab/13581371/34942": "Schalke-Plädoyer für BL-Playoffs - Bayern kontert",
     "https://sport.sky.de/fussball/artikel/bvb-kader-fuer-die-champions-league-emre-can-ueberraschend-nicht-gemeldet/13581157/34130": "Nicht für CL gemeldet! Überraschung um BVB-Star",
@@ -352,11 +363,11 @@
     "https://m.bild.de/sport/fussball/was-dahintersteckt-karl-fehlt-auf-bayerns-a-liste-fuer-die-champions-league-6a9a634e240b302c8a838b5d": "Was dahintersteckt : Karl fehlt auf Bayerns A-Liste für die Champions League",
     "https://m.bild.de/sport/fussball/fc-bayern-city-wollte-ihn-bayern-star-lehnte-eine-100-mio-anfrage-ab-6a998aeaca00b4462f06a446": "City wollte ihn : Dieser Bayern-Star lehnte eine 100-Mio.-Anfrage ab",
     "https://m.bild.de/sport/fussball/fc-bayern-jetzt-antwortet-jonas-urbig-sogar-schon-wie-manuel-neuer-6a993f4aca00b4462f069c68": "Sie werden sich immer ähnlicher : Jetzt antwortet Urbig sogar schon wie Neuer!",
+    "https://m.bild.de/sport/fussball/bundesliga-trainer-fliegt-noch-vor-der-pause-vom-platz-6a9c1f27240b302c8a83a3af": "Aufregung in Gladbach : Bundesliga-Trainer sieht Gelb-Rot vor der Pause",
     "https://m.bild.de/sport/fussball/niko-kovac-verraet-ein-spannendes-transfer-detail-zu-einem-neuzugang-des-bvb-6a9c0e73fd8102779ee4a082": "Es geht um einen BVB-Neuzugang : Kovac verrät spannendes Transfer-Detail",
     "https://m.bild.de/sport/fussball/bundesliga-die-neuen-gesichter-der-konferenz-bei-dazn-6a9c18d18353bf8643b5762b": "Heute feiern sie ihre große Premiere : Die neuen Gesichter in der Bundesliga-Konferenz",
     "https://m.bild.de/sport/fussball/kaua-santos-macht-eintracht-frankfurt-eine-liebeserklaerung-6a9c1452240b302c8a83a321": "Nach Torwart-Beben : Santos macht Eintracht eine Liebeserklärung",
     "https://m.bild.de/sport/fussball/juergen-klopp-vertraute-muessen-bei-red-bull-gehen-6a99a1f57cdc6e46442b66d9": "Wer weiterhin bleibt! : Klopp-Vertraute müssen bei Red Bull gehen",
-    "https://m.bild.de/sport/fussball/vfb-stuttgart-ploetzlich-wird-ueber-deniz-undav-diskutiert-6a9bf2d0181cb962d488481a": "„Das Los eines Superstars“ : Stuttgart siegt, doch Diskussionen um Undav!",
-    "https://m.bild.de/sport/fussball/1-fc-koeln-aussortiert-und-einzeltraining-darum-durfte-imad-rondic-trotzdem-fuer-koeln-spielen-6a9bb6f9240b302c8a839ebd": "Aussortiert & Einzeltraining : Darum durfte Rondic trotzdem für Köln spielen"
+    "https://m.bild.de/sport/fussball/vfb-stuttgart-ploetzlich-wird-ueber-deniz-undav-diskutiert-6a9bf2d0181cb962d488481a": "„Das Los eines Superstars“ : Stuttgart siegt, doch Diskussionen um Undav!"
   }
 }

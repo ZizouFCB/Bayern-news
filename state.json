@@ -150,7 +150,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke 04 gegen FC Bayern jetzt live: Schalke kämpft weiter leidenschaftlich um den Punkt",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke erkämpft sich sensationelles Unentschieden gegen den FC Bayern",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/hunderte-bayern-fans-duerfen-nicht-ins-stadion-gegen-schalke-zr-94476736.html": "Hunderte Bayern-Fans dürfen nicht ins Stadion gegen Schalke",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ard-moderator-bommes-warnt-schweinsteiger-vor-pokal-auslosung-94476761.html": "ARD-Moderator warnt Schweinsteiger vor Pokal-Auslosung – der sorgt fast für Missgeschick",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/schalke-fc-bayern-voraussichtliche-aufstellung-gegen-94476366.html": "Bayern-Aufstellung heute gegen Schalke: Musiala-Entscheidung gefallen",
@@ -250,15 +250,15 @@
   },
   "FC Bayern Official": {},
   "SPORT2": {
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/musiala-zurueck-im-kader-bayern-ohne-kane-und-olise": " UPDATE Musiala kehrt auf den Platz zurück",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-patzt-irre-serie-reisst-auf-schalke": " Irre Bayern-Serie reißt auf Schalke",
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dfb-pokal-auslosung-2-runde-live-im-free-tv-livestream-wer-zieht-bayern-und-bvb": " Zweite Runde im Pokal ausgelost",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/bvb-niko-kovac-stellt-vereinsrekord-auf": " Kovac stellt Vereinsrekord auf",
-    "https://www.sport1.de/tv-video/video/unding-diese-kritik-von-wollitz-hat-es-in-sich__393F4A04-CB23-4C54-B1B8-784039C2AD48": " 01:30 \"Unding\": Diese Kritik von Wollitz hat es in sich",
+    "https://www.sport1.de/tv-video/video/so-einen-jungen-spieler-so-fertigzumachen__393F4A04-CB23-4C54-B1B8-784039C2AD48": " 01:30 \"So einen jungen Spieler so fertigzumachen ...\"",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/bei-musiala-comeback-bayern-patzt-auf-schalke": "Bei Musiala-Comeback: Bayern patzt auf Schalke",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/musiala-zurueck-im-kader-bayern-ohne-kane-und-olise": "UPDATE Musiala kehrt auf den Platz zurück",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/eintracht-frankfurt-besondere-liebeserklaerung-nach-degradierung": "Besondere Liebeserklärung nach Degradierung",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/hamann-redet-sich-wegen-kleindienst-in-rage-grobe-unsportlichkeit": "Hamann redet sich in Rage",
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/pfeifkonzert-fuer-neuer-schalke-fans-zeigen-keine-gnade": "Pfiffe für Neuer - Matthäus reagiert",
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/platzverweis-fuer-fans-des-fc-bayern-vor-schalke-spiel": "Bayern-Fans wird Stadion-Zugang verweigert",
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/bundesliga-heute-live-fc-schalke-fc-bayern-im-tv-livestream-und-ticker": "Kompany erklärt Überraschung um Kane und Olise"
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/pfeifkonzert-fuer-neuer-schalke-fans-zeigen-keine-gnade": "Pfiffe für Neuer - Matthäus reagiert"
   },
   "Sky Bayern": {
     "https://sport.sky.de/fussball/artikel/bayern-torhueter-manuel-neuer-bei-schalke-rueckkehr-mit-pfiffen-empfangen/13581873/34381": "Ungemütlicher Neuer-Empfang bei Schalke-Rückkehr",
@@ -307,6 +307,7 @@
     "https://sport.sky.de/fussball/artikel/das-war-knapp-donnarumma-fast-mit-dem-eigentor/13581792/35311": "Das war knapp! Donnarumma fast mit dem Eigentor",
     "https://sport.sky.de/fussball/artikel/duell-der-deutschen-trainer-endet-mit-remis/13581765/34357": "Duell der deutschen Trainer endet mit Remis",
     "https://sport.sky.de/fussball/artikel/chaos-nach-pfostenschuss-von-kluivert-thiaw-mit-dem-eigentor/13581692/35466": "Chaos nach Pfostenschuss von Kluivert - Thiaw mit dem Eigentor",
+    "https://sport.sky.de/fussball/artikel/musiala-feiert-bayern-comeback-nationalspieler-kehrt-nach-18-tagen-zurueck/13582060/34943": "\"Kein großer Alarm mehr\": Musiala feiert Comeback",
     "https://sport.sky.de/fussball/artikel/bvb-verteidiger-filippo-mane-verletzt-sich-beim-spiel-gegen-die-tsg-hoffenheim/13581787/34372": "Nächste Verletzung! BVB-Abwehrsorgen werden größer",
     "https://sport.sky.de/fussball/artikel/harry-kane-vor-bundesliga-rekord-bayern-star-jagt-gegen-schalke-die-100-tore-marke/13581203/34130": "Bei Schalke-Premiere: Kane winkt historischer Rekord",
     "https://sport.sky.de/fussball/artikel/msv-duisburg-bleibt-makellos-tabellenfuehrer-dreht-spiel-in-regensburg-saarbruecken-springt-auf-rang-zwei/13581784/34130": "MSV behauptet Tabellenführung || Saarbrücken springt auf Rang zwei",
@@ -326,7 +327,6 @@
     "https://sport.sky.de/fussball/artikel/juergen-klopp-begeistert-herbert-hainer-bayern-praesident-lobt-neuen-bundestrainer-fuer-deutschland-tour/13581349/34942": "\"So wünsche ich mir einen Bundestrainer\": FCB-Präsident lobt Klopp",
     "https://sport.sky.de/fussball/artikel/hat-book-seine-feuertaufe-bestanden-das-transferzeugnis-des-bvb/13580426/34943": "Hat Book die Feuertaufe bestanden? Das Transferzeugnis des BVB!",
     "https://sport.sky.de/fussball/artikel/huetter-zufrieden-trotz-kalimuendo-absage-frankfurt-setzt-auf-seinen-bestehenden-kader/13581281/34130": "Kader-Krise bei der SGE? Hütter trotz Deadline-Day-Flaute \"zufrieden\"",
-    "https://sport.sky.de/fussball/artikel/champions-league-der-frauen-bayern-trifft-auf-barcelona-real-madrid-und-mancity/13581247/33895": "CL-Hammerlose für FCB-Frauen! Barca, Real und City warten",
     "https://sport.sky.de/fussball/artikel/gesagt-gemeint-vom-04-09-26/13581425/34241": "Gesagt. Gemeint! vom 04.09.26"
   },
   "BILD FUSSBALL": {

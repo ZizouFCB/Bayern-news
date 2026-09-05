@@ -32,12 +32,14 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
-    "https://www.tz.de/sport/fc-bayern/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke 04 gegen FC Bayern jetzt live: Gellendes Pfeifkonzert gegen Neuer",
-    "https://www.tz.de/sport/fc-bayern/fc-bayern-voraussichtliche-aufstellung-gegen-schalke-94476366.html": "Bayern-Aufstellung heute gegen Schalke: Musiala-Entscheidung gefallen",
+    "https://www.tz.de/sport/fc-bayern/ard-moderator-bommes-warnt-schweinsteiger-vor-pokal-auslosung-94476761.html": "ARD-Moderator warnt Schweinsteiger vor Pokal-Auslosung – der sorgt fast für Missgeschick",
+    "https://www.tz.de/sport/fc-bayern/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke 04 gegen FC Bayern jetzt live: Diaz verpasst Mega-Chance zur Führung",
+    "https://www.tz.de/sport/fc-bayern/hunderte-bayern-fans-duerfen-nicht-ins-stadion-gegen-schalke-zr-94476736.html": "Hunderte Bayern-Fans dürfen nicht ins Stadion gegen Schalke",
+    "https://www.tz.de/sport/fc-bayern/schalke-fc-bayern-voraussichtliche-aufstellung-gegen-94476366.html": "Bayern-Aufstellung heute gegen Schalke: Musiala-Entscheidung gefallen",
     "https://www.tz.de/sport/fc-bayern/bayern-legende-david-alaba-vor-wechsel-nach-italien-94476675.html": "Vereinslose Bayern-Legende Alaba vor Wechsel nach Italien?",
     "https://www.tz.de/sport/fc-bayern/boey-zukunft-beim-fc-bayern-weiterhin-ungeklaert-94476043.html": "Boey-Zukunft beim FC Bayern auch nach Transferfenster-Schluss noch ungeklärt",
-    "https://www.tz.de/sport/fc-bayern/geburtstags-lieber-paul-rummenigge-gratuliert-breitner-zum-75-94475926.html": "„Lieber Paul…“: Rummenigge gratuliert Breitner zum 75. Geburtstag",
-    "https://www.tz.de/sport/fc-bayern/die-volle-breit-ner-seite-runder-geburtstag-einer-bayern-legende-94475915.html": "Die volle Breit(ner)-Seite: Runder Geburtstag einer Bayern-Legende",
+    "https://www.tz.de/sport/fc-bayern/75-geburtstags-lieber-paul-rummenigge-gratuliert-breitner-zum-94475926.html": "„Lieber Paul…“: Rummenigge gratuliert Breitner zum 75. Geburtstag",
+    "https://www.tz.de/sport/fc-bayern/legende-die-volle-breit-ner-seite-runder-geburtstag-einer-bayern-94475915.html": "Die volle Breit(ner)-Seite: Runder Geburtstag einer Bayern-Legende",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-kompany-hat-keine-angst-vor-musiala-zusammenbruechen-94475634.html": "Kompany sorgt sich nicht vor erneuten Musiala-Zusammenbrüchen",
     "https://www.tz.de/sport/fc-bayern/dritter-transfer-geplant-bayern-trainer-kompany-reagiert-irritiert-94475467.html": "Dritter Top-Transfer geplant? Bayern-Trainer Kompany reagiert irritiert",
     "https://www.tz.de/sport/fc-bayern/heftiges-lospech-fuer-die-fc-bayern-frauen-in-der-champions-league-94475300.html": "Heftiges Lospech für den FC Bayern in der Champions League",
@@ -67,9 +69,7 @@
     "https://www.tz.de/sport/fc-bayern/stars-fallen-ab-bayern-einzelkritik-gegen-osnabrueck-kane-und-olise-liefern-defensiv-94472450.html": "Bayern-Einzelkritik: Kane und Olise liefern – Defensiv-Stars fallen ab",
     "https://www.tz.de/sport/fc-bayern/musiala-verdacht-schweinsteiger-konfrontiert-bayern-boss-eberl-mit-94472441.html": "Schweinsteiger konfrontiert Bayern-Boss Eberl mit brisantem Musiala-Verdacht",
     "https://www.tz.de/sport/fc-bayern/bayern-trainer-kompany-setzt-auf-48-stunden-regel-94472409.html": "Die geheime 48‑Stunden-Regel – das verbietet Kompany den Bayern-Stars",
-    "https://www.tz.de/sport/fc-bayern/torwart-rotation-bayern-trainer-kompany-gesteht-fehler-bei-der-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere",
-    "https://www.tz.de/sport/fc-bayern/giulia-gwinn-feiert-perfektes-comeback-beim-fc-bayern-94472215.html": "Giulia Gwinn zelebriert ihr sensationelles Comeback",
-    "https://www.tz.de/sport/fc-bayern/bayern-webseite-bricht-kurz-vor-pokal-auftakt-zusammen-94472129.html": "Bayern-Webseite bricht kurz vor Pokal-Auftakt zusammen"
+    "https://www.tz.de/sport/fc-bayern/torwart-rotation-bayern-trainer-kompany-gesteht-fehler-bei-der-94469570.html": "Bayern-Aufstellung gegen Osnabrück offiziell: Musiala fehlt – Neuzugang feiert Premiere"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -293,6 +293,7 @@
     "https://sport.sky.de/fussball/artikel/der-muss-doch-rein-vagnoman-vergibt-die-vfb-fuehrung/13581468/35311": "Der MUSS doch rein! Vagnoman vergibt die VfB-Führung",
     "https://sport.sky.de/fussball/artikel/st-pauli-muss-weiter-auf-den-ersten-saisonsieg-warten/13581467/34828": "St. Pauli muss weiter auf den ersten Saisonsieg warten",
     "https://sport.sky.de/fussball/artikel/fingerspitzen-zentimeter-verhindern-96-sieg/13581458/34236": "Fingerspitzen & Zentimeter verhindern 96-Sieg",
+    "https://sport.sky.de/fussball/artikel/null-tore-spurs-tottenham-bleibt-sieglos/13582035/37182": "Null-Tore-Spurs: Tottenham bleibt sieglos",
     "https://sport.sky.de/fussball/artikel/schade-gibt-mit-brentford-sieg-aus-der-hand/13582031/34357": "Schade gibt mit Brentford Sieg aus der Hand",
     "https://sport.sky.de/fussball/artikel/leno-kassiert-slapstick-tor/13581840/34945": "Leno kassiert Slapstick-Tor",
     "https://sport.sky.de/fussball/artikel/unhaltbarer-kopfball-haaland-wuchtet-die-kugel-ins-netz/13581806/34357": "Nummer 300! Haaland wuchtet die Kugel ins Netz",
@@ -301,7 +302,6 @@
     "https://sport.sky.de/fussball/artikel/chaos-nach-pfostenschuss-von-kluivert-thiaw-mit-dem-eigentor/13581692/35466": "Chaos nach Pfostenschuss von Kluivert - Thiaw mit dem Eigentor",
     "https://sport.sky.de/fussball/artikel/gakpo-isak-brillieren-liverpool-gewinnt-bei-ipswich/13581568/34914": "Gakpo & Isak brillieren - Liverpool gewinnt bei Ipswich",
     "https://sport.sky.de/fussball/artikel/martinelli-verlaesst-arsenal-und-schiesst-bald-solche-tore-fuer-al-hilal/13580995/34357": "Martinelli verlässt Arsenal und schießt bald solche Tore für Al-Hilal",
-    "https://sport.sky.de/fussball/artikel/iraola-zu-barcola-fuer-uns-hatte-seine-verpflichtung-hoechste-prioritaet/13580945/34357": "Iraola zu Barcola: ''Für uns hatte seine Verpflichtung höchste Priorität''",
     "https://sport.sky.de/fussball/artikel/bvb-verteidiger-filippo-mane-verletzt-sich-beim-spiel-gegen-die-tsg-hoffenheim/13581787/34372": "Nächste Verletzung! BVB-Abwehrsorgen werden größer",
     "https://sport.sky.de/fussball/artikel/harry-kane-vor-bundesliga-rekord-bayern-star-jagt-gegen-schalke-die-100-tore-marke/13581203/34130": "Bei Schalke-Premiere: Kane winkt historischer Rekord",
     "https://sport.sky.de/fussball/artikel/msv-duisburg-bleibt-makellos-tabellenfuehrer-dreht-spiel-in-regensburg-saarbruecken-springt-auf-rang-zwei/13581784/34130": "MSV behauptet Tabellenführung || Saarbrücken springt auf Rang zwei",
@@ -350,11 +350,11 @@
     "https://m.bild.de/sport/fussball/fc-bayern-emotionale-rueckkehr-macht-manuel-neuer-sein-letztes-spiel-auf-schalke-6a99c4421b7c3c4a7d48d85d": "Emotionale Rückkehr : Macht Neuer sein letztes Spiel auf Schalke?",
     "https://m.bild.de/sport/fussball/bayern-pk-im-live-ticker-kann-musiala-auf-schalke-wieder-spielen-6a9a673b240b302c8a838b91": "Kompany gibt Update : Musiala „im Moment“ anfallsfrei",
     "https://m.bild.de/sport/fussball/was-dahintersteckt-karl-fehlt-auf-bayerns-a-liste-fuer-die-champions-league-6a9a634e240b302c8a838b5d": "Was dahintersteckt : Karl fehlt auf Bayerns A-Liste für die Champions League",
+    "https://m.bild.de/sport/fussball/werder-bremen-untergangsstimmung-machte-die-stars-heiss-6a9c47488353bf8643b5799d": "„Das hilft manchmal, wenn ...“ : Untergangs-Stimmung machte Werder-Stars heiß",
     "https://m.bild.de/sport/fussball/bundesliga-dicke-werder-ueberraschung-und-elversberg-wahnsinn-6a9c17f9240b302c8a83a35f": "Alle Spiele im Überblick : Dicke Werder-Überraschung und Elversberg-Wahnsinn!",
     "https://m.bild.de/sport/fussball/beim-3-4-gegen-elversberg-die-noten-der-gladbach-schlaffis-6a9bce0ddfc78737f5e673ff": "Beim 3:4 gegen Elversberg : Die Noten der Gladbach-Schlaffis!",
     "https://m.bild.de/sport/fussball/bundesliga-fuellkrug-trifft-zwei-rueckkehrer-ballern-werder-sorgen-weg-6a9c1326181cb962d4884999": "Füllkrug trifft gegen RB : Zwei Rückkehrer ballern Werder-Sorgen weg",
-    "https://m.bild.de/sport/fussball/bundesliga-wunderdorf-elversberg-schockt-gladbach-nach-3-1-fuehrung-6a9c158bfd8102779ee4a138": "Heim-Desaster gegen Aufsteiger : „Wunderdorf“ schockt Gladbach nach 3:1-Führung",
-    "https://m.bild.de/sport/fussball/bvb-guirassy-und-ein-eigentor-drehen-spiel-in-hoffenheim-6a9c122d181cb962d488498a": "Spiel gedreht : Genialer Guirassy rettet BVB",
-    "https://m.bild.de/sport/fussball/bundesliga-trainer-fliegt-noch-vor-der-pause-vom-platz-6a9c1f27240b302c8a83a3af": "Aufregung in Gladbach : Bundesliga-Trainer sieht Gelb-Rot vor der Pause"
+    "https://m.bild.de/sport/fussball/bundesliga-wunderdorf-elversberg-schockt-gladbach-nach-3-1-fuehrung-6a9c158bfd8102779ee4a138": "Desaster gegen Aufsteiger : „Wunderdorf“ schockt Gladbach nach 3:1-Führung",
+    "https://m.bild.de/sport/fussball/bvb-guirassy-und-ein-eigentor-drehen-spiel-in-hoffenheim-6a9c122d181cb962d488498a": "Spiel gedreht : Genialer Guirassy rettet BVB"
   }
 }

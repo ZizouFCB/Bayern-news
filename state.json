@@ -19,7 +19,7 @@
     "https://www.sport1.de/tv-video/video/xxl-offerte-enthullt-das-bot-mancity-fur-pavlovic__d4f3f9ff-1c7c-4ed6-921d-ede9dca37705": " 01:14 XXL-Offerte enthüllt! Das bot ManCity für Pavlovic",
     "https://www.sport1.de/tv-video/video/kommt-es-zur-kehrtwende-bei-boey__c09cdba2-2743-45b4-9134-6a27abdf03ff": " 00:46 Kommt es zur Kehrtwende bei Boey?",
     "https://www.sport1.de/team/sv-elversberg/opta_4071": "3  SV Elversberg 2 2-0-0 7:5 +2 6 S S",
-    "https://www.sport1.de/team/fc-bayern-muenchen/opta_156": "4  FC Bayern München 1 1-0-0 5:1 +4 3 S",
+    "https://www.sport1.de/team/fc-bayern-muenchen/opta_156": "4  FC Bayern München 2 1-1-0 5:1 +4 4 S",
     "https://www.sport1.de/team/bayer-04-leverkusen/opta_164": "5  Bayer 04 Leverkusen 2 1-0-1 6:3 +3 3 N S",
     "https://www.sport1.de/person/harry-kane/opta_78830": "Kane, Harry 2 Punkte (2 Tore + 0 Assists)",
     "https://www.sport1.de/person/joshua-kimmich/opta_165687": "Kimmich, Joshua 2 Assists",
@@ -149,7 +149,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke 04 gegen FC Bayern heute live: Kompany überrascht mit XXL-Rotation",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke 04 gegen FC Bayern jetzt live: Gellendes Pfeifkonzert gegen Neuer",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-voraussichtliche-aufstellung-gegen-schalke-94476366.html": "Bayern-Aufstellung heute gegen Schalke: Musiala-Entscheidung gefallen",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-legende-david-alaba-vor-wechsel-nach-italien-94476675.html": "Vereinslose Bayern-Legende Alaba vor Wechsel nach Italien?",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/boey-zukunft-beim-fc-bayern-weiterhin-ungeklaert-94476043.html": "Boey-Zukunft beim FC Bayern auch nach Transferfenster-Schluss noch ungeklärt",
@@ -251,8 +251,8 @@
   "SPORT2": {
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dfb-pokal-auslosung-2-runde-live-im-free-tv-livestream-wer-zieht-bayern-und-bvb": " Schweinsteiger beschert Bayern ein Heimspiel",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/platzverweis-fuer-fans-des-fc-bayern-vor-schalke-spiel": " Platzverweis für Bayern-Fans",
+    "https://www.sport1.de/tv-video/video/erneute-pfiffe-gegen-fabian-reese-ich-finde-das-unmoglich__393F4A04-CB23-4C54-B1B8-784039C2AD48": " 01:30 \"Ich finde das unmöglich\"",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/elversberg-setzt-traumstart-fort-wagner-sieht-gelb-rot": " Last-Minute-Wahnsinn um Elversberg",
-    "https://www.sport1.de/tv-video/video/breitner-wird-75-und-hoeness-lasst-aufhorchen__B64AD8AD-66A7-4901-82D8-093D9ED46BC4": " 01:04 Breitner wird 75 - und Hoeneß lässt aufhorchen",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/pfeifkonzert-fuer-neuer-schalke-fans-zeigen-keine-gnade": "Pfiffe für Neuer - Matthäus reagiert",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/bundesliga-heute-live-fc-schalke-fc-bayern-im-tv-livestream-und-ticker": "Kompany erklärt Überraschung um Kane und Olise",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/gelb-rot-bundesliga-trainer-fliegt-zur-pause": "Gegen Bayern gesperrt? \"Wäre total bitter\"",
@@ -341,6 +341,7 @@
     "https://sport.sky.de/fussball/artikel/gesagt-gemeint-vom-04-09-26/13581425/34241": "Gesagt. Gemeint! vom 04.09.26"
   },
   "BILD FUSSBALL": {
+    "https://www.bild.de/sport/fussball/dfb-pokal-jetzt-die-auslosung-der-2-runde-im-live-ticker-6a9c38b0181cb962d4884bb7": "Breaking News +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV! +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV! +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV! +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV! +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV! +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV! +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV! +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV! +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV! +++ Los-Glück für Bayern ++ Bundesliga-Knaller für BVB und HSV!",
     "https://m.bild.de/sport/fussball/entscheidung-um-jamal-musiala-gefallen-bayern-aufstellung-gegen-schalke-6a9c2f01fd8102779ee4a351": "Bayern-Aufstellung da : Musiala-Entscheidung gefallen!",
     "https://m.bild.de/sport/fussball/bayern-muenchen-star-koennte-den-verein-noch-vor-sonntag-verlassen-6a9c1f68181cb962d4884a3a": "Star könnte noch vor Sonntag wechseln : Bayern verhandelt über sofortigen Transfer",
     "https://m.bild.de/sport/fussball/fc-bayern-beim-letzten-liga-sieg-gegen-bayern-stand-neuer-noch-im-schalke-tor-6a9be7adb5ee14fdd3da8223": "Besondere Rückkehr : Wann Neuer noch für Schalke spielte",

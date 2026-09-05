@@ -10,10 +10,10 @@
     "https://m.bild.de/sport/fussball/fc-bayern-emotionale-rueckkehr-macht-manuel-neuer-sein-letztes-spiel-auf-schalke-6a99c4421b7c3c4a7d48d85d": "Emotionale Rückkehr : Macht Neuer sein letztes Spiel auf Schalke?"
   },
   "SPORT1 Bayern": {
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/musiala-zurueck-im-kader-bayern-ohne-kane-und-olise": "UPDATE Musiala kehrt auf den Platz zurück Jamal Musiala kehrt beim Auswärtsspiel auf Schalke auf den Platz zurück. Für den 23-Jährigen ist es der erste Pflichtspiel-Einsatz in dieser Saison.",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-patzt-irre-serie-reisst-auf-schalke": "Lange Bayern-Serie reißt auf Schalke Der FC Bayern kommt bei Schalke 04 nicht über ein torloses Remis hinaus. Damit geht eine beeindruckende Serie der Münchner zu Ende.",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/musiala-zurueck-im-kader-bayern-ohne-kane-und-olise": "UPDATE Musiala kehrt auf den Platz zurück",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/pfeifkonzert-fuer-neuer-schalke-fans-zeigen-keine-gnade": "Pfiffe für Neuer - Matthäus reagiert",
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dfb-pokal-auslosung-2-runde-live-im-free-tv-livestream-wer-zieht-bayern-und-bvb": "Zweite Runde im Pokal ausgelost",
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/platzverweis-fuer-fans-des-fc-bayern-vor-schalke-spiel": "Bayern-Fans wird Stadion-Zugang verweigert",
     "https://www.sport1.de/tv-video/video/fc-bayern-munchen-ich-liebe-fussball-genau-deswegen__c1c0bbb4-83d0-49dc-9b6b-efd3f0a4b728": " 01:51 Gosens' bemerkenswerte Worte über Bayern",
     "https://www.sport1.de/tv-video/video/hammerlos-doch-die-bayern-chefin-kann-nur-lachen__5370b4f2-0fba-4146-8860-4fbe1b22fce9": " 00:35 Hammerlos - Doch die Bayern-Chefin kann nur lachen",
     "https://www.sport1.de/tv-video/video/deswegen-bleibt-neuer-bei-bayern-fans-umstritten__fa90ab22-df35-47aa-a84a-e016d1ce7725": " 01:09 Deswegen bleibt Neuer bei den Bayern-Fans umstritten",
@@ -250,10 +250,11 @@
   },
   "FC Bayern Official": {},
   "SPORT2": {
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-patzt-irre-serie-reisst-auf-schalke": " Irre Bayern-Serie reißt auf Schalke",
-    "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dfb-pokal-auslosung-2-runde-live-im-free-tv-livestream-wer-zieht-bayern-und-bvb": " Zweite Runde im Pokal ausgelost",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-patzt-irre-serie-reisst-auf-schalke": " Lange Bayern-Serie reißt auf Schalke",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/bvb-niko-kovac-stellt-vereinsrekord-auf": " Kovac stellt Vereinsrekord auf",
+    "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dfb-pokal-auslosung-2-runde-live-im-free-tv-livestream-wer-zieht-bayern-und-bvb": " Zweite Runde im Pokal ausgelost",
     "https://www.sport1.de/tv-video/video/so-einen-jungen-spieler-so-fertigzumachen__393F4A04-CB23-4C54-B1B8-784039C2AD48": " 01:30 \"So einen jungen Spieler so fertigzumachen ...\"",
+    "https://www.sport1.de/tv-video/video/us-open-autsch-tennis-star-haut-sich-selbst-mit-dem-schlager__A8A60862-74CB-44DD-868B-1FA3457A3ACA": " 00:44 Autsch! Tennis-Star haut sich selbst mit dem Schläger",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/bei-musiala-comeback-bayern-patzt-auf-schalke": "Bei Musiala-Comeback: Bayern patzt auf Schalke",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/musiala-zurueck-im-kader-bayern-ohne-kane-und-olise": "UPDATE Musiala kehrt auf den Platz zurück",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/eintracht-frankfurt-besondere-liebeserklaerung-nach-degradierung": "Besondere Liebeserklärung nach Degradierung",
@@ -326,7 +327,6 @@
     "https://sport.sky.de/fussball/artikel/alemannia-aachen-ueberrollt-den-fc-ingolstadt-rote-karte-entscheidet-spiel-nach-vier-minuten/13581490/34942": "Nach Platzverweis: Ingolstadt geht in fünf Minuten unter",
     "https://sport.sky.de/fussball/artikel/juergen-klopp-begeistert-herbert-hainer-bayern-praesident-lobt-neuen-bundestrainer-fuer-deutschland-tour/13581349/34942": "\"So wünsche ich mir einen Bundestrainer\": FCB-Präsident lobt Klopp",
     "https://sport.sky.de/fussball/artikel/hat-book-seine-feuertaufe-bestanden-das-transferzeugnis-des-bvb/13580426/34943": "Hat Book die Feuertaufe bestanden? Das Transferzeugnis des BVB!",
-    "https://sport.sky.de/fussball/artikel/huetter-zufrieden-trotz-kalimuendo-absage-frankfurt-setzt-auf-seinen-bestehenden-kader/13581281/34130": "Kader-Krise bei der SGE? Hütter trotz Deadline-Day-Flaute \"zufrieden\"",
     "https://sport.sky.de/fussball/artikel/gesagt-gemeint-vom-04-09-26/13581425/34241": "Gesagt. Gemeint! vom 04.09.26"
   },
   "BILD FUSSBALL": {

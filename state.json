@@ -14,7 +14,7 @@
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-patzt-irre-serie-reisst-auf-schalke": "Bayern-Serie nach 59 Spielen gerissen",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/musiala-zurueck-im-kader-bayern-ohne-kane-und-olise": "UPDATE Eberl bewertet Musiala-Rückkehr",
     "https://www.sport1.de/news/fussball/dfb-pokal/2026/09/dfb-pokal-auslosung-2-runde-live-im-free-tv-livestream-wer-zieht-bayern-und-bvb": "Zweite Runde im Pokal ausgelost",
-    "https://www.sport1.de/tv-video/video/neuer-reagiert-auf-pfiffe-das-ist-ja-liebe-das-weiss-ich__43a627a8-793d-44e3-9ac7-0104c6acad13": " 00:40 \"Das ist ja Liebe, das weiß ich\"",
+    "https://www.sport1.de/tv-video/video/nach-pfiffen-es-ist-liebe-das-weiss-ich__43a627a8-793d-44e3-9ac7-0104c6acad13": " 00:40 \"Es ist Liebe, das weiß ich\"",
     "https://www.sport1.de/tv-video/video/asamoah-crasht-reporter-schalte__059a8e2c-25b0-4834-a39b-48fdbf51c77a": " 01:22 Asamoah crasht Reporter-Schalte",
     "https://www.sport1.de/tv-video/video/fc-bayern-munchen-ich-liebe-fussball-genau-deswegen__c1c0bbb4-83d0-49dc-9b6b-efd3f0a4b728": " 01:51 Gosens' bemerkenswerte Worte über Bayern",
     "https://www.sport1.de/tv-video/video/hammerlos-doch-die-bayern-chefin-kann-nur-lachen__5370b4f2-0fba-4146-8860-4fbe1b22fce9": " 00:35 Hammerlos - Doch die Bayern-Chefin kann nur lachen",
@@ -260,9 +260,9 @@
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/hamann-redet-sich-wegen-kleindienst-in-rage-grobe-unsportlichkeit": "Hamann redet sich in Rage"
   },
   "Sky Bayern": {
+    "https://sport.sky.de/fussball/artikel/die-stimmen-zum-spektakulaeren-remis-des-fc-bayern-muenchen-bei-schalke-04-mit-manuel-neuer-miron-muslic-robin-gosens/13582132/34130": "Schalke feiert nach Bayern-Coup: \"Wollten das Leiden genießen\"",
     "https://sport.sky.de/fussball/artikel/verkehrte-welt-in-der-bundesliga-elversberg-vor-bayern-kane-ohne-tor/13582097/34089": "Wer hätte das gedacht?! Verkehrte Welt in der Bundesliga",
     "https://sport.sky.de/fussball/artikel/schalke-beendet-bayern-serie-rekordmeister-verliert-nach-67-spieltagen-die-tabellenspitze/13582072/34369": "Zwei Mega-Serien des FC Bayern gerissen",
-    "https://sport.sky.de/fussball/artikel/borussia-dortmund-hamann-adelt-fabio-silva-nach-hoffenheim-sieg-mit-real-madrid-vergleich/13582030/34943": "\"Sonst würde er bei Real Madrid spielen\"",
     "https://sport.sky.de/fussball/artikel/ueberragend-muslic-ueber-karius/13582105/34828": "''Überragend'' - Muslic über Karius",
     "https://sport.sky.de/fussball/artikel/schalke-gewinnt-0-0-gegen-bayern/13582099/34828": "Schalke ''gewinnt'' 0:0 gegen Bayern!",
     "https://sport.sky.de/fussball/artikel/karius-rettet-den-punkt-super-parade-gegen-kane/13582071/34828": "Karius rettet den Punkt - super Parade gegen Kane",
@@ -307,6 +307,7 @@
     "https://sport.sky.de/fussball/artikel/unhaltbarer-kopfball-haaland-wuchtet-die-kugel-ins-netz/13581806/34357": "Nummer 300! Haaland wuchtet die Kugel ins Netz",
     "https://sport.sky.de/fussball/artikel/das-war-knapp-donnarumma-fast-mit-dem-eigentor/13581792/35311": "Das war knapp! Donnarumma fast mit dem Eigentor",
     "https://sport.sky.de/fussball/artikel/duell-der-deutschen-trainer-endet-mit-remis/13581765/34357": "Duell der deutschen Trainer endet mit Remis",
+    "https://sport.sky.de/fussball/artikel/borussia-dortmund-hamann-adelt-fabio-silva-nach-hoffenheim-sieg-mit-real-madrid-vergleich/13582030/34943": "\"Sonst würde er bei Real Madrid spielen\"",
     "https://sport.sky.de/fussball/artikel/liveblog-auslosung-der-2-dfb-pokalrunde-mit-bayern-bvb-stuttgart-und-co/13581069/34189": "Pokal-Auslosung: Bayern zuhause gegen Zweitligist || BL-Duell in Dortmund",
     "https://sport.sky.de/fussball/artikel/musiala-feiert-bayern-comeback-nationalspieler-kehrt-nach-18-tagen-zurueck/13582060/34943": "\"Kein großer Alarm mehr\": Musiala feiert Comeback",
     "https://sport.sky.de/fussball/artikel/hamann-kritisiert-kleindienst-nach-gladbach-tor-scharf/13581974/34378": "Hamann tobt nach Kleindienst-Szene: \"Grobe Unsportlichkeit\"",
@@ -325,7 +326,6 @@
     "https://sport.sky.de/fussball/artikel/bayer-leverkusen-gewinnt-bei-hoffenheim-erfolgreicher-neustart-nach-wamser-abgang/13581460/34130": "Nach Wamser-Abgang: Leverkusen besteht bei der TSG",
     "https://sport.sky.de/fussball/artikel/dfb-pokal-auslosung-wann-die-2-runde-ausgelost-wird-und-warum-schon-am-samstag/13581180/34130": "Ungewöhnlich! Darum ist die Pokal-Auslosung schon am Samstag",
     "https://sport.sky.de/fussball/artikel/alemannia-aachen-ueberrollt-den-fc-ingolstadt-rote-karte-entscheidet-spiel-nach-vier-minuten/13581490/34942": "Nach Platzverweis: Ingolstadt geht in fünf Minuten unter",
-    "https://sport.sky.de/fussball/artikel/juergen-klopp-begeistert-herbert-hainer-bayern-praesident-lobt-neuen-bundestrainer-fuer-deutschland-tour/13581349/34942": "\"So wünsche ich mir einen Bundestrainer\": FCB-Präsident lobt Klopp",
     "https://sport.sky.de/fussball/artikel/gesagt-gemeint-vom-04-09-26/13581425/34241": "Gesagt. Gemeint! vom 04.09.26"
   },
   "BILD FUSSBALL": {

@@ -20,7 +20,7 @@
     "https://www.sport1.de/tv-video/video/xxl-offerte-enthullt-das-bot-mancity-fur-pavlovic__d4f3f9ff-1c7c-4ed6-921d-ede9dca37705": " 01:14 XXL-Offerte enthüllt! Das bot ManCity für Pavlovic",
     "https://www.sport1.de/tv-video/video/kommt-es-zur-kehrtwende-bei-boey__c09cdba2-2743-45b4-9134-6a27abdf03ff": " 00:46 Kommt es zur Kehrtwende bei Boey?",
     "https://www.sport1.de/team/sv-elversberg/opta_4071": "3  SV Elversberg 2 2-0-0 7:5 +2 6 S S",
-    "https://www.sport1.de/team/fc-bayern-muenchen/opta_156": "4  FC Bayern München 2 1-1-0 5:1 +4 4 S",
+    "https://www.sport1.de/team/fc-bayern-muenchen/opta_156": "4  FC Bayern München 2 1-1-0 5:1 +4 4 S U",
     "https://www.sport1.de/team/bayer-04-leverkusen/opta_164": "5  Bayer 04 Leverkusen 2 1-0-1 6:3 +3 3 N S",
     "https://www.sport1.de/person/harry-kane/opta_78830": "Kane, Harry 2 Punkte (2 Tore + 0 Assists)",
     "https://www.sport1.de/person/joshua-kimmich/opta_165687": "Kimmich, Joshua 2 Assists",
@@ -197,7 +197,8 @@
     "https://www.sueddeutsche.de/infoszurbarrierefreiheit": "Infos zur Barrierefreiheit"
   },
   "T-Online Bayern": {
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421998/jamal-musiala-einwechslung-bayern-star-gibt-comeback-gegen-schalke.html": "Nach Zusammenbruch in Testspiel Bayern-Star Musiala gibt Comeback",
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421994/bundesliga-fc-bayern-laesst-punkte-gegen-schalke-liegen.html": "Bundesliga-Topspiel Ideenlose Bayern lassen zwei Punkte auf Schalke liegen",
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421998/jamal-musiala-einwechslung-bayern-star-gibt-comeback-gegen-schalke.html": "Bayern-Star gibt Comeback",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421748/fc-bayern-aufstellung-gegen-schalke-kane-und-olise-auf-der-bank.html": "So startet der FC Bayern im Traditionsduell",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421140/fc-bayern-dfb-star-musiala-wohl-im-kader-gegen-schalke.html": "Jamal Musiala offenbar zurück im Bayern-Kader",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421188/fc-bayern-ex-trainer-louis-van-gaal-wirbt-fuer-konzert-von-roxy-dekker.html": "Ex-Bayern-Trainer macht auf einmal Werbung für Popkonzert",
@@ -245,8 +246,7 @@
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_100428972/bayern-star-musiala-wegen-mutter-carolin-ging-es-einst-nach-southampton.html": "Was über Jamal Musialas Privatleben bekannt ist",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395998/jamal-musiala-absencen-wie-es-um-seine-zukunft-beim-fc-bayern-steht.html": "Die Hoffnung hat sich nicht bestätigt",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101396612/jamal-musiala-harry-kane-aeussert-sich-zur-diagnose.html": "Harry Kane äußert sich zu Musialas Erkrankung",
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395330/jamal-musiala-bayern-star-mit-etlichen-rueckschlaegen-seit-april-2025.html": "Musialas Odyssee nimmt kein Ende",
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395750/uli-hoeness-aeussert-sich-zu-jamal-musiala-es-ist-ein-drama-.html": "Hoeneß über Musiala: \"Es ist ein Drama\""
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395330/jamal-musiala-bayern-star-mit-etlichen-rueckschlaegen-seit-april-2025.html": "Musialas Odyssee nimmt kein Ende"
   },
   "FC Bayern Official": {},
   "SPORT2": {
@@ -327,7 +327,6 @@
     "https://sport.sky.de/fussball/artikel/hat-book-seine-feuertaufe-bestanden-das-transferzeugnis-des-bvb/13580426/34943": "Hat Book die Feuertaufe bestanden? Das Transferzeugnis des BVB!",
     "https://sport.sky.de/fussball/artikel/huetter-zufrieden-trotz-kalimuendo-absage-frankfurt-setzt-auf-seinen-bestehenden-kader/13581281/34130": "Kader-Krise bei der SGE? Hütter trotz Deadline-Day-Flaute \"zufrieden\"",
     "https://sport.sky.de/fussball/artikel/champions-league-der-frauen-bayern-trifft-auf-barcelona-real-madrid-und-mancity/13581247/33895": "CL-Hammerlose für FCB-Frauen! Barca, Real und City warten",
-    "https://sport.sky.de/fussball/artikel/union-berlin-verschiebt-stadionausbau-umzug-ins-olympiastadion-erst-2028/13580988/35311": "Erneute Verzögerung des Stadionausbaus bei Union Berlin",
     "https://sport.sky.de/fussball/artikel/gesagt-gemeint-vom-04-09-26/13581425/34241": "Gesagt. Gemeint! vom 04.09.26"
   },
   "BILD FUSSBALL": {

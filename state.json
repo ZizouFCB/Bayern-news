@@ -150,9 +150,9 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke 04 gegen FC Bayern jetzt live: Kompany bringt Topstar Kane zur Pause",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ard-moderator-bommes-warnt-schweinsteiger-vor-pokal-auslosung-94476761.html": "ARD-Moderator warnt Schweinsteiger vor Pokal-Auslosung – der sorgt fast für Missgeschick",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke 04 gegen FC Bayern jetzt live: Schalke kämpft weiter leidenschaftlich um den Punkt",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/hunderte-bayern-fans-duerfen-nicht-ins-stadion-gegen-schalke-zr-94476736.html": "Hunderte Bayern-Fans dürfen nicht ins Stadion gegen Schalke",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ard-moderator-bommes-warnt-schweinsteiger-vor-pokal-auslosung-94476761.html": "ARD-Moderator warnt Schweinsteiger vor Pokal-Auslosung – der sorgt fast für Missgeschick",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/schalke-fc-bayern-voraussichtliche-aufstellung-gegen-94476366.html": "Bayern-Aufstellung heute gegen Schalke: Musiala-Entscheidung gefallen",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-legende-david-alaba-vor-wechsel-nach-italien-94476675.html": "Vereinslose Bayern-Legende Alaba vor Wechsel nach Italien?",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/boey-zukunft-beim-fc-bayern-weiterhin-ungeklaert-94476043.html": "Boey-Zukunft beim FC Bayern auch nach Transferfenster-Schluss noch ungeklärt",
@@ -197,7 +197,8 @@
     "https://www.sueddeutsche.de/infoszurbarrierefreiheit": "Infos zur Barrierefreiheit"
   },
   "T-Online Bayern": {
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421748/fc-bayern-aufstellung-gegen-schalke-kane-und-olise-auf-der-bank.html": "Topspiel auf Schalke So startet der FC Bayern im Traditionsduell",
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421998/jamal-musiala-einwechslung-bayern-star-gibt-comeback-gegen-schalke.html": "Nach Zusammenbruch in Testspiel Bayern-Star Musiala gibt Comeback",
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421748/fc-bayern-aufstellung-gegen-schalke-kane-und-olise-auf-der-bank.html": "So startet der FC Bayern im Traditionsduell",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421140/fc-bayern-dfb-star-musiala-wohl-im-kader-gegen-schalke.html": "Jamal Musiala offenbar zurück im Bayern-Kader",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101421188/fc-bayern-ex-trainer-louis-van-gaal-wirbt-fuer-konzert-von-roxy-dekker.html": "Ex-Bayern-Trainer macht auf einmal Werbung für Popkonzert",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101420312/fc-bayern-manuel-neuer-vor-abschied-vom-fc-schalke.html": "Bayern-Star Neuer vor seiner letzten großen Rückkehr",
@@ -245,8 +246,7 @@
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395998/jamal-musiala-absencen-wie-es-um-seine-zukunft-beim-fc-bayern-steht.html": "Die Hoffnung hat sich nicht bestätigt",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101396612/jamal-musiala-harry-kane-aeussert-sich-zur-diagnose.html": "Harry Kane äußert sich zu Musialas Erkrankung",
     "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395330/jamal-musiala-bayern-star-mit-etlichen-rueckschlaegen-seit-april-2025.html": "Musialas Odyssee nimmt kein Ende",
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395750/uli-hoeness-aeussert-sich-zu-jamal-musiala-es-ist-ein-drama-.html": "Hoeneß über Musiala: \"Es ist ein Drama\"",
-    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395352/jamal-musiala-erkrankt-skispringer-freund-holte-mit-epilepsie-olympiagold.html": "Diagnose Epilepsie – Ex-Skisprung-Star wurde Olympiasieger"
+    "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101395750/uli-hoeness-aeussert-sich-zu-jamal-musiala-es-ist-ein-drama-.html": "Hoeneß über Musiala: \"Es ist ein Drama\""
   },
   "FC Bayern Official": {},
   "SPORT2": {

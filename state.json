@@ -150,6 +150,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-scheiterte-vor-26-jahren-im-dfb-pokal-an-magdeburg-94476817.html": "FC Bayern scheiterte bereits sensationell in 2. Pokalrunde an Magdeburg",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke erkämpft sich sensationelles Unentschieden gegen den FC Bayern",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/zweimal-note-die-bayern-stars-gegen-schalke-in-der-einzelkritik-94476785.html": "Zweimal Note 5: Die Bayern-Stars gegen Schalke in der Einzelkritik",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/hunderte-bayern-fans-duerfen-nicht-ins-stadion-gegen-schalke-zr-94476736.html": "Hunderte Bayern-Fans dürfen nicht ins Stadion gegen Schalke",
@@ -185,7 +186,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-in-osnabrueck-torwart-jonas-urbig-imitiert-neuer-interview-94472594.html": "Traumtor oder Torwartfehler? Urbig imitiert legendäres Neuer-Interview",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-dfb-pokal-achterbahn-choreo-des-vfl-osnabrueck-gegen-fc-94472508.html": "„Achterbahn“-Choreo bringt selbst Bayern-Fans zum Beben",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-star-michael-olise-erzielt-irregulaeres-tor-im-dfb-pokal-94472468.html": "Olise trifft im DFB‑Pokal – doch das Tor hätte nicht zählen dürfen",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bastian-schweinsteiger-fungiert-als-losfee-fuer-runde-im-dfb-pokal-94471498.html": "Warum die 32 Pokal-Klubs jetzt alle auf Bastian Schweinsteiger schauen",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {
@@ -289,6 +289,7 @@
     "https://sport.sky.de/fussball/artikel/sollten-uns-nicht-selbst-in-schwierigkeiten-bringen-stimmen-zu-hoffenheim-gegen-bvb/13582062/34828": "''Sollten uns nicht selbst in Schwierigkeiten bringen'' - Stimmen zu Hoffenheim gegen BVB",
     "https://sport.sky.de/fussball/artikel/werder-macht-es-clever-stimmen-zu-bremen-gegen-rbl/13581933/34828": "''Werder macht es clever'' - Stimmen zu Bremen gegen RBL",
     "https://sport.sky.de/fussball/artikel/paderborner-dauerdruck-freiburg-wackelt-und-siegt/13582000/34828": "Paderborner Dauerdruck: Freiburg wackelt und siegt",
+    "https://sport.sky.de/fussball/artikel/horn-fischt-den-ball-mit-den-fingerspitzen-aus-dem-eck/13582101/34350": "Horn fischt den Ball mit den Fingerspitzen aus dem Eck",
     "https://sport.sky.de/fussball/artikel/brauchen-mehr-ernsthaftigkeit-stimmen-zu-fck-gegen-darmstadt/13581807/34350": "''Brauchen mehr Ernsthaftigkeit'' - Stimmen zu FCK gegen Darmstadt",
     "https://sport.sky.de/fussball/artikel/alles-das-was-fussball-ausmacht-stimmen-zum-spiel-wolfsburg-gegen-cottbus/13581761/34350": "''Alles das, was Fußball ausmacht'' - Stimmen zum Spiel Wolfsburg gegen Cottbus",
     "https://sport.sky.de/fussball/artikel/schoenes-offensiv-spektakel-stimmen-zu-kiel-gegen-nuernberg/13581815/34350": "''Schönes Offensiv-Spektakel'' - Stimmen zu Kiel gegen Nürnberg",
@@ -298,7 +299,6 @@
     "https://sport.sky.de/fussball/artikel/bitterer-fehlschuss-neuzugang-verschiesst-elfmeter/13581665/34350": "Bitterer Fehlschuss! Neuzugang verschießt Elfmeter",
     "https://sport.sky.de/fussball/artikel/brauch-ich-jedes-spiel-ein-heimspiel-stimmen-zu-bielefeld-gegen-st-pauli/13581491/34350": "''Brauch ich jedes Spiel ein Heimspiel'' - Stimmen zu Bielefeld gegen St. Pauli",
     "https://sport.sky.de/fussball/artikel/sind-wir-selbst-schuld-stimmen-zu-hannover-gegen-ksc/13581510/34350": "''Sind wir selbst Schuld'' - Stimmen zu Hannover gegen KSC",
-    "https://sport.sky.de/fussball/artikel/ksc-bejubelt-spaeten-ausgleich/13581479/34350": "KSC bejubelt späten Ausgleich",
     "https://sport.sky.de/fussball/artikel/aston-villa-laesst-punkte-liegen/13582082/34357": "Aston Villa lässt Punkte liegen",
     "https://sport.sky.de/fussball/artikel/leno-kassiert-mit-fulham-dritte-niederlage-in-folge/13582042/34945": "Leno kassiert mit Fulham dritte Niederlage in Folge",
     "https://sport.sky.de/fussball/artikel/ex-hsv-star-sichert-brighton-einen-punkt/13582036/34357": "Ex-HSV-Star sichert Brighton einen Punkt",

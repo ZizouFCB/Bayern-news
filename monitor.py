@@ -258,7 +258,7 @@ def main():
 
     for site_state in state.values():
         if isinstance(site_state, dict):
-    notified_urls.update(site_state.keys())
+            notified_urls.update(site_state.keys())
 
     for site in websites:
 

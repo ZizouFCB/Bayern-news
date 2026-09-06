@@ -23,7 +23,7 @@
     "https://www.sport1.de/tv-video/video/kompany-das-konnte-man-vorher-nicht-wissen__352f49cf-0d23-47d3-92c9-4738bc4f2a30": " 00:43 Kompany? \"Das konnte man vorher nicht wissen\"",
     "https://www.sport1.de/team/1-fsv-mainz-05/opta_810": "4  1. FSV Mainz 05 2 1-1-0 5:0 +5 4 U S",
     "https://www.sport1.de/team/fc-bayern-muenchen/opta_156": "5  FC Bayern München 2 1-1-0 5:1 +4 4 S U",
-    "https://www.sport1.de/team/eintracht-frankfurt/opta_159": "6  Eintracht Frankfurt 2 1-1-0 4:3 +1 4 U",
+    "https://www.sport1.de/team/fc-augsburg/opta_1772": "6  FC Augsburg 2 1-1-0 3:0 +3 4 S",
     "https://www.sport1.de/person/harry-kane/opta_78830": "Kane, Harry 2 Punkte (2 Tore + 0 Assists)",
     "https://www.sport1.de/person/joshua-kimmich/opta_165687": "Kimmich, Joshua 2 Assists",
     "https://www.sport1.de/person/min-jae-kim/opta_249621": "Kim, Min-Jae 1 Gelbe Karte",
@@ -75,7 +75,8 @@
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
-    "https://www.abendzeitung-muenchen.de/sport/fcbayern/ohne-olise-und-kane-hast-sich-bayern-coach-kompany-auf-schalke-verzockt-art-1156530": "Ohne Olise und Kane: Hast sich Bayern-Coach Kompany auf Schalke ...",
+    "https://www.abendzeitung-muenchen.de/sport/fcbayern/dreesen-spricht-ueber-zukunft-von-kane-spuerbar-dass-beide-seiten-das-wollen-art-1156546": "Dreesen spricht über Zukunft von Kane: \"Spürbar, dass beide Seiten ...",
+    "https://www.abendzeitung-muenchen.de/sport/fcbayern/ohne-olise-und-kane-hast-sich-bayern-coach-kompany-auf-schalke-verzockt-art-1156530": "Ohne Olise und Kane: Hast sich Bayern-Coach Kompany auf Schalke verzockt?",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/wir-sind-alle-happy-jamal-musiala-der-entscheider-ist-zurueck-art-1156392": "\"Wir sind alle happy\": Jamal Musiala, der Entscheider ist zurück",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/das-haben-wir-vorher-so-nicht-gewusst-dreesen-ueberrascht-mit-kompany-aussage-art-1156493": "\"Das haben wir vorher so nicht gewusst\": Dreesen überrascht mit Kompany-Aussage",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/200-millionen-angebot-fuer-olise-das-sagt-bayern-boss-dreesen-art-1156504": "200-Millionen-Angebot für Olise? Das sagt Bayern-Boss Dreesen",
@@ -84,7 +85,6 @@
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/bayern-noten-nach-dem-schalke-spiel-zwei-stars-fallen-besonders-ab-art-1156403": "Bayern-Noten nach dem Schalke-Spiel: Zwei Stars fallen besonders ab",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/nach-remis-auf-schalke-fc-bayern-hat-nicht-nur-zwei-punkte-verloren-art-1156407": "Nach Remis auf Schalke: FC Bayern hat nicht nur zwei Punkte verloren",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/pruegelei-vor-schalke-gegen-bayern-polizei-schickt-500-muenchner-fans-weg-art-1156401": "Prügelei vor Schalke gegen Bayern: Polizei schickt 500 Münchner ...",
-    "https://www.abendzeitung-muenchen.de/sport/fcbayern/losfee-bastian-schweinsteiger-zweitrunden-gegner-des-fc-bayern-im-dfb-pokal-steht-fest-art-1155865": "Losfee Bastian Schweinsteiger: Auf diesen Gegner trifft der FC ...",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/frauen/champions-league-harte-lose-fuer-bayern-fussballerinnen-in-ligaphase-art-1156131": "Champions League: Harte Lose für Bayern-Fußballerinnen in Ligaphase",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/frauen/gaensehaut-comebacks-von-oberdorf-und-gwinn-echt-vermisst-art-1155328": "Gänsehaut-Comebacks von Oberdorf und Gwinn: \"Echt vermisst\"",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/frauen/gwinn-und-oberdorf-zurueck-bayern-fussballerinnen-siegen-art-1155185": "Gwinn und Oberdorf zurück: Bayern-Fußballerinnen siegen",
@@ -92,6 +92,7 @@
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/frauen/bayerns-fussballerinnen-in-anderer-liga-art-1153116": "Bayerns Fußballerinnen \"in anderer Liga\"",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/frauen/signal-der-staerke-bayerns-fussballerinnen-siegen-bei-union-art-1153076": "Signal der Stärke: Bayerns Fußballerinnen siegen bei Union",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/frauen/bayern-dusel-torhueterin-stina-johannes-extrem-schockiert-art-1151721": "Bayern-Dusel: Torhüterin Stina Johannes \"extrem schockiert\"",
+    "https://www.abendzeitung-muenchen.de/sport/fcbayern/losfee-bastian-schweinsteiger-zweitrunden-gegner-des-fc-bayern-im-dfb-pokal-steht-fest-art-1155865": "Losfee Bastian Schweinsteiger: Auf diesen Gegner trifft der FC Bayern ...",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/das-sieht-man-zum-beispiel-an-michael-olise-schalke-boss-nennt-das-fruehform-geheimnis-des-fc-bayern-art-1156117": "\"Das sieht man zum Beispiel an Michael Olise\":  Schalke-Boss nennt das ...",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/rummenigge-erzaehlt-beckenbauer-anekdote-ueber-breitner-und-hoeness-ihr-zwei-deppen-art-1156212": "Rummenigge erzählt Beckenbauer-Anekdote über Breitner und Hoeneß: \"Ihr ...",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/neuer-gegen-dzeko-bricht-der-schalke-star-seinen-bayern-fluch-im-duell-der-legenden-art-1156182": "Neuer gegen Dzeko: Bricht der Schalke-Star seinen Bayern-Fluch im Duell ...",
@@ -134,7 +135,6 @@
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/harte-deadline-das-hat-der-fc-bayern-mit-sacha-boey-vor-art-1154591": "Harte Deadline: Das hat der FC Bayern mit Sacha Boey vor",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/choreo-der-bayern-fans-gegen-stuttgart-kurzfristig-geplatzt-das-ist-der-grund-art-1154631": "Choreo der Bayern-Fans gegen Stuttgart kurzfristig geplatzt – das ist ...",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/sturm-legende-elber-schwaermt-vom-fc-bayern-die-sind-nicht-satt-art-1154487": "Sturm-Legende Élber schwärmt vom FC Bayern: \"Die sind nicht satt\"",
-    "https://www.abendzeitung-muenchen.de/sport/fcbayern/gegner-mit-viel-tradition-fc-bayern-in-final-arena-gegen-die-matratzenmacher-art-1154393": "\"Gegner mit viel Tradition\": FC Bayern in Final-Arena gegen die ...",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/#spielplan": "Spielplan, Kader FC Bayern"
   },
   "BILD2": {

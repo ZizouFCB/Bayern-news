@@ -253,7 +253,7 @@
   "SPORT2": {
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/bayern-boss-dreesen-schimpft-ueber-unfug-bei-olise": " Dreesen schimpft über \"Unfug\" bei Olise",
     "https://www.sport1.de/tv-video/video/der-grund-warum-wir-woltemade-nicht-gekauft-haben__1F3EFFBE-C694-47D7-9EFE-A91F9E10AC86": " 01:38 \"Der Grund, warum wir Woltemade nicht gekauft haben\"",
-    "https://www.sport1.de/tv-video/video/paukenschlag-zverevs-angstgegner-taylor-fritz-verspielt-2-0-fuhrung-us-open__225989E9-91EF-4FD5-AE6E-BFAB12C1FE8A": " 05:21 Hui! Zverevs Angstgegner verspielt 2:0-Führung",
+    "https://www.sport1.de/tv-video/video/dreesen-gerat-bei-kompany-ins-schwarmen__352F49CF-0D23-47D3-92C9-4738BC4F2A30": " 00:42 Dreesen gerät bei Kompany ins Schwärmen",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/bundesliga-heute-live-eintracht-frankfurt-fc-augsburg-im-tv-livestream-und-ticker": "Bundesliga heute: Frankfurt gegen Augsburg",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-boss-dreesen-kritisiert-pfiffe-gegen-manuel-neuer": "Bayerns Boss schickt auch eine Botschaft an Schalkes Fans",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/bundesliga-heute-live-hamburger-sv-fsv-mainz-live-im-tv-livestream-und-ticker": "Bundesliga heute: HSV gegen Mainz",
@@ -262,7 +262,6 @@
   },
   "Sky Bayern": {
     "https://sport.sky.de/fussball/artikel/sky-sport-kolumne-von-wolff-fuss-zum-topspiel-zwischen-schalke-und-bayern/13582211/34130": "Für den Klassenerhalt wird es weitere solcher Partys brauchen",
-    "https://sport.sky.de/fussball/artikel/vier-spiele-in-folge-hertha-bsc-historisch-gut-an-der-spitze/13582333/34388": "Vier Spiele in Folge! Hertha BSC historisch gut an der Spitze",
     "https://sport.sky.de/fussball/artikel/heute-kann-jeder-stolz-auf-seine-leistung-sein-stimmen-zu-schalke-gegen-bayern/13582116/34828": "''Heute kann jeder stolz auf seine Leistung sein'' - Stimmen zu Schalke gegen Bayern",
     "https://sport.sky.de/fussball/artikel/bochum-feiert-ersten-auswaertssieg-der-saison/13582146/34350": "Bochum feiert ersten Auswärtssieg der Saison",
     "https://sport.sky.de/fussball/artikel/ueberragend-muslic-ueber-karius/13582105/34828": "''Überragend'' - Muslic über Karius",
@@ -272,6 +271,7 @@
     "https://sport.sky.de/fussball/artikel/so-feiert-ganz-schalke-nach-abpfiff/13582073/34828": "So feiert ganz Schalke nach Abpfiff",
     "https://sport.sky.de/fussball/artikel/laeuft-in-meine-richtung-das-ist-eine-unsportlichkeit/13582058/34828": "''Läuft in meine Richtung'' - das ist eine Unsportlichkeit",
     "https://sport.sky.de/fussball/artikel/haaland-koepft-city-zum-sieg/13582001/34357": "Haaland köpft City zum Sieg",
+    "https://sport.sky.de/fussball/artikel/fuellkrug-trifft-werder-ringt-leipzig-nieder/13581943/34857": "Füllkrug trifft: Werder ringt Leipzig nieder",
     "https://sport.sky.de/fussball/artikel/sportdirektor-freund-verraet-das-passiert-mit-boey/13581178/34828": "Sportdirektor Freund verrät: Das passiert mit Boey",
     "https://sport.sky.de/fussball/artikel/war-das-ki-kompany-lacht-ueber-transfer-frage/13581174/34828": "\"War das KI? - Kompany lacht über Transfer-Frage",
     "https://sport.sky.de/fussball/artikel/gute-balance-ricken-zieht-transferfazit/13580803/34373": "\"Gute Balance\" - Ricken zieht Transferfazit",
@@ -293,6 +293,7 @@
     "https://sport.sky.de/fussball/artikel/nuernberg-gibt-erstmals-punkte-ab-stoerche-weiter-sieglos/13581746/34350": "Nürnberg gibt erstmals Punkte ab - Störche weiter sieglos",
     "https://sport.sky.de/fussball/artikel/zwei-debuetanten-treffen-lautern-bleibt-ungeschlagen/13581720/34350": "Zwei Debütanten treffen! Lautern bleibt ungeschlagen",
     "https://sport.sky.de/fussball/artikel/bitterer-fehlschuss-neuzugang-verschiesst-elfmeter/13581665/34350": "Bitterer Fehlschuss! Neuzugang verschießt Elfmeter",
+    "https://sport.sky.de/fussball/artikel/brauch-ich-jedes-spiel-ein-heimspiel-stimmen-zu-bielefeld-gegen-st-pauli/13581491/34350": "''Brauch ich jedes Spiel ein Heimspiel'' - Stimmen zu Bielefeld gegen St. Pauli",
     "https://sport.sky.de/fussball/artikel/aston-villa-laesst-punkte-liegen/13582082/34357": "Aston Villa lässt Punkte liegen",
     "https://sport.sky.de/fussball/artikel/leno-kassiert-mit-fulham-dritte-niederlage-in-folge/13582042/34945": "Leno kassiert mit Fulham dritte Niederlage in Folge",
     "https://sport.sky.de/fussball/artikel/ex-hsv-star-sichert-brighton-einen-punkt/13582036/34357": "Ex-HSV-Star sichert Brighton einen Punkt",

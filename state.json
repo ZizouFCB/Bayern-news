@@ -75,8 +75,8 @@
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
-    "https://www.abendzeitung-muenchen.de/sport/fcbayern/dreesen-spricht-ueber-zukunft-von-kane-spuerbar-dass-beide-seiten-das-wollen-art-1156546": "Dreesen spricht über Zukunft von Kane: \"Spürbar, dass beide Seiten ...",
-    "https://www.abendzeitung-muenchen.de/sport/fcbayern/ohne-olise-und-kane-hast-sich-bayern-coach-kompany-auf-schalke-verzockt-art-1156530": "Ohne Olise und Kane: Hast sich Bayern-Coach Kompany auf Schalke verzockt?",
+    "https://www.abendzeitung-muenchen.de/sport/fcbayern/ohne-olise-und-kane-hat-sich-bayern-coach-kompany-auf-schalke-verzockt-art-1156530": "Ohne Olise und Kane: Hat sich Bayern-Coach Kompany auf Schalke ...",
+    "https://www.abendzeitung-muenchen.de/sport/fcbayern/dreesen-spricht-ueber-zukunft-von-kane-spuerbar-dass-beide-seiten-das-wollen-art-1156546": "Dreesen spricht über Zukunft von Kane: \"Spürbar, dass beide Seiten das wollen\"",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/wir-sind-alle-happy-jamal-musiala-der-entscheider-ist-zurueck-art-1156392": "\"Wir sind alle happy\": Jamal Musiala, der Entscheider ist zurück",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/das-haben-wir-vorher-so-nicht-gewusst-dreesen-ueberrascht-mit-kompany-aussage-art-1156493": "\"Das haben wir vorher so nicht gewusst\": Dreesen überrascht mit Kompany-Aussage",
     "https://www.abendzeitung-muenchen.de/sport/fcbayern/200-millionen-angebot-fuer-olise-das-sagt-bayern-boss-dreesen-art-1156504": "200-Millionen-Angebot für Olise? Das sagt Bayern-Boss Dreesen",
@@ -319,7 +319,6 @@
     "https://sport.sky.de/fussball/artikel/bvb-verteidiger-filippo-mane-verletzt-sich-beim-spiel-gegen-die-tsg-hoffenheim/13581787/34372": "Nächste Verletzung! BVB-Abwehrsorgen werden größer",
     "https://sport.sky.de/fussball/artikel/msv-duisburg-bleibt-makellos-tabellenfuehrer-dreht-spiel-in-regensburg-saarbruecken-springt-auf-rang-zwei/13581784/34130": "MSV behauptet Tabellenführung || Saarbrücken springt auf Rang zwei",
     "https://sport.sky.de/fussball/artikel/schalke-04-gegen-fc-bayern-edin-dzeko-freut-sich-auf-wiedersehen-mit-vincent-kompany/13581617/34835": "Dzeko: \"Was Kompany schon geschafft hat, das ist Wahnsinn\"",
-    "https://sport.sky.de/fussball/artikel/jamal-musiala-kehrt-auf-schalke-in-den-bayern-kader-zurueck/13581363/34826": "Sky Sport exklusiv || Musiala gegen S04 zurück im Bayern-Kader",
     "https://sport.sky.de/fussball/artikel/gesagt-gemeint-vom-04-09-26/13581425/34241": "Gesagt. Gemeint! vom 04.09.26"
   },
   "BILD FUSSBALL": {
@@ -351,11 +350,11 @@
     "https://m.bild.de/sport/fussball/bundesliga-alle-infos-und-aufstellungen-zum-2-spieltag-6a9a89b6b3e0470a1975b5c5": "Alle Infos und Aufstellungen zum 2. Spieltag : Fünf heiße Startelf-Kämpfe bei den Bayern",
     "https://m.bild.de/sport/fussball/fc-bayern-tom-bischof-macht-druck-auf-dfb-kollegen-aleks-pavlovic-6a9a9523b3e0470a1975b6fe": "Konkurrenzkampf bei Bayern : Bischof macht Druck auf DFB-Kollegen",
     "https://m.bild.de/sport/fussball/fc-bayern-das-passiert-jetzt-mit-boey-spannendes-detail-aus-dem-bayern-geheimtraining-6a9a8869b3e0470a1975b5a4": "Das passiert jetzt mit Boey : Spannendes Detail aus Bayerns Geheimtraining",
-    "https://m.bild.de/sport/fussball/1-bundesliga-horror-heimdebuet-fuer-den-hsv-0-5-klatsche-gegen-mainz-6a9d58a5240b302c8a83b062": "Klatsche gegen Mainz ++ Erster Torschuss erst in Hälfte zwei : Horror-Heimdebüt für den HSV!",
+    "https://m.bild.de/sport/fussball/mainz-siegt-5-0-hsv-klatsche-becker-zaubert-rueckkehrer-jubelt-6a9d8ad6181cb962d4885adb": "Mainz siegt 5:0 : HSV-Klatsche: Becker zaubert, Rückkehrer jubelt",
+    "https://m.bild.de/sport/fussball/1-bundesliga-horror-heimdebuet-fuer-den-hsv-0-5-klatsche-gegen-mainz-6a9d58a5240b302c8a83b062": "Heftige Klatsche gegen Mainz : Horror-Heimdebüt für den HSV!",
     "https://m.bild.de/sport/fussball/borussia-moenchengladbach-kracht-zurueck-in-die-bundesliga-krise-6a9c6042181cb962d4884d97": "Gladbach in der Krise : Spannende Reaktion auf Fan-Pfiffe",
     "https://m.bild.de/sport/fussball/bayer-leverkusen-rueckkehrer-moussa-diaby-vom-fan-empfang-bei-bayer-04-ueberwaeltigt-6a9d191f6a3073fc0d24843c": "Nach drei Jahren wieder da : Rückkehrer Diaby vom Fan-Empfang überwältigt",
     "https://m.bild.de/sport/fussball/tsg-hoffenheim-ilzer-beklagt-schiri-bonus-fuer-top-teams-6a9d59b0240b302c8a83b0dd": "Last-Minute-Pleite gegen Dortmund : Bundesliga-Trainer beklagt Schiri-Bonus für Top-Teams",
-    "https://m.bild.de/sport/fussball/eintracht-frankfurt-die-xxl-bilanz-zum-umbruch-sommer-bei-eintracht-6a99260a87159f3cd0820e73": "Hütter lobt Krösche deutlich : Die XXL-Bilanz zum Umbruch-Sommer bei Eintracht",
-    "https://m.bild.de/sport/fussball/rb-leipzig-so-ist-der-verletztenstand-bei-lukeba-gruda-und-romulo-6a9d31e53c4ff4f6c5cfed70": "Nach Bremen-Blamage! : Wer Demichelis in der Champions League helfen soll"
+    "https://m.bild.de/sport/fussball/eintracht-frankfurt-die-xxl-bilanz-zum-umbruch-sommer-bei-eintracht-6a99260a87159f3cd0820e73": "Hütter lobt Krösche deutlich : Die XXL-Bilanz zum Umbruch-Sommer bei Eintracht"
   }
 }

@@ -262,6 +262,7 @@
   },
   "Sky Bayern": {
     "https://sport.sky.de/fussball/artikel/sky-sport-kolumne-von-wolff-fuss-zum-topspiel-zwischen-schalke-und-bayern/13582211/34130": "Für den Klassenerhalt wird es weitere solcher Partys brauchen",
+    "https://sport.sky.de/fussball/artikel/heidenheim-holt-naechsten-sieg/13582348/34350": "Heidenheim holt nächsten Sieg",
     "https://sport.sky.de/fussball/artikel/vier-spiele-in-folge-hertha-bsc-historisch-gut-an-der-spitze/13582333/34388": "Vier Spiele in Folge! Hertha BSC historisch gut an der Spitze",
     "https://sport.sky.de/fussball/artikel/heute-kann-jeder-stolz-auf-seine-leistung-sein-stimmen-zu-schalke-gegen-bayern/13582116/34828": "''Heute kann jeder stolz auf seine Leistung sein'' - Stimmen zu Schalke gegen Bayern",
     "https://sport.sky.de/fussball/artikel/bochum-feiert-ersten-auswaertssieg-der-saison/13582146/34350": "Bochum feiert ersten Auswärtssieg der Saison",
@@ -271,7 +272,6 @@
     "https://sport.sky.de/fussball/artikel/karius-rettet-den-punkt-super-parade-gegen-kane/13582071/34828": "Karius rettet den Punkt - super Parade gegen Kane",
     "https://sport.sky.de/fussball/artikel/so-feiert-ganz-schalke-nach-abpfiff/13582073/34828": "So feiert ganz Schalke nach Abpfiff",
     "https://sport.sky.de/fussball/artikel/laeuft-in-meine-richtung-das-ist-eine-unsportlichkeit/13582058/34828": "''Läuft in meine Richtung'' - das ist eine Unsportlichkeit",
-    "https://sport.sky.de/fussball/artikel/haaland-koepft-city-zum-sieg/13582001/34357": "Haaland köpft City zum Sieg",
     "https://sport.sky.de/fussball/artikel/sportdirektor-freund-verraet-das-passiert-mit-boey/13581178/34828": "Sportdirektor Freund verrät: Das passiert mit Boey",
     "https://sport.sky.de/fussball/artikel/war-das-ki-kompany-lacht-ueber-transfer-frage/13581174/34828": "\"War das KI? - Kompany lacht über Transfer-Frage",
     "https://sport.sky.de/fussball/artikel/gute-balance-ricken-zieht-transferfazit/13580803/34373": "\"Gute Balance\" - Ricken zieht Transferfazit",
@@ -292,12 +292,12 @@
     "https://sport.sky.de/fussball/artikel/nach-3-0-fuehrung-wolfsburg-verschenkt-heimsieg-gegen-cottbus/13581771/34350": "Nach 3:0-Führung! Wolfsburg verschenkt Heimsieg gegen Cottbus",
     "https://sport.sky.de/fussball/artikel/nuernberg-gibt-erstmals-punkte-ab-stoerche-weiter-sieglos/13581746/34350": "Nürnberg gibt erstmals Punkte ab - Störche weiter sieglos",
     "https://sport.sky.de/fussball/artikel/zwei-debuetanten-treffen-lautern-bleibt-ungeschlagen/13581720/34350": "Zwei Debütanten treffen! Lautern bleibt ungeschlagen",
-    "https://sport.sky.de/fussball/artikel/bitterer-fehlschuss-neuzugang-verschiesst-elfmeter/13581665/34350": "Bitterer Fehlschuss! Neuzugang verschießt Elfmeter",
     "https://sport.sky.de/fussball/artikel/aston-villa-laesst-punkte-liegen/13582082/34357": "Aston Villa lässt Punkte liegen",
     "https://sport.sky.de/fussball/artikel/leno-kassiert-mit-fulham-dritte-niederlage-in-folge/13582042/34945": "Leno kassiert mit Fulham dritte Niederlage in Folge",
     "https://sport.sky.de/fussball/artikel/ex-hsv-star-sichert-brighton-einen-punkt/13582036/34357": "Ex-HSV-Star sichert Brighton einen Punkt",
     "https://sport.sky.de/fussball/artikel/null-tore-spurs-tottenham-bleibt-sieglos/13582035/37182": "Null-Tore-Spurs: Tottenham bleibt sieglos",
     "https://sport.sky.de/fussball/artikel/schade-gibt-mit-brentford-sieg-aus-der-hand/13582031/34357": "Schade gibt mit Brentford Sieg aus der Hand",
+    "https://sport.sky.de/fussball/artikel/haaland-koepft-city-zum-sieg/13582001/34357": "Haaland köpft City zum Sieg",
     "https://sport.sky.de/fussball/artikel/leno-kassiert-slapstick-tor/13581840/34945": "Leno kassiert Slapstick-Tor",
     "https://sport.sky.de/fussball/artikel/unhaltbarer-kopfball-haaland-wuchtet-die-kugel-ins-netz/13581806/34357": "Nummer 300! Haaland wuchtet die Kugel ins Netz",
     "https://sport.sky.de/fussball/artikel/das-war-knapp-donnarumma-fast-mit-dem-eigentor/13581792/35311": "Das war knapp! Donnarumma fast mit dem Eigentor",
@@ -351,11 +351,11 @@
     "https://m.bild.de/sport/fussball/fc-bayern-tom-bischof-macht-druck-auf-dfb-kollegen-aleks-pavlovic-6a9a9523b3e0470a1975b6fe": "Konkurrenzkampf bei Bayern : Bischof macht Druck auf DFB-Kollegen",
     "https://m.bild.de/sport/fussball/fc-bayern-das-passiert-jetzt-mit-boey-spannendes-detail-aus-dem-bayern-geheimtraining-6a9a8869b3e0470a1975b5a4": "Das passiert jetzt mit Boey : Spannendes Detail aus Bayerns Geheimtraining",
     "https://m.bild.de/sport/fussball/schalke-gegen-bayern-auf-diese-topspiel-duelle-wird-es-ankommen-6a9ab58e08c763dcf81f4211": "Schalke gegen Bayern : Auf diese Topspiel-Duelle wird es ankommen!",
+    "https://m.bild.de/sport/fussball/bundesliga-klopp-plant-geheim-telefonat-mit-liga-trainer-6a9d34293c4ff4f6c5cfeda7": "Nächste Woche : Klopp plant Geheim-Telefonat mit Liga-Trainer",
+    "https://m.bild.de/sport/fussball/tsg-hoffenheim-ilzer-beklagt-schiri-bonus-fuer-top-teams-6a9d59b0240b302c8a83b0dd": "Last-Minute-Pleite gegen BVB : Ilzer beklagt Schiri-Bonus für Top-Teams",
     "https://m.bild.de/sport/fussball/bundesliga-das-wunder-von-elversberg-jetzt-kommen-die-bayern-6a9d20e9240b302c8a83acb4": "Jetzt kommen die Bayern : BILD erklärt das Elversberg-Wunder",
     "https://m.bild.de/sport/fussball/rb-leipzig-so-ist-der-verletztenstand-bei-lukeba-gruda-und-romulo-6a9d31e53c4ff4f6c5cfed70": "Nach Bremen-Blamage! : Wer Demichelis in der Champions League helfen soll",
     "https://m.bild.de/sport/fussball/union-berlin-leverkusen-klatsche-bereitet-sorgen-6a9d447d6067248f60a52a24": "Chancenlos in Leverkusen : SO gibt Union Anlass zur Sorge",
-    "https://m.bild.de/sport/fussball/vfb-stuttgart-erst-horror-dann-hammer-vagnoman-beim-vfb-ploetzlich-wieder-wichtig-6a9d3bcf181cb962d4885574": "Erst Horror, dann Hammer! : Vagnoman beim VfB plötzlich wieder wichtig",
-    "https://m.bild.de/sport/fussball/hsv-fans-vor-der-premiere-gegen-mainz-im-vieira-rausch-6a9d3fb2240b302c8a83aee4": "Gegen Mainz auf der Bank : HSV-Fans im Vieira-Rausch",
-    "https://m.bild.de/sport/fussball/bild-kommentar-das-war-ein-statement-von-werder-bremen-6a9d33e3181cb962d48854bb": "BILD-Kommentar : Das war ein Statement von Werder"
+    "https://m.bild.de/sport/fussball/vfb-stuttgart-erst-horror-dann-hammer-vagnoman-beim-vfb-ploetzlich-wieder-wichtig-6a9d3bcf181cb962d4885574": "Erst Horror, dann Hammer! : Vagnoman beim VfB plötzlich wieder wichtig"
   }
 }

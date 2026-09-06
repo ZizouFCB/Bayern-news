@@ -32,6 +32,7 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/bayern-patzt-auf-schalke-und-hadert-mit-chancenwucher-94477204.html": "Bayern München lässt gegen Schalke Federn – und hadert mit Chancenwucher",
     "https://www.tz.de/sport/fc-bayern/krattenmacher-schiesst-elversberg-zur-naechsten-sensation-94476833.html": "Ex-Bayern-Juwel schießt Elversberg gegen Gladbach zur nächsten Sensation",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-scheiterte-vor-26-jahren-im-dfb-pokal-an-magdeburg-94476817.html": "FC Bayern scheiterte bereits sensationell in 2. Pokalrunde an Magdeburg",
     "https://www.tz.de/sport/fc-bayern/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke erkämpft sich sensationelles Unentschieden gegen den FC Bayern",
@@ -68,8 +69,7 @@
     "https://www.tz.de/sport/fc-bayern/bayern-dfb-pokal-achterbahn-choreo-des-vfl-osnabrueck-gegen-fc-94472508.html": "„Achterbahn“-Choreo bringt selbst Bayern-Fans zum Beben",
     "https://www.tz.de/sport/fc-bayern/bayern-star-michael-olise-erzielt-irregulaeres-tor-im-dfb-pokal-94472468.html": "Olise trifft im DFB‑Pokal – doch das Tor hätte nicht zählen dürfen",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-dreht-rueckstand-im-dfb-pokal-wilder-ritt-in-runde-zwei-94472461.html": "FC Bayern dreht Rückstand: Wilder Ritt in Runde zwei",
-    "https://www.tz.de/sport/fc-bayern/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "FC Bayern löst Pflichtaufgabe gegen Osnabrück nach frühem Schock souverän",
-    "https://www.tz.de/sport/fc-bayern/stars-fallen-ab-bayern-einzelkritik-gegen-osnabrueck-kane-und-olise-liefern-defensiv-94472450.html": "Bayern-Einzelkritik: Kane und Olise liefern – Defensiv-Stars fallen ab"
+    "https://www.tz.de/sport/fc-bayern/dfb-pokal-vfl-osnabrueck-gegen-fc-bayern-im-live-ticker-zr-94472223.html": "FC Bayern löst Pflichtaufgabe gegen Osnabrück nach frühem Schock souverän"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -150,6 +150,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-patzt-auf-schalke-und-hadert-mit-chancenwucher-94477204.html": "Bayern München lässt gegen Schalke Federn – und hadert mit Chancenwucher",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/krattenmacher-schiesst-elversberg-zur-naechsten-sensation-94476833.html": "Ex-Bayern-Juwel schießt Elversberg gegen Gladbach zur nächsten Sensation",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-scheiterte-vor-26-jahren-im-dfb-pokal-an-magdeburg-94476817.html": "FC Bayern scheiterte bereits sensationell in 2. Pokalrunde an Magdeburg",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke erkämpft sich sensationelles Unentschieden gegen den FC Bayern",
@@ -185,7 +186,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/ex-bayern-star-guerreiro-nach-abschied-noch-ohne-neuen-verein-94472836.html": "Ex-Bayern-Star nach Abgang im Sommer noch ohne neuen Verein",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-sedlaczek-und-schweinsteiger-verwirren-kompany-live-im-tv-94472712.html": "Schweinsteiger und Sedlaczek bringen Kompany mit Kane-Frage aus dem Konzept",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/dfb-pokal-in-osnabrueck-torwart-jonas-urbig-imitiert-neuer-interview-94472594.html": "Traumtor oder Torwartfehler? Urbig imitiert legendäres Neuer-Interview",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-dfb-pokal-achterbahn-choreo-des-vfl-osnabrueck-gegen-fc-94472508.html": "„Achterbahn“-Choreo bringt selbst Bayern-Fans zum Beben",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {

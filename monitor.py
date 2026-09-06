@@ -254,6 +254,12 @@ def main():
 
     state = load_state()
 
+    notified_urls = set()
+
+    for site_state in state.values():
+        if isinstance(site_state, dict):
+    notified_urls.update(site_state.keys())
+
     for site in websites:
 
         name = site["name"]
@@ -299,12 +305,11 @@ def main():
 
             for article_url, title in current_articles.items():
 
-                if article_url not in old_articles:
-
-                    new_articles.append({
-                        "title": title,
-                        "url": article_url
-                    })
+            if article_url not in old_articles and article_url not in notified_urls:
+               new_articles.append({
+                   "title": title,
+                   "url": article_url
+               })
 
             print(
                 "New articles:",
@@ -321,6 +326,8 @@ def main():
                 )
 
                 send_telegram(message)
+
+                notified_urls.add(article["url"])
 
                 print(
                     "Telegram notification sent:",

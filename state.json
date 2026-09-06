@@ -32,6 +32,9 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/trotz-startelf-comeback-bayern-youngster-karl-braucht-noch-zeit-94477440.html": "Trotz Startelf-Comeback: Bayern-Youngster Karl braucht noch Zeit",
+    "https://www.tz.de/sport/fc-bayern/musiala-feiert-comeback-bayern-boss-gibt-klare-prognose-94477392.html": "Musiala feiert Comeback – Bayern-Boss gibt klare Prognose",
+    "https://www.tz.de/sport/fc-bayern/neuer-reagiert-gelassen-auf-pfeifkonzert-in-der-veltins-arena-94477385.html": "Manuel Neuer nimmt Pfeifkonzert gelassen: „Das ist Liebe“",
     "https://www.tz.de/sport/fc-bayern/bayern-boss-setzt-sich-fuer-aufhebung-von-roter-karte-ein-94477367.html": "Balogun 2.0? Bayern-Boss setzt sich für Aufhebung von roter Karte ein",
     "https://www.tz.de/sport/fc-bayern/musiala-feiert-emotionales-comeback-und-macht-sofort-wieder-hoffnung-94477232.html": "Musiala feiert emotionales Comeback und macht sofort wieder Hoffnung",
     "https://www.tz.de/sport/fc-bayern/manuel-neuer-hatte-bei-schalke-rueckkehr-ein-besonderes-einlaufkind-94477210.html": "Manuel Neuer hatte bei Schalke-Rückkehr ein besonderes Einlaufkind",
@@ -39,9 +42,9 @@
     "https://www.tz.de/sport/fc-bayern/krattenmacher-schiesst-elversberg-zur-naechsten-sensation-94476833.html": "Ex-Bayern-Juwel schießt Elversberg gegen Gladbach zur nächsten Sensation",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-scheiterte-vor-26-jahren-im-dfb-pokal-an-magdeburg-94476817.html": "FC Bayern scheiterte bereits sensationell in 2. Pokalrunde an Magdeburg",
     "https://www.tz.de/sport/fc-bayern/bundesliga-schalke-04-gegen-fc-bayern-muenchen-im-liveticker-zr-94476599.html": "Schalke erkämpft sich sensationelles Unentschieden gegen den FC Bayern",
-    "https://www.tz.de/sport/fc-bayern/einzelkritik-zweimal-note-die-bayern-stars-gegen-schalke-in-der-94476785.html": "Achtmal Note 4: Die Bayern-Stars gegen Schalke in der Einzelkritik",
     "https://www.tz.de/sport/fc-bayern/hunderte-bayern-fans-duerfen-nicht-ins-stadion-gegen-schalke-zr-94476736.html": "Hunderte Bayern-Fans dürfen nicht ins Stadion gegen Schalke",
     "https://www.tz.de/sport/fc-bayern/ard-moderator-bommes-warnt-schweinsteiger-vor-pokal-auslosung-94476761.html": "ARD-Moderator warnt Schweinsteiger vor Pokal-Auslosung – der sorgt fast für Missgeschick",
+    "https://www.tz.de/sport/fc-bayern/einzelkritik-zweimal-note-die-bayern-stars-gegen-schalke-in-der-94476785.html": "Achtmal Note 4: Die Bayern-Stars gegen Schalke in der Einzelkritik",
     "https://www.tz.de/sport/fc-bayern/gegen-schalke-fc-bayern-voraussichtliche-aufstellung-94476366.html": "Bayern-Aufstellung heute gegen Schalke: Musiala-Entscheidung gefallen",
     "https://www.tz.de/sport/fc-bayern/bayern-legende-david-alaba-vor-wechsel-nach-italien-94476675.html": "Vereinslose Bayern-Legende Alaba vor Wechsel nach Italien?",
     "https://www.tz.de/sport/fc-bayern/boey-zukunft-beim-fc-bayern-weiterhin-ungeklaert-94476043.html": "Boey-Zukunft beim FC Bayern auch nach Transferfenster-Schluss noch ungeklärt",
@@ -66,10 +69,7 @@
     "https://www.tz.de/sport/fc-bayern/vater-von-ex-bayern-star-tritt-aus-gesundheitlichen-gruenden-zurueck-94473184.html": "Vater von Ex-Bayern-Star tritt aus gesundheitlichen Gründen als Trainer zurück",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-und-harry-kane-bringen-vertragsverhandkungen-ins-rollen-94473079.html": "Kane und Bayern wollen Vertrag verlängern – doch ein Detail sorgt für Spannung",
     "https://www.tz.de/sport/fc-bayern/pleite-ab-bayern-ikone-thomas-mueller-wendet-mit-vancouver-whitecaps-pokal-94472920.html": "Thomas Müller wendet in ungewohnter Rolle Pokal-Pleite ab",
-    "https://www.tz.de/sport/fc-bayern/bayern-boss-eberl-gibt-vielsagendes-update-zum-musiala-comeback-94472837.html": "Comeback erst bei „Anfallsarmut“?: Eberl gibt vielsagendes Musiala-Update",
-    "https://www.tz.de/sport/fc-bayern/ex-bayern-star-guerreiro-nach-abschied-noch-ohne-neuen-verein-94472836.html": "Ex-Bayern-Star nach Abgang im Sommer noch ohne neuen Verein",
-    "https://www.tz.de/sport/fc-bayern/dfb-pokal-in-osnabrueck-torwart-jonas-urbig-imitiert-neuer-interview-94472594.html": "Traumtor oder Torwartfehler? Urbig imitiert legendäres Neuer-Interview",
-    "https://www.tz.de/sport/fc-bayern/bayern-dfb-pokal-achterbahn-choreo-des-vfl-osnabrueck-gegen-fc-94472508.html": "„Achterbahn“-Choreo bringt selbst Bayern-Fans zum Beben"
+    "https://www.tz.de/sport/fc-bayern/bayern-boss-eberl-gibt-vielsagendes-update-zum-musiala-comeback-94472837.html": "Comeback erst bei „Anfallsarmut“?: Eberl gibt vielsagendes Musiala-Update"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -150,6 +150,9 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/trotz-startelf-comeback-bayern-youngster-karl-braucht-noch-zeit-94477440.html": "Trotz Startelf-Comeback: Bayern-Youngster Karl braucht noch Zeit",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/musiala-feiert-comeback-bayern-boss-gibt-klare-prognose-94477392.html": "Musiala feiert Comeback – Bayern-Boss gibt klare Prognose",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/neuer-reagiert-gelassen-auf-pfeifkonzert-in-der-veltins-arena-94477385.html": "Manuel Neuer nimmt Pfeifkonzert gelassen: „Das ist Liebe“",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-boss-setzt-sich-fuer-aufhebung-von-roter-karte-ein-94477367.html": "Balogun 2.0? Bayern-Boss setzt sich für Aufhebung von roter Karte ein",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/musiala-feiert-emotionales-comeback-und-macht-sofort-wieder-hoffnung-94477232.html": "Musiala feiert emotionales Comeback und macht sofort wieder Hoffnung",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/manuel-neuer-hatte-bei-schalke-rueckkehr-ein-besonderes-einlaufkind-94477210.html": "Manuel Neuer hatte bei Schalke-Rückkehr ein besonderes Einlaufkind",
@@ -183,9 +186,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-neue-staerke-als-trumpf-in-allen-wettbewerben-94473232.html": "FC Bayern: Neue Stärke als Trumpf in allen Wettbewerben",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-schalke-04-gegen-fc-bayern-live-im-tv-und-stream-hier-laeuft-die-bundesliga-94473192.html": "FC Schalke 04 gegen FC Bayern heute live im TV und Stream: Hier läuft die Bundesliga",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/vater-von-ex-bayern-star-tritt-aus-gesundheitlichen-gruenden-zurueck-94473184.html": "Vater von Ex-Bayern-Star tritt aus gesundheitlichen Gründen als Trainer zurück",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-und-harry-kane-bringen-vertragsverhandkungen-ins-rollen-94473079.html": "Kane und Bayern wollen Vertrag verlängern – doch ein Detail sorgt für Spannung",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/pleite-ab-bayern-ikone-thomas-mueller-wendet-mit-vancouver-whitecaps-pokal-94472920.html": "Thomas Müller wendet in ungewohnter Rolle Pokal-Pleite ab",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-boss-eberl-gibt-vielsagendes-update-zum-musiala-comeback-94472837.html": "Comeback erst bei „Anfallsarmut“?: Eberl gibt vielsagendes Musiala-Update",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {

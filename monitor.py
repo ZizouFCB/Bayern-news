@@ -303,13 +303,14 @@ def main():
 
             new_articles = []
 
-                for article_url, title in current_articles.items():
+            for article_url, title in current_articles.items():
 
             if article_url not in old_articles and article_url not in notified_urls:
-               new_articles.append({
-                   "title": title,
-                   "url": article_url
-               })
+               
+            new_articles.append({
+                "title": title,
+                "url": article_url
+            })
 
             print(
                 "New articles:",

@@ -259,7 +259,6 @@
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/drastisch-in-der-sprache-so-bewertet-stindl-den-kleindienst-wirbel": "So bewertet Stindl Kleindiensts Wutrede"
   },
   "Sky Bayern": {
-    "https://sport.sky.de/fussball/artikel/provokanter-jubel-gegen-ex-klub-hsv-aerger-um-koenigsdoerffer/13582436/34396": "Provokanter Jubel gegen Ex-Klub! HSV-Ärger um Königsdörffer",
     "https://sport.sky.de/fussball/artikel/desolater-hsv-geht-gegen-mainz-unter/13582426/34828": "Desolater HSV geht gegen Mainz unter",
     "https://sport.sky.de/fussball/artikel/everton-schockt-united-in-letzter-minute-mit-traumtor/13582403/34357": "Everton schockt United in letzter Minute mit Traumtor",
     "https://sport.sky.de/fussball/artikel/traumtor-everton-schockt-united-mit-fackel-aus-25-metern/13582388/35311": "TRAUMTOR! Everton schockt United mit Fackel aus 25 Metern",
@@ -301,6 +300,7 @@
     "https://sport.sky.de/fussball/artikel/leno-kassiert-mit-fulham-dritte-niederlage-in-folge/13582042/34945": "Leno kassiert mit Fulham dritte Niederlage in Folge",
     "https://sport.sky.de/fussball/artikel/ex-hsv-star-sichert-brighton-einen-punkt/13582036/34357": "Ex-HSV-Star sichert Brighton einen Punkt",
     "https://sport.sky.de/fussball/artikel/null-tore-spurs-tottenham-bleibt-sieglos/13582035/37182": "Null-Tore-Spurs: Tottenham bleibt sieglos",
+    "https://sport.sky.de/fussball/artikel/provokanter-jubel-gegen-ex-klub-hsv-aerger-um-koenigsdoerffer/13582436/34396": "Provokanter Jubel gegen Ex-Klub! HSV-Ärger um Königsdörffer",
     "https://sport.sky.de/fussball/artikel/sky-sport-kolumne-von-wolff-fuss-zum-topspiel-zwischen-schalke-und-bayern/13582211/34130": "Für den Klassenerhalt wird es weitere solcher Partys brauchen",
     "https://sport.sky.de/fussball/artikel/gianni-infantino-kandidiert-erneut-fifa-praesident-stellt-sich-2027-zur-wiederwahl/13582294/35311": "Infantino-Entscheidung gefallen",
     "https://sport.sky.de/fussball/artikel/transfer-update-news/12478082/34132": "FCB-Boss über Kane & Olise || Stürmer-Ikone in die 2. Liga",
@@ -318,7 +318,6 @@
     "https://sport.sky.de/fussball/artikel/bayern-torhueter-manuel-neuer-bei-schalke-rueckkehr-mit-pfiffen-empfangen/13581873/34381": "Ungemütlicher Neuer-Empfang bei Schalke-Rückkehr",
     "https://sport.sky.de/fussball/artikel/bvb-verteidiger-filippo-mane-verletzt-sich-beim-spiel-gegen-die-tsg-hoffenheim/13581787/34372": "Nächste Verletzung! BVB-Abwehrsorgen werden größer",
     "https://sport.sky.de/fussball/artikel/msv-duisburg-bleibt-makellos-tabellenfuehrer-dreht-spiel-in-regensburg-saarbruecken-springt-auf-rang-zwei/13581784/34130": "MSV behauptet Tabellenführung || Saarbrücken springt auf Rang zwei",
-    "https://sport.sky.de/fussball/artikel/schalke-04-gegen-fc-bayern-edin-dzeko-freut-sich-auf-wiedersehen-mit-vincent-kompany/13581617/34835": "Dzeko: \"Was Kompany schon geschafft hat, das ist Wahnsinn\"",
     "https://sport.sky.de/fussball/artikel/gesagt-gemeint-vom-04-09-26/13581425/34241": "Gesagt. Gemeint! vom 04.09.26"
   },
   "BILD FUSSBALL": {
@@ -350,11 +349,11 @@
     "https://m.bild.de/sport/fussball/seit-jahren-tor-und-sieglos-schalke-kaempft-gegen-die-horror-bayern-serien-6a9ac1e0dde98c9236181ca2": "Seit Jahren tor- und sieglos : Schalke kämpft gegen die Horror-Bayern-Serien!",
     "https://m.bild.de/sport/fussball/arijon-ibrahimovic-so-plant-der-fc-augsburg-mit-dem-leihstar-des-fc-bayern-6a9ab42408c763dcf81f41e1": "Baum verrät : So plant Augsburg mit Bayerns Ibrahimovic",
     "https://m.bild.de/sport/fussball/bundesliga-alle-infos-und-aufstellungen-zum-2-spieltag-6a9a89b6b3e0470a1975b5c5": "Infos und Aufstellungen : Fünf heiße Startelf-Kämpfe bei den Bayern",
-    "https://m.bild.de/sport/fussball/1-bundesliga-horror-heimdebuet-fuer-den-hsv-0-5-klatsche-gegen-mainz-6a9d58a5240b302c8a83b062": "Klatsche gegen Mainz ++ Erster Torschuss erst in Hälfte zwei : Horror-Heimdebüt für den HSV!",
-    "https://m.bild.de/sport/fussball/koenigsdoerffer-lacht-den-hsv-aus-provozierender-jubel-nach-beleidigungen-6a7db319169e8e32c0ae6bf3": "Provozierender Jubel : Königsdörffer lacht den HSV aus",
+    "https://m.bild.de/sport/fussball/eintracht-frankfurt-103-sekunden-kippen-huetters-heim-debuet-gegen-fca-6a9d7eefc0adcd67d87bba2c": "4 Gegentore, wieder kein Sieg : Eintracht-K.o. in 103 Sekunden",
+    "https://m.bild.de/sport/fussball/bayer-leverkusen-kein-wuesten-wechsel-mehr-jonas-hofmann-bleibt-endgueltig-in-leverkusen-6a9d8dda181cb962d4885b08": "Kein Wüsten-Wechsel mehr : Hofmann bleibt in Leverkusen!",
+    "https://m.bild.de/sport/fussball/1-bundesliga-horror-heimdebuet-fuer-den-hsv-0-5-klatsche-gegen-mainz-6a9d58a5240b302c8a83b062": "Heftige Klatsche gegen Mainz : Horror-Heimdebüt für den HSV!",
+    "https://m.bild.de/sport/fussball/koenigsdoerffer-lacht-den-hsv-aus-provozierender-jubel-nach-beleidigungen-6a7db319169e8e32c0ae6bf3": "Provozierender Jubel nach Beleidigungen : Königsdörffer lacht den HSV aus",
     "https://m.bild.de/sport/fussball/mainz-siegt-5-0-hsv-klatsche-becker-zaubert-rueckkehrer-jubelt-6a9d8ad6181cb962d4885adb": "Mainz siegt 5:0 : HSV-Klatsche: Becker zaubert, Rückkehrer jubelt",
-    "https://m.bild.de/sport/fussball/borussia-moenchengladbach-kracht-zurueck-in-die-bundesliga-krise-6a9c6042181cb962d4884d97": "Gladbach in der Krise : Spannende Reaktion auf Fan-Pfiffe",
-    "https://m.bild.de/sport/fussball/bayer-leverkusen-rueckkehrer-moussa-diaby-vom-fan-empfang-bei-bayer-04-ueberwaeltigt-6a9d191f6a3073fc0d24843c": "Nach drei Jahren wieder da : Rückkehrer Diaby vom Fan-Empfang überwältigt",
-    "https://m.bild.de/sport/fussball/tsg-hoffenheim-ilzer-beklagt-schiri-bonus-fuer-top-teams-6a9d59b0240b302c8a83b0dd": "Last-Minute-Pleite gegen Dortmund : Bundesliga-Trainer beklagt Schiri-Bonus für Top-Teams"
+    "https://m.bild.de/sport/fussball/borussia-moenchengladbach-kracht-zurueck-in-die-bundesliga-krise-6a9c6042181cb962d4884d97": "Gladbach in der Krise : Spannende Reaktion auf Fan-Pfiffe"
   }
 }

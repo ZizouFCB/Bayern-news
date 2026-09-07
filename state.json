@@ -32,6 +32,8 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/das-gab-noch-nie-novum-fuer-den-fc-bayern-in-der-champions-league-94479164.html": "Das gab‘s noch nie: Novum für den FC Bayern in der Champions League",
+    "https://www.tz.de/sport/fc-bayern/bayern-star-harry-kane-denkt-noch-lange-nicht-ans-aufhoeren-94479092.html": "Bayern-Star Harry Kane denkt noch lange nicht ans Aufhören",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-gegen-fk-bodo-glimt-live-im-tv-und-stream-hier-laeuft-die-champions-league-94479044.html": "FC Bayern gegen FK Bodo/Glimt live im TV und Stream: Hier läuft die Champions League",
     "https://www.tz.de/sport/fc-bayern/bayern-star-diaz-sucht-noch-nach-seiner-treffsicherheit-94478973.html": "Verfall in alte Muster: Bayern-Star Diaz sucht noch nach seiner Treffsicherheit",
     "https://www.tz.de/sport/fc-bayern/bayern-leihgabe-sorgt-fuer-wende-und-sendet-ein-signal-nach-muenchen-94478651.html": "Bayern-Leihgabe sorgt für Wende und sendet ein Signal nach München",
@@ -67,9 +69,7 @@
     "https://www.tz.de/sport/fc-bayern/und-stream-frauen-bundesliga-fc-bayern-gegen-sc-freiburg-live-im-tv-94473271.html": "FC Bayern gegen SC Freiburg heute live im TV und Stream: Hier sehen Sie die Frauen-Bundesliga",
     "https://www.tz.de/sport/fc-bayern/bayer-legende-thomas-mueller-philosophiert-ueber-plaene-nach-karriereende-94474385.html": "Trainer-Dasein nach Karriereende? Thomas Müller lässt aufhorchen",
     "https://www.tz.de/sport/fc-bayern/fc-bayern-in-der-runde-des-dfb-pokals-auslosung-gegner-termine-94474229.html": "FC Bayern in der 2. Runde des DFB-Pokals: Auslosung, Gegner, Termine",
-    "https://www.tz.de/sport/fc-bayern/tor-in-osnabrueck-tom-bischof-bewirbt-sich-fuer-bayern-startelf-94473720.html": "Tom Bischof bewirbt sich für Bayern-Startelf",
-    "https://www.tz.de/sport/fc-bayern/tuerkischer-klub-schnappt-sich-ex-bayern-flirt-fuer-rekordsumme-94473714.html": "Türkischer Klub schnappt sich Ex-Bayern-Flirt und stellt Transferrekord auf",
-    "https://www.tz.de/sport/fc-bayern/gnabry-arbeitet-sich-zurueck-hoffnung-auf-baldige-rueckkehr-94473463.html": "Gnabry arbeitet sich zurück: Kompany macht Hoffnung auf baldige Rückkehr"
+    "https://www.tz.de/sport/fc-bayern/tor-in-osnabrueck-tom-bischof-bewirbt-sich-fuer-bayern-startelf-94473720.html": "Tom Bischof bewirbt sich für Bayern-Startelf"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -150,12 +150,14 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/das-gab-noch-nie-novum-fuer-den-fc-bayern-in-der-champions-league-94479164.html": "Das gab‘s noch nie: Novum für den FC Bayern in der Champions League",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-star-harry-kane-denkt-noch-lange-nicht-ans-aufhoeren-94479092.html": "Bayern-Star Harry Kane denkt noch lange nicht ans Aufhören",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-gegen-fk-bodo-glimt-live-im-tv-und-stream-hier-laeuft-die-champions-league-94479044.html": "FC Bayern gegen FK Bodo/Glimt live im TV und Stream: Hier läuft die Champions League",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-star-diaz-sucht-noch-nach-seiner-treffsicherheit-94478973.html": "Verfall in alte Muster: Bayern-Star Diaz sucht noch nach seiner Treffsicherheit",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-leihgabe-sorgt-fuer-wende-und-sendet-ein-signal-nach-muenchen-94478651.html": "Bayern-Leihgabe sorgt für Wende und sendet ein Signal nach München",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/jetzt-abstimmen-auf-schalke-hat-kompany-zu-viel-rotiert-94478606.html": "Jetzt abstimmen: 0:0 auf Schalke – hat Kompany zu viel rotiert?",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-sucht-weiter-nach-einer-loesung-fuer-sorgenkind-94478454.html": "Eberl gibt nicht auf: FC Bayern sucht weiter nach einer Lösung für Sorgenkind",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/olise-abschied-beim-fc-bayern-boss-dreesen-laesst-mit-transfer-prognose-aufhorchen-zr-94477692.html": "Bayern-Boss lässt mit Prognose zu Olise-Zukunft aufhorchen",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-gegen-fk-bodo-glimt-live-im-tv-und-stream-hier-laeuft-die-champions-league-94479044.html": "FC Bayern gegen FK Bodo/Glimt live im TV und Stream: Hier läuft die Champions League",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/schalke-sollte-als-lehrbeispiel-fuer-den-rest-der-liga-gelten-94477473.html": "Schalke sollte als Lehrbeispiel für den Rest der Liga gelten",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/trotz-startelf-comeback-bayern-youngster-karl-braucht-noch-zeit-94477440.html": "Trotz Startelf-Comeback: Bayern-Youngster Karl braucht noch Zeit",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/musiala-feiert-comeback-bayern-boss-gibt-klare-prognose-94477392.html": "Musiala feiert Comeback – Bayern-Boss gibt klare Prognose",
@@ -184,8 +186,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/mancity-will-bayern-star-pavlovic-doch-der-sagt-einfach-nein-94474782.html": "ManCity bietet für Bayern-Star 100 Millionen – doch der sagt einfach Nein",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/und-stream-frauen-bundesliga-fc-bayern-gegen-sc-freiburg-live-im-tv-94473271.html": "FC Bayern gegen SC Freiburg heute live im TV und Stream: Hier sehen Sie die Frauen-Bundesliga",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayer-legende-thomas-mueller-philosophiert-ueber-plaene-nach-karriereende-94474385.html": "Trainer-Dasein nach Karriereende? Thomas Müller lässt aufhorchen",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/der-welt-manuel-neuer-begruesst-sein-zweites-kind-auf-94474303.html": "Manuel und Anika Neuer sind wieder Eltern geworden",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-in-der-runde-des-dfb-pokals-auslosung-gegner-termine-94474229.html": "FC Bayern in der 2. Runde des DFB-Pokals: Auslosung, Gegner, Termine",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {
@@ -252,10 +252,11 @@
   "SPORT2": {
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/das-olise-problem-der-bayern": " Das Olise-Problem der Bayern",
     "https://www.sport1.de/tv-video/video/er-ist-der-heimliche-sieger-beim-bvb__B659D4D0-2AC4-4187-8CF0-20E5AFE12B1B": " 00:52 Er ist der heimliche Sieger beim BVB",
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/ein-bisschen-wie-grimaldo-bayer-neuzugang-mit-koeniglicher-gabe": " Ein echter Transfer-Coup?",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/31-hsv-millionen-fuer-nichts": " 31 Millionen für nichts?",
     "https://www.sport1.de/tv-video/video/flicks-barca-ambitionen-ware-es-das-ende-ware-ich-glucklicher-als-jetzt__DF10342E-ADCA-495D-A791-6C10C88FA309": " 01:14 \"Wäre es das Ende, wäre ich glücklicher als jetzt\"",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/hamann-bewertet-bayern-neuzugang-er-ist-wie-ein-schlechter-kane": " Hamann: \"Er ist wie ein schlechter Kane\"",
     "https://www.sport1.de/news/fussball/champions-league/2026/09/kovac-gibt-update-zu-mane-verletzung-bvb-weiter-mit-abwehrsorgen": " Kovac gibt Update zu Mane-Verletzung",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/ein-bisschen-wie-grimaldo-bayer-neuzugang-mit-koeniglicher-gabe": "Ein echter Transfer-Coup?",
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-neuer-pfiffe-aergern-auch-thon": "Neuer-Pfiffe ärgern auch Thon"
   },
   "Sky Bayern": {

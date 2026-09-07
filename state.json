@@ -304,6 +304,7 @@
     "https://sport.sky.de/fussball/artikel/aston-villa-laesst-punkte-liegen/13582082/34357": "Aston Villa lässt Punkte liegen",
     "https://sport.sky.de/fussball/artikel/leno-kassiert-mit-fulham-dritte-niederlage-in-folge/13582042/34945": "Leno kassiert mit Fulham dritte Niederlage in Folge",
     "https://sport.sky.de/fussball/artikel/provokanter-jubel-gegen-ex-klub-hsv-aerger-um-koenigsdoerffer/13582436/34396": "HSV-Ärger um Torjubel! Teamkollege verteidigt Königsdörffer",
+    "https://sport.sky.de/fussball/artikel/pk-live-im-free-stream-pressekonferenzen-der-champions-league/12476322/34171": "14 Uhr im FREE-Stream: Kovac und Anton vor CL-Auftakt gegen Villarreal",
     "https://sport.sky.de/fussball/artikel/didi-hamann-bringt-schalke-keeper-karius-fuer-dfb-team-ins-gespraech/13582540/34381": "Plötzlich Klopp-Kandidat und sogar Neuer-Nachfolger?",
     "https://sport.sky.de/fussball/artikel/nick-woltemade-bei-juventus-spalletti-setzt-weiter-auf-kolo-muani/13582646/34942": "\"Woltemade?\" Spalletti setzt weiter auf Ex-SGE-Stürmer",
     "https://sport.sky.de/fussball/artikel/transfer-update-news/12478082/34132": "8 Mio. für Null-Sekunden-Mann || Ex-Union-Duo in Rom wiedervereint",
@@ -322,8 +323,7 @@
     "https://sport.sky.de/fussball/artikel/hamann-kritisiert-kleindienst-nach-gladbach-tor-scharf/13581974/34378": "Hamann tobt nach Kleindienst-Szene: \"Grobe Unsportlichkeit\"",
     "https://sport.sky.de/fussball/artikel/mls-kompakt-messi-mit-zwei-assists-reus-mit-tor-und-mueller-ohne-punkte/13582195/34130": "Messi glänzt mit zwei Assists || Müller verliert || Reus trifft",
     "https://sport.sky.de/fussball/artikel/elversberg-muss-gegen-bayern-auf-trainer-vincent-wagner-verzichten/13581810/34130": "Platzverweis hat Bayern-Folgen für Aufstiegstrainer",
-    "https://sport.sky.de/fussball/artikel/ajax-amsterdam-verliert-bei-debuet-von-thilo-kehrer-gegen-psv-eindhoven/13582136/35311": "Ajax-Dämpfer bei Kehrer-Debüt",
-    "https://sport.sky.de/fussball/artikel/bayern-torhueter-manuel-neuer-bei-schalke-rueckkehr-mit-pfiffen-empfangen/13581873/34381": "Ungemütlicher Neuer-Empfang bei Schalke-Rückkehr"
+    "https://sport.sky.de/fussball/artikel/ajax-amsterdam-verliert-bei-debuet-von-thilo-kehrer-gegen-psv-eindhoven/13582136/35311": "Ajax-Dämpfer bei Kehrer-Debüt"
   },
   "BILD FUSSBALL": {
     "https://m.bild.de/sport/fussball/wegen-dortmund-schalke-kapitaen-becker-scherzt-bei-platzwahl-asozial-6a9e85cc721eb476650a239a": "Wegen Dortmund : Schalke-Kapitän bei Platzwahl: „Asozial!“",
@@ -354,11 +354,11 @@
     "https://m.bild.de/sport/fussball/dicke-ueberraschung-gegen-bayern-dreimal-note-1-fuer-die-schalke-fighter-6a9c3f1d240b302c8a83a597": "Dicke Überraschung gegen Bayern : Dreimal Note 1 für die Schalke-Fighter!",
     "https://m.bild.de/sport/fussball/jamal-musiala-comeback-fuer-bayern-auf-schalke-6a9c5520fd8102779ee4a628": "Nach zwei Zusammenbrüchen : Musiala wieder da!",
     "https://m.bild.de/sport/fussball/bayern-muenchen-500-fans-duerfen-nach-einer-pruegelei-nicht-ins-schalke-stadion-6a9c4445fd8102779ee4a4e4": "Prügelei auf Parkplatz : 500 Bayern-Fans dürfen nicht ins Stadion",
+    "https://m.bild.de/sport/fussball/bundesliga-elversberg-legt-protest-gegen-sperre-von-trainer-vincent-wagner-ein-6a9e9b9f181cb962d4886b1d": "Nach Gelb-Rot gegen Trainer Wagner : Elversberg legt Protest ein!",
     "https://m.bild.de/sport/fussball/1-fc-union-gala-im-derby-wunderkind-16-in-bundesligaform-6a9e7d1b181cb962d488675c": "Nächste Derby-Gala : Unions Toptalent in Bundesligaform",
     "https://m.bild.de/sport/fussball/bundesliga-das-wunder-von-elversberg-jetzt-kommen-die-bayern-6a9d20e9240b302c8a83acb4": "Jetzt kommen die Bayern : BILD erklärt das Elversberg-Wunder",
     "https://m.bild.de/sport/fussball/werder-bremen-freundin-schwer-erkrankt-emotionale-thioune-gespraeche-mit-dinkci-6a9e7f5a721eb476650a227f": "Freundin schwer erkrankt : Emotionale Thioune-Gespräche mit Dinkci",
     "https://m.bild.de/sport/fussball/nach-fehlentscheidung-freispruch-fuer-wunder-wagner-6a9d2e036067248f60a527c1": "Nach Fehlentscheidung : Freispruch für Wunder-Wagner?",
-    "https://m.bild.de/sport/fussball/borussia-moenchengladbach-philipp-sander-nimmt-sich-in-die-pflicht-6a9d62676067248f60a52cc8": "„An die eigene Nase fassen“ : Sander-Forderung an sich selbst",
-    "https://m.bild.de/sport/fussball/borussia-moenchengladbach-jetzt-ist-das-neue-trainerteam-gefordert-6a9e4737181cb962d48862ed": "Nach der Blitz-Krise : Jetzt ist Gladbachs neues Trainerteam gefordert!"
+    "https://m.bild.de/sport/fussball/borussia-moenchengladbach-philipp-sander-nimmt-sich-in-die-pflicht-6a9d62676067248f60a52cc8": "„An die eigene Nase fassen“ : Sander-Forderung an sich selbst"
   }
 }

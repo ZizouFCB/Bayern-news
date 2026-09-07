@@ -151,6 +151,7 @@
   "Absolut Bayern": {
     "https://www.absolutfussball.com": "Nachrichten von Absolut Fussball",
     "https://www.absolutfussball.com/": "Absolut Fussball Startseite",
+    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-sucht-weiter-nach-einer-loesung-fuer-sorgenkind-94478454.html": "Eberl gibt nicht auf: FC Bayern sucht weiter nach einer Lösung für Sorgenkind",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/olise-abschied-beim-fc-bayern-boss-dreesen-laesst-mit-transfer-prognose-aufhorchen-zr-94477692.html": "Bayern-Boss lässt mit Prognose zu Olise-Zukunft aufhorchen",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/schalke-sollte-als-lehrbeispiel-fuer-den-rest-der-liga-gelten-94477473.html": "Schalke sollte als Lehrbeispiel für den Rest der Liga gelten",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/trotz-startelf-comeback-bayern-youngster-karl-braucht-noch-zeit-94477440.html": "Trotz Startelf-Comeback: Bayern-Youngster Karl braucht noch Zeit",
@@ -186,7 +187,6 @@
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/tuerkischer-klub-schnappt-sich-ex-bayern-flirt-fuer-rekordsumme-94473714.html": "Türkischer Klub schnappt sich Ex-Bayern-Flirt und stellt Transferrekord auf",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/gnabry-arbeitet-sich-zurueck-hoffnung-auf-baldige-rueckkehr-94473463.html": "Gnabry arbeitet sich zurück: Kompany macht Hoffnung auf baldige Rückkehr",
     "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/harry-kane-knackt-mueller-tor-rekord-in-osnabrueck-94473329.html": "Harry Kane knackt Müller-Rekord",
-    "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/fc-bayern-neue-staerke-als-trumpf-in-allen-wettbewerben-94473232.html": "FC Bayern: Neue Stärke als Trumpf in allen Wettbewerben",
     "https://www.absolutfussball.com/wettbewerbe/": "Übersicht Wettbewerbe/Teams"
   },
   "SZ Bayern": {
@@ -263,7 +263,7 @@
   },
   "Sky Bayern": {
     "https://sport.sky.de/fussball/artikel/wie-ein-schlechter-kane-hamann-zu-saibari/13582498/34828": "''Wie ein schlechter Kane'' - Hamann urteilt über Bayern-Neuzugang",
-    "https://sport.sky.de/fussball/artikel/provokanter-jubel-gegen-ex-klub-hsv-aerger-um-koenigsdoerffer/13582436/34396": "HSV-Ärger um Torjubel! Teamkollege verteidigt Königsdörffer",
+    "https://sport.sky.de/fussball/artikel/didi-hamann-bringt-schalke-keeper-karius-fuer-dfb-team-ins-gespraech/13582540/34942": "Plötzlich Klopp-Kandidat und sogar Neuer-Nachfolger?",
     "https://sport.sky.de/fussball/artikel/havertz-fuehrt-gunners-mit-tor-geniestreich-zum-sieg/13582518/34357": "Havertz führt Gunners mit Tor & Geniestreich zum Sieg",
     "https://sport.sky.de/fussball/artikel/4-1-nach-0-1-augsburg-erobert-in-frankfurt-tabellenspitze/13582516/34828": "4:1 nach 0:1 - Augsburg erobert in Frankfurt Tabellenspitze",
     "https://sport.sky.de/fussball/artikel/desolater-hsv-geht-gegen-mainz-unter/13582426/34828": "Desolater HSV geht gegen Mainz unter",
@@ -304,6 +304,7 @@
     "https://sport.sky.de/fussball/artikel/blitztreffer-nach-77-sekunden-rodgers-schockt-die-gunners/13582417/34497": "Blitztreffer nach 77 Sekunden! Rogers schockt die Gunners",
     "https://sport.sky.de/fussball/artikel/aston-villa-laesst-punkte-liegen/13582082/34357": "Aston Villa lässt Punkte liegen",
     "https://sport.sky.de/fussball/artikel/leno-kassiert-mit-fulham-dritte-niederlage-in-folge/13582042/34945": "Leno kassiert mit Fulham dritte Niederlage in Folge",
+    "https://sport.sky.de/fussball/artikel/provokanter-jubel-gegen-ex-klub-hsv-aerger-um-koenigsdoerffer/13582436/34396": "HSV-Ärger um Torjubel! Teamkollege verteidigt Königsdörffer",
     "https://sport.sky.de/fussball/artikel/nick-woltemade-bei-juventus-spalletti-setzt-weiter-auf-kolo-muani/13582646/34942": "\"Woltemade?\" Spalletti setzt weiter auf Ex-SGE-Stürmer",
     "https://sport.sky.de/fussball/artikel/transfer-update-news/12478082/34132": "8 Mio. für Null-Sekunden-Mann || Ex-Union-Duo in Rom wiedervereint",
     "https://sport.sky.de/fussball/artikel/schalker-markt-der-s04-podcast-von-sky-sport/13458938/34835": "\"Schalker Markt\" - der S04-Podcast von Sky Sport",

@@ -32,6 +32,7 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/sohn-von-ex-bayern-star-rammt-gegner-ins-krankenhaus-und-sieht-nur-gelb-94479943.html": "Sohn von Ex-Bayern-Star rammt Gegner ins Krankenhaus – und sieht nur Gelb",
     "https://www.tz.de/sport/fc-bayern/elversberg-trainer-wagner-bleibt-gegen-fc-bayern-gesperrt-94479929.html": "Elversberg-Trainer bleibt trotz Protest gegen FC Bayern gesperrt",
     "https://www.tz.de/sport/fc-bayern/ex-bayern-star-leon-goretzka-muss-noch-auf-villa-debuet-warten-94479870.html": "Ex-Bayern-Star Goretzka muss Debüt für Aston Villa weiter verschieben",
     "https://www.tz.de/sport/fc-bayern/didi-hamann-faellt-hartes-urteil-ueber-bayern-neuzugang-94479703.html": "Didi Hamann fällt hartes Urteil über Bayern-Neuzugang",
@@ -68,8 +69,7 @@
     "https://www.tz.de/sport/fc-bayern/dritter-transfer-geplant-bayern-trainer-kompany-reagiert-irritiert-94475467.html": "Dritter Top-Transfer geplant? Bayern-Trainer Kompany reagiert irritiert",
     "https://www.tz.de/sport/fc-bayern/heftiges-lospech-fuer-die-fc-bayern-frauen-in-der-champions-league-94475300.html": "Heftiges Lospech für den FC Bayern in der Champions League",
     "https://www.tz.de/sport/fc-bayern/grosse-ueberraschung-in-liverpool-wegen-bayern-interesse-an-youngster-94475006.html": "Bayern-Interesse an Offensiv-Juwel hat FC Liverpool wohl kalt erwischt",
-    "https://www.tz.de/sport/fc-bayern/ex-bayern-star-coutinho-nach-mentalen-problemen-monatelang-vereinslos-94474947.html": "Ex-Bayern-Star nach mentalen Problemen schon monatelang ohne neuen Verein",
-    "https://www.tz.de/sport/fc-bayern/bayern-ikone-thomas-mueller-blickt-zur-wiesn-wehmuetig-nach-muenchen-94474892.html": "Thomas Müller blickt besonders im September wehmütig nach München"
+    "https://www.tz.de/sport/fc-bayern/ex-bayern-star-coutinho-nach-mentalen-problemen-monatelang-vereinslos-94474947.html": "Ex-Bayern-Star nach mentalen Problemen schon monatelang ohne neuen Verein"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -260,8 +260,8 @@
     "https://www.sport1.de/news/fussball/bundesliga/2026/09/elversberg-legt-protest-gegen-wagner-sperre-ein": "Elversberg legt vor Bayern-Spiel Protest ein"
   },
   "Sky Bayern": {
-    "https://sport.sky.de/fussball/artikel/klopp-villa-muessen-warten-leon-goretzka-fehlt-wochenlang/13582935/35311": "Villa-Debüt verzögert sich! Goretzka fehlt wochenlang",
     "https://sport.sky.de/fussball/artikel/bvb-star-im-formtief-bei-nmecha-stottert-es-zum-saisonstart/13582821/34130": "BVB-Star im Formtief: Bei Nmecha stottert es zum Saisonstart",
+    "https://sport.sky.de/fussball/artikel/klopp-villa-muessen-warten-leon-goretzka-fehlt-wochenlang/13582935/35311": "Villa-Debüt verzögert sich! Goretzka fehlt wochenlang",
     "https://sport.sky.de/fussball/artikel/sv-elversberg-legt-einspruch-gegen-wagner-sperre-ein-trainer-hofft-auf-bayern-spiel/13582828/35311": "Wagner-Sperre gegen Bayern bleibt! DFB lehnt Elversberg-Einspruch ab",
     "https://sport.sky.de/fussball/artikel/hsv-startet-so-schlecht-wie-nie-in-die-bundesliga-saison-vier-fragen-rund-um-den-hamburger-sv/13582894/34130": "Nach historischem Fehlstart: Droht dem HSV jetzt ein Dilemma?",
     "https://sport.sky.de/fussball/artikel/weil-es-wichtig-ist-buschmann-fuss-positionieren-sich-gegen-hass-im-stadion/13582915/34828": "''Weil es wichtig ist!'' - Buschmann & Fuss positionieren sich gegen Hass im Stadion",
@@ -307,12 +307,12 @@
     "https://sport.sky.de/fussball/artikel/aston-villa-laesst-punkte-liegen/13582082/34357": "Aston Villa lässt Punkte liegen",
     "https://sport.sky.de/fussball/artikel/leno-kassiert-mit-fulham-dritte-niederlage-in-folge/13582042/34945": "Leno kassiert mit Fulham dritte Niederlage in Folge",
     "https://sport.sky.de/fussball/artikel/lothar-matthaeus-ueber-die-gelb-rote-karte-fuer-elversberg-trainer-wagner-bayern-die-cl/13582737/34130": "Das sind meine fünf Favoriten auf den CL-Titel",
+    "https://sport.sky.de/fussball/artikel/transfer-update-news/12478082/34132": "FCA gibt Defensivspieler ab",
+    "https://sport.sky.de/fussball/artikel/eintracht-frankfurt-feiert-auswaertssieg-bei-union-berlin/13582909/34942": "Freigang trifft! Eintracht feiert Auswärtssieg bei Union",
     "https://sport.sky.de/fussball/artikel/kai-havertz-glaenzt-bei-arsenal-sieg-gegen-chelsea-arteta-lobt-form-und-familienglueck/13582880/34942": "Invincibles 2.0? Arsenal marschiert - Sonderlob für \"Papa\" Havertz",
     "https://sport.sky.de/fussball/artikel/dfb-schnappt-sich-toptalent-louey-ben-farhat/13582787/34130": "DFB schnappt sich Toptalent",
     "https://sport.sky.de/fussball/artikel/vor-bodoe-glimt-harry-kane-sieht-bayern-nah-am-henkelpott/13582793/33895": "Kane mit CL-Ansage: \"Es muss unser Jahr werden\"",
     "https://sport.sky.de/fussball/artikel/dfb-team-klopp-vor-torwart-entscheidung-zwischen-baumann-ter-stegen-nuebel-urbig-und-karius/13582734/34658": "Klopps Torwart-Puzzle: Wer wird die neue Nummer eins beim DFB?",
-    "https://sport.sky.de/fussball/artikel/transfer-update-news/12478082/34132": "FCA gibt Defensivspieler ab",
-    "https://sport.sky.de/fussball/artikel/eintracht-frankfurt-feiert-auswaertssieg-bei-union-berlin/13582909/34942": "Freigang trifft! Eintracht feiert Auswärtssieg bei Union",
     "https://sport.sky.de/fussball/artikel/wie-ein-schlechter-kane-hamann-zu-saibari/13582498/35311": "''Wie ein schlechter Kane'' - Hamann urteilt über Bayern-Neuzugang",
     "https://sport.sky.de/fussball/artikel/hertha-bsc-ist-tabellenfuehrer-der-2-bundesliga-ein-kommentar-zum-erfolg/13582664/34387": "Ha Ho He - Tabellenführer von der Spree! Gründe für den Traumstart",
     "https://sport.sky.de/fussball/artikel/kylian-mbappe-macht-sich-nach-starker-wm-hoffnungen-auf-den-ballon-dor/13582806/34942": "Nach WM-Torjägerkrone: Mbappe schielt auf den Ballon d'Or",

@@ -343,6 +343,8 @@ def main():
                 f"ERROR: {name}: {e}"
             )
 
+    state["_notified_urls"] = list(notified_urls)
+
     save_state(state)
 
 

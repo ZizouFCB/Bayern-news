@@ -31,6 +31,7 @@
     "https://www.sport1.de/consent/widerrufen": "Nutzung mit Werbung beenden"
   },
   "tz Bayern": {
+    "https://www.tz.de/sport/fc-bayern/fc-bayern-harry-kane-macht-titelansage-in-der-champions-league-94480465.html": "Harry Kane nennt entscheidendes Detail für Champions-League-Sieg des FC Bayern",
     "https://www.tz.de/sport/fc-bayern/sohn-von-ex-bayern-star-rammt-gegner-ins-krankenhaus-und-sieht-nur-gelb-94479943.html": "Sohn von Ex-Bayern-Star rammt Gegner ins Krankenhaus – und sieht nur Gelb",
     "https://www.tz.de/sport/fc-bayern/elversberg-trainer-wagner-bleibt-gegen-fc-bayern-gesperrt-94479929.html": "Elversberg-Trainer bleibt trotz Protest gegen FC Bayern gesperrt",
     "https://www.tz.de/sport/fc-bayern/ex-bayern-star-leon-goretzka-muss-noch-auf-villa-debuet-warten-94479870.html": "Ex-Bayern-Star Goretzka muss Debüt für Aston Villa weiter verschieben",
@@ -67,8 +68,7 @@
     "https://www.tz.de/sport/fc-bayern/fc-bayern-kompany-hat-keine-angst-vor-musiala-zusammenbruechen-94475634.html": "Kompany sorgt sich nicht vor erneuten Musiala-Zusammenbrüchen",
     "https://www.tz.de/sport/fc-bayern/dritter-transfer-geplant-bayern-trainer-kompany-reagiert-irritiert-94475467.html": "Dritter Top-Transfer geplant? Bayern-Trainer Kompany reagiert irritiert",
     "https://www.tz.de/sport/fc-bayern/heftiges-lospech-fuer-die-fc-bayern-frauen-in-der-champions-league-94475300.html": "Heftiges Lospech für den FC Bayern in der Champions League",
-    "https://www.tz.de/sport/fc-bayern/grosse-ueberraschung-in-liverpool-wegen-bayern-interesse-an-youngster-94475006.html": "Bayern-Interesse an Offensiv-Juwel hat FC Liverpool wohl kalt erwischt",
-    "https://www.tz.de/sport/fc-bayern/ex-bayern-star-coutinho-nach-mentalen-problemen-monatelang-vereinslos-94474947.html": "Ex-Bayern-Star nach mentalen Problemen schon monatelang ohne neuen Verein"
+    "https://www.tz.de/sport/fc-bayern/grosse-ueberraschung-in-liverpool-wegen-bayern-interesse-an-youngster-94475006.html": "Bayern-Interesse an Offensiv-Juwel hat FC Liverpool wohl kalt erwischt"
   },
   "kicker Bayern": {},
   "Abendzeitung Bayern": {
@@ -249,13 +249,27 @@
   },
   "FC Bayern Official": {},
   "SPORT2": {
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/bvb-das-lachen-bei-serhou-guirassy-ist-zurueck": " Das klingt wie eine Drohung",
-    "https://www.sport1.de/tv-video/video/was-fur-ein-gefuhl-zverev-begeistert-kommentator-us-open__D9A1EB1B-6363-4963-B1F2-668956C30D11": " 05:53 \"Was für ein Gefühl!\" Zverev begeistert Kommentator",
-    "https://www.sport1.de/tv-video/video/offene-kovac-worte-uber-felix-nmecha__7CC78962-423A-46EC-8E70-67ED2A053C70": " 01:35 Offene Kovac-Worte über Nmecha",
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-vernichtendes-basler-urteil-ueber-lennart-karl": " Vernichtendes Urteil über Karl",
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-der-plan-von-harry-kane-wird-klarer": "Kanes Plan nimmt Formen an",
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/matthaeus-ueber-bundesliga-aufreger-an-laecherlichkeit-nicht-zu-ueberbieten": "\"An Lächerlichkeit nicht zu überbieten\"",
-    "https://www.sport1.de/news/fussball/bundesliga/2026/09/offiziell-bittere-nachricht-fuer-bayern-gegner": "Offiziell: Bittere Nachricht für Bayern-Gegner!"
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/bvb-das-lachen-bei-serhou-guirassy-ist-zurueck": "Das klingt wie eine Drohung",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-vernichtendes-basler-urteil-ueber-lennart-karl": "10:28 Bundesliga Vernichtendes Urteil über Karl",
+    "https://www.sport1.de/tv-video/video/im-eiltempo-us-open__d9a1eb1b-6363-4963-b1f2-668956c30d11": "Zverevs Machtdemonstration im Video",
+    "https://www.sport1.de/tv-video/video/unai-emery-ueber-leon-goretzka-es-ist-frustrierend__922d29ff-3d53-46fc-ad74-50df52b446db": "Goretzka? „Es ist frustrierend“",
+    "https://www.sport1.de/news/fussball/dfb-team/2026/09/nach-wm-eklat-zweitliga-juwel-will-wohl-fuer-deutschland-spielen": "Will er für Deutschland spielen?",
+    "https://www.sport1.de/tv-video/video/wm-k-o-phase-erreicht-das-sagen-die-dbb-frauen__514d593a-ec0f-4eca-8611-2a5a74975c1b": "WM-K.o.-Phase erreicht! Das sagen die DBB-Frauen",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/matthaeus-ueber-bundesliga-aufreger-an-laecherlichkeit-nicht-zu-ueberbieten": "Matthäus sauer: „Mehr als lächerlich“",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/fc-bayern-der-plan-von-harry-kane-wird-klarer": "07.09. Bundesliga Kanes Plan wird klarer",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/offiziell-bittere-nachricht-fuer-bayern-gegner": "07.09. Bundesliga Offiziell: Urteil im Fall Wagner ist da",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/fans-des-fc-bayern-acht-stunden-festgehalten": "FCB-Fans acht Stunden festgehalten",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/nach-jubel-provokation-hsv-stars-kritisieren-koenigsdoerffer": "Scharfe HSV-Kritik an Königsdörffer",
+    "https://www.sport1.de/tv-video/video/dreesens-satz-verraet-bayerns-olise-sorge__4acbc8e9-56e9-4510-adea-cc53eba33083": "Wird den Bayern ihre Taktik zum Verhängnis?",
+    "https://www.sport1.de/news/fussball/bundesliga/2026/09/elversberg-legt-protest-gegen-wagner-sperre-ein": "Elversberg protestiert vor Bayern-Spiel",
+    "https://www.sport1.de/tv-video/video/was-ist-tennis-fuer-eine-bekloppte-sportart-us-open__51e538f1-cfb4-4be8-a68d-535edf29d842": "„Was ist Tennis für eine bekloppte Sportart!“",
+    "https://www.sport1.de/tv-video/video/schroeder-setzt-zeichen-wir-supporten-das-ganze__70882977-7c59-4eda-a692-d85080ecafd1": "Schröder setzt Zeichen: „Wir supporten das Ganze“",
+    "https://www.sport1.de/tv-video/video/knie-drama-nach-dem-aus-kommen-ihr-bittere-traenen-us-open__cecfddcd-8ba5-4ac6-8f7c-ebb99bf021c0": "Aus unter Tränen! Rührende Szenen nach Verletzung",
+    "https://www.sport1.de/tv-video/video/frauen-bundesliga-1-fc-union-berlin-eintracht-frankfurt-01-highlights__422f7ff8-1121-45cc-80ac-c55c85c5d0db": "Mit dem Zopf! Hier wird Freigang zur Eintracht-Matchwinnerin",
+    "https://www.sport1.de/tv-video/video/diese-reporter-frage-nervt-mbappe-sichtlich__29d36395-5ae8-4f0a-b315-28186a9e8316": "Diese Reporter-Frage nervt Mbappé sichtlich",
+    "https://www.sport1.de/tv-video/video/hoeren-sie-mal-hin-kovacs-worte-kommen-einem-bekannt-vor__21d9bece-dfdb-45b9-b20e-2540d7a88328": "Hören Sie bei Kovacs Lobrede auf Anton mal genau hin!",
+    "https://www.sport1.de/tv-video/video/mourinho-teilt-aus-dann-muss-er-nach-hause-gehen__af4d6b58-bc99-4e54-ba8c-a3606a479c20": "Mourinho teilt aus! „Dann muss er nach Hause gehen“",
+    "https://www.sport1.de/tv-video/video/ziemlich-offene-kovac-worte-ueber-felix-nmecha__7cc78962-423a-46ec-8e70-67ed2a053c70": "Offene Kovac-Worte über Nmecha"
   },
   "Sky Bayern": {
     "https://sport.sky.de/fussball/artikel/bvb-star-im-formtief-bei-nmecha-stottert-es-zum-saisonstart/13582821/34130": "BVB-Star im Formtief: Bei Nmecha stottert es zum Saisonstart",

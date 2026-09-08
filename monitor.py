@@ -91,9 +91,29 @@ def is_bayern_article(title, url):
 def get_articles(html, site):
     
     if site["name"] == "FC Bayern Official":
-        print("FC BAYERN PAGE SAMPLE:")
-        print(html[:10000])
-        return []
+        articles = []
+        seen = set()
+
+        pattern = r'\[([^\]]+)\]\((https://fcbayern\.com/de/news/[^)]+)\)'
+
+        for match in re.finditer(pattern, html, re.DOTALL):
+            title = match.group(1).strip()
+            url = match.group(2).strip()
+
+            if url in seen:
+                continue
+
+            if len(title) < 20:
+                continue
+
+            seen.add(url)
+
+            articles.append({
+                "title": title,
+                "url": url
+            })
+
+        return articles
 
     if site["name"] == "Sky Bayern":
     

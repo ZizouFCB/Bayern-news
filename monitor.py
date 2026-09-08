@@ -141,9 +141,8 @@ def get_articles(html, site):
 
         return articles
 
-     if site["name"] == "Sky Bayern":
+    if site["name"] == "Sky Bayern":
     
-
         articles = []
         seen = set()
 

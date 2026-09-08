@@ -33,6 +33,9 @@ def get_page(url):
     if "sport.sky.de" in url:
         request_url = f"https://r.jina.ai/{url}"
 
+    if "fcbayern.com" in url:
+        request_url = f"https://r.jina.ai/{url}"
+
     if "sport.sky.de" in url:
         headers["X-No-Cache"] = "true"
 

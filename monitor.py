@@ -254,7 +254,7 @@ def main():
 
     state = load_state()
 
-    notified_urls = set()
+    notified_urls = set(state.get("_notified_urls", []))
 
     for site_state in state.values():
         if isinstance(site_state, dict):

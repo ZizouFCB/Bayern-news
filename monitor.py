@@ -94,9 +94,9 @@ def get_articles(html, site):
         articles = []
         seen = set()
 
-        pattern = r'\[([^\]]+)\]\((https://fcbayern\.com/de/news/[^)]+)\)'
+        pattern = r'\[([^\]]+)\]\((https://fcbayern\.com/[^)\s]+)'
 
-        for match in re.finditer(pattern, html, re.DOTALL):
+        for match in re.finditer(pattern, html):
             title = match.group(1).strip()
             url = match.group(2).strip()
 
@@ -104,6 +104,11 @@ def get_articles(html, site):
                 continue
 
             if len(title) < 20:
+                continue
+
+            path = urlparse(url).path.lower()
+
+            if "/de/news/" not in path:
                 continue
 
             seen.add(url)

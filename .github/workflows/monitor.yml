@@ -32,7 +32,9 @@ jobs:
         run: |
           git config user.name "Website Monitor"
           git config user.email "website-monitor@users.noreply.github.com"
+          git stash push -m "monitor state" state.json
           git pull --rebase origin main
+          git stash pop
           git add state.json
           git diff --cached --quiet || git commit -m "Update monitoring state"
           git push

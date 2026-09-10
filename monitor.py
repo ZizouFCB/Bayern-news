@@ -91,15 +91,54 @@ def is_bayern_article(title, url):
 def get_articles(html, site):
     
     if site["name"] == "FC Bayern Official":
-        print("FC BAYERN NEWS URLS:")
+        articles = []
+        seen = set()
 
-        for match in re.finditer(
-            r'https://fcbayern\.com/de/news/[^\s\)\]]+',
-            html
-        ):
-            print(match.group(0))
+        pattern = r'\[([^\]]+)\]\((https://fcbayern\.com/de/[^)\s]+)'
 
-        return []
+        excluded_paths = [
+            "/de",
+            "/de/",
+            "/de/kontakt",
+            "/de/tickets",
+            "/de/shop",
+            "/de/club",
+            "/de/fans",
+            "/de/teams",
+            "/de/match-center",
+            "/de/leichte-sprache",
+        ]
+
+        for match in re.finditer(pattern, html):
+            title = match.group(1).strip()
+            url = match.group(2).strip()
+
+            if url in seen:
+                continue
+
+            if len(title) < 15:
+                continue
+
+            path = urlparse(url).path.lower()
+
+            if any(path == excluded or path.startswith(excluded + "/")
+                   for excluded in excluded_paths):
+                continue
+
+            if (
+                "/de/news/" not in path
+                and "/fcbayerntv/" not in path
+            ):
+                continue
+
+            seen.add(url)
+
+            articles.append({
+                "title": title,
+                "url": url
+            })
+
+        return articles
 
     if site["name"] == "Sky Bayern":
     

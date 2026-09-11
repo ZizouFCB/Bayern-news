@@ -92,6 +92,8 @@ def get_articles(html, site):
     
     if site["name"] == "FC Bayern Official":
         articles = []
+        print("FC BAYERN RAW SAMPLE:")
+        print(html[:5000])
         seen = set()
 
         pattern = r'\[([^\]]+)\]\((https://fcbayern\.com/de/[^)\s]+)'

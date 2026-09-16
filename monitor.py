@@ -33,15 +33,11 @@ def get_page(url):
     if "sport.sky.de" in url:
         request_url = f"https://r.jina.ai/{url}"
 
-    if "fcbayern.com" in url:
-        request_url = (
-        "https://api.allorigins.win/raw?url="
-        + url
-    )
-
     if "sport.sky.de" in url:
         headers["X-No-Cache"] = "true"
 
+    print("TESTING FC BAYERN DIRECT:", request_url)
+    
     response = requests.get(
         request_url,
         headers=headers,

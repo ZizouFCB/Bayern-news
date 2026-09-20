@@ -211,6 +211,13 @@ def get_articles(html, site):
             if "/news/fussball/" not in path and "/tv-video/video/" not in path:
                 continue
 
+        # SPORT DE
+        elif name == "SPORT DE":
+            path = urlparse(url).path.lower()
+            
+            if "/fussball/" not in path:
+                continue
+
         # TZ Bayern
         elif name == "tz Bayern":
             if "/sport/fc-bayern/" not in url:
@@ -228,7 +235,7 @@ def get_articles(html, site):
             if "/gutscheine/" in path:
                 continue
 
-        if url in seen:
+            if url in seen:
             continue
 
         # T-Online Bayern

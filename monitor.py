@@ -236,7 +236,7 @@ def get_articles(html, site):
                 continue
 
         if url in seen:
-        continue
+            continue
 
         # T-Online Bayern
         elif name == "T-Online Bayern":

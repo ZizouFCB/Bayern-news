@@ -235,8 +235,8 @@ def get_articles(html, site):
             if "/gutscheine/" in path:
                 continue
 
-            if url in seen:
-            continue
+        if url in seen:
+        continue
 
         # T-Online Bayern
         elif name == "T-Online Bayern":

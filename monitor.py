@@ -141,6 +141,71 @@ def get_articles(html, site):
 
         return articles
 
+    if site["name"] == "NewsNow Bayern":
+        articles = []
+        seen = set()
+
+        soup = BeautifulSoup(html, "html.parser")
+
+        latest_heading = soup.find(
+            lambda tag:
+            tag.name in ["h1", "h2", "h3", "h4", "div", "span"]
+            and tag.get_text(" ", strip=True).lower() == "latest"
+        )
+
+        if latest_heading:
+            latest_section = latest_heading
+
+            for _ in range(5):
+                latest_section = latest_section.parent
+                if latest_section is None:
+                    break
+
+                links = latest_section.find_all("a", href=True)
+
+                valid_links = []
+                for link in links:
+                    title = link.get_text(" ", strip=True)
+                    href = link.get("href", "").strip()
+
+                    if len(title) < 20:
+                        continue
+
+                    if not href:
+                        continue
+
+                    if href.startswith("/"):
+                        href = urljoin(
+                            "https://www.newsnow.co.uk",
+                            href
+                        )
+
+                    if href in seen:
+                        continue
+
+                    if "/h/" in href:
+                        continue
+
+                    if "newsnow.co.uk" not in href.lower():
+                        continue
+
+                    valid_links.append((title, href))
+
+                if len(valid_links) >= 2:
+                    for title, href in valid_links:
+                        seen.add(href)
+
+                        articles.append({
+                            "title": title,
+                            "url": href
+                        })
+
+                    break
+
+        print("NewsNow Latest articles found:", len(articles))
+
+        return articles  
+
     if site["name"] == "Sky Bayern":
     
         articles = []

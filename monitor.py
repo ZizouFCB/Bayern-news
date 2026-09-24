@@ -147,29 +147,17 @@ def get_articles(html, site):
 
         soup = BeautifulSoup(html, "html.parser")
 
-        print("NEWSNOW LATEST LOCATIONS:")
+        print("NEWSNOW ARTICLE LINKS:")
 
-        lower_html = html.lower()
+        for link in soup.find_all("a", href=True):
+            href = link.get("href", "").strip()
+            title = link.get_text(" ", strip=True)
 
-        start = 0
-        count = 0
-
-        while True:
-            position = lower_html.find("latest", start)
-
-            if position == -1:
-                break
-
-            print(html[max(0, position - 500):position + 1000])
-
-            count += 1
-            start = position + 6
-
-            if count >= 10:
-                break
-
-        print("NEWSNOW LATEST OCCURRENCES:", count)
-
+            if "c.newsnow.co.uk" in href.lower():
+                print("TITLE:", title[:200])
+                print("URL:", href)
+                print("---")
+                
         latest_heading = soup.find(
             lambda tag:
             tag.name in ["h1", "h2", "h3", "h4", "div", "span"]

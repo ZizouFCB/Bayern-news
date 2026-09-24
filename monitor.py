@@ -147,8 +147,28 @@ def get_articles(html, site):
 
         soup = BeautifulSoup(html, "html.parser")
 
-        print("NEWSNOW RAW SAMPLE:")
-        print(html[:10000])
+        print("NEWSNOW LATEST LOCATIONS:")
+
+        lower_html = html.lower()
+
+        start = 0
+        count = 0
+
+        while True:
+            position = lower_html.find("latest", start)
+
+            if position == -1:
+                break
+
+            print(html[max(0, position - 500):position + 1000])
+
+            count += 1
+            start = position + 6
+
+            if count >= 10:
+                break
+
+        print("NEWSNOW LATEST OCCURRENCES:", count)
 
         latest_heading = soup.find(
             lambda tag:

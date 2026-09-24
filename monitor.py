@@ -147,6 +147,9 @@ def get_articles(html, site):
 
         soup = BeautifulSoup(html, "html.parser")
 
+        print("NEWSNOW RAW SAMPLE:")
+        print(html[:10000])
+
         latest_heading = soup.find(
             lambda tag:
             tag.name in ["h1", "h2", "h3", "h4", "div", "span"]

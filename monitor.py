@@ -147,16 +147,32 @@ def get_articles(html, site):
 
         soup = BeautifulSoup(html, "html.parser")
 
-        print("NEWSNOW ARTICLE LINKS:")
+        articles = []
+        seen = set()
 
         for link in soup.find_all("a", href=True):
             href = link.get("href", "").strip()
             title = link.get_text(" ", strip=True)
 
-            if "c.newsnow.co.uk" in href.lower():
-                print("TITLE:", title[:200])
-                print("URL:", href)
-                print("---")
+            if "c.newsnow.co.uk" not in href.lower():
+                continue
+
+            if len(title) < 20:
+                continue
+
+            if href in seen:
+                continue
+
+            seen.add(href)
+
+            articles.append({
+                "title": title,
+                "url": href
+            })
+
+        print("NewsNow Latest articles found:", len(articles))
+
+        return articles
                 
         latest_heading = soup.find(
             lambda tag:

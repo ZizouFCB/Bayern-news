@@ -141,21 +141,22 @@ def get_articles(html, site):
 
         return articles
 
+    if site["name"] == "Kicker Bayern":
+            
+        print("KICKER LINKS:")
+        for link in soup.find_all("a", href=True):
+            title = link.get_text(" ", strip=True)
+            href = link.get("href", "").strip()
+
+            if title and href:
+    
+                print("KICKER:", title, "=>", href)
+
     if site["name"] == "NewsNow Bayern":
         articles = []
         seen = set()
 
         soup = BeautifulSoup(html, "html.parser")
-
-        if site["name"] == "Kicker Bayern":
-            print("KICKER LINKS:")
-            for link in soup.find_all("a", href=True):
-                title = link.get_text(" ", strip=True)
-                href = link.get("href", "").strip()
-
-                if title and href:
-    
-                    print("KICKER:", title, "=>", href)
 
         articles = []
         seen = set()

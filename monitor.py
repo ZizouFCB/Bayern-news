@@ -154,7 +154,7 @@ def get_articles(html, site):
                 href = link.get("href", "").strip()
 
                 if title and href:
-        print("KICKER:", title, "=>", href)
+print("KICKER:", title, "=>", href)
 
         articles = []
         seen = set()

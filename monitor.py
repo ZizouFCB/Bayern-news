@@ -30,9 +30,6 @@ def get_page(url):
     
     request_url = url
 
-    if "kicker.de" in url:
-        request_url = f"https://r.jina.ai/{url}"
-
     if "sport.sky.de" in url:
         request_url = f"https://r.jina.ai/{url}"
 

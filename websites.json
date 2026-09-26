@@ -28,6 +28,10 @@
     "url": "https://fcbayern.com/de/api/rss/contentlists/news"
   },
   {
+    "name": "Kicker Bayern",
+    "url": "https://www.kicker.de/fc-bayern-muenchen/team-news"
+  },
+  {
     "name": "Absolut Bayern",
     "url": "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/"
   },

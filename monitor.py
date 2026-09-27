@@ -145,7 +145,7 @@ def get_articles(html, site):
         articles = []
         seen = set()
 
-        soup = BeautifulSoup(html, "html.parser")
+        soup = BeautifulSoup(html, "xml")
 
         for item in soup.find_all("item"):
             title_tag = item.find("title")

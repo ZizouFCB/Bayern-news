@@ -142,20 +142,25 @@ def get_articles(html, site):
         return articles
 
     if site["name"] == "Kicker Bayern":
+        import xml.etree.ElementTree as ET
+
         articles = []
         seen = set()
 
-        soup = BeautifulSoup(html, "xml")
+        root = ET.fromstring(html)
 
-        for item in soup.find_all("item"):
+        for item in root.findall(".//item"):
             title_tag = item.find("title")
             link_tag = item.find("link")
 
-            if not title_tag or not link_tag:
+            if title_tag is None or link_tag is None:
                 continue
 
-            title = title_tag.get_text(" ", strip=True)
-            article_url = link_tag.get_text(strip=True)
+            title = title_tag.text or ""
+            article_url = link_tag.text or ""
+
+            title = title.strip()
+            article_url = article_url.strip()
 
             if not title or not article_url:
                 continue

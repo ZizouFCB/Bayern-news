@@ -177,6 +177,9 @@ def get_articles(html, site):
 
         print("Kicker items found:", len(articles))
 
+        for article in articles:
+            print("KICKER ITEM:", article["title"], "=>", article["url"])
+
         return articles
 
     if site["name"] == "NewsNow Bayern":

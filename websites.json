@@ -24,6 +24,10 @@
     "url": "https://www.abendzeitung-muenchen.de/sport/fcbayern/"
   },
   {
+    "name": "BILD FCB",
+    "url": "https://m.bild.de/sport/fussball/fussball/home-15769054.bildMobile.html"
+  },
+  {
     "name": "FC Bayern Official",
     "url": "https://fcbayern.com/de/api/rss/contentlists/news"
   },

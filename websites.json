@@ -32,6 +32,10 @@
     "url": "https://fcbayern.com/de/api/rss/contentlists/news"
   },
   {
+    "name": "Footy Headlines Bayern",
+    "url": "https://www.footyheadlines.com/team/Bayern%20M%C3%BCnchen"
+  },
+  {
     "name": "Kicker Bayern",
     "url": "https://newsfeed.kicker.de/team/fc-bayern-muenchen"
   },

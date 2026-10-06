@@ -321,6 +321,13 @@ def get_articles(html, site):
 
         name = site["name"]
 
+        # Footy Headlines Germany
+        if name == "Footy Headlines Germany":
+            path = urlparse(url).path
+
+            if not re.match(r"^/\d+/.+\.html$", path):
+                continue
+
         # Footy Headlines Bayern
         if name == "Footy Headlines Bayern":
             path = urlparse(url).path

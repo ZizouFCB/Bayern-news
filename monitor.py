@@ -571,4 +571,4 @@ if __name__ == "__main__":
         finally:
             browser.close()
 
-        return
+    return

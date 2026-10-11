@@ -548,27 +548,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-    from playwright.sync_api import sync_playwright
-
-    print("TESTING FC BAYERN WITH CHROMIUM")
-
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page(locale="de-DE")
-
-        try:
-            response = page.goto(
-                "https://fcbayern.com/de",
-                wait_until="domcontentloaded",
-                timeout=60000
-            )
-            print("FC BAYERN STATUS:", response.status if response else "No response")
-            print("FC BAYERN TITLE:", page.title())
-            print("FC BAYERN ARTICLE LINKS:", page.locator("a[href*='/de/news/']").count())
-        except Exception as e:
-            print("FC BAYERN BROWSER ERROR:", str(e))
-        finally:
-            browser.close()
-
-    return

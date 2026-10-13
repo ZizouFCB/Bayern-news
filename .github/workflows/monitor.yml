@@ -25,6 +25,9 @@ jobs:
       - run: pip install requests beautifulsoup4 playwright
       - run: playwright install chromium --with-deps
 
+      - name: Test FC Bayern browser
+        run: python test_bayern_browser.py 
+
       - name: Run monitor
         env:
           TELEGRAM_BOT_TOKEN: "${{ secrets.TELEGRAM_BOT_TOKEN }}"

@@ -4,25 +4,7 @@ url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  __schema {
-    queryType {
-      fields {
-        name
-        type {
-          kind
-          name
-          ofType {
-            kind
-            name
-            ofType {
-              kind
-              name
-            }
-          }
-        }
-      }
-    }
-  }
+  channels
 }
 """
 
@@ -32,7 +14,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN CHANNEL TYPE")
+print("TESTING FC BAYERN CHANNEL LIST")
 
 try:
     response = requests.post(
@@ -43,14 +25,9 @@ try:
     )
 
     print("HTTP STATUS:", response.status_code)
-
-    data = response.json()
-
-    for field in data["data"]["__schema"]["queryType"]["fields"]:
-        if field["name"] in ["channels", "newsOverview", "newsSearch", "articles"]:
-            print()
-            print("FIELD:", field["name"])
-            print("TYPE:", field["type"])
+    print("RESPONSE LENGTH:", len(response.text))
+    print("RESPONSE:")
+    print(response.text[:10000])
 
 except Exception as e:
     print("ERROR:", str(e))

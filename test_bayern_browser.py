@@ -4,17 +4,22 @@ url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  articles(
-    channelId: "fcbayern.com-de-de"
-    count: 20
-    offset: 0
-  ) {
-    __typename
-    total
-    count
-    offset
-    results {
-      __typename
+  __type(name: "Article") {
+    name
+    fields {
+      name
+      type {
+        kind
+        name
+        ofType {
+          kind
+          name
+          ofType {
+            kind
+            name
+          }
+        }
+      }
     }
   }
 }
@@ -26,7 +31,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN GERMAN ARTICLES")
+print("TESTING FC BAYERN ARTICLE FIELDS")
 
 try:
     response = requests.post(
@@ -39,7 +44,7 @@ try:
     print("HTTP STATUS:", response.status_code)
     print("RESPONSE LENGTH:", len(response.text))
     print("RESPONSE:")
-    print(response.text[:5000])
+    print(response.text[:15000])
 
 except Exception as e:
     print("ERROR:", str(e))

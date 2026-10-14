@@ -4,15 +4,18 @@ url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  newsOverview(channelId: "fcbayern.com-de-de") {
-    id
-    path
-    channelId
-    channelPath
-    locale
-    pageType
-    pageTitle
-    subtitle
+  articles(
+    channelId: "fcbayern.com-de-de"
+    count: 20
+    offset: 0
+  ) {
+    __typename
+    total
+    count
+    offset
+    results {
+      __typename
+    }
   }
 }
 """
@@ -23,7 +26,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN GERMAN NEWS PAGE")
+print("TESTING FC BAYERN GERMAN ARTICLES")
 
 try:
     response = requests.post(

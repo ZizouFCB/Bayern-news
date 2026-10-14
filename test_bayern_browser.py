@@ -4,22 +4,23 @@ url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  __type(name: "Article") {
-    name
-    fields {
-      name
-      type {
-        kind
-        name
-        ofType {
-          kind
-          name
-          ofType {
-            kind
-            name
-          }
-        }
-      }
+  articles(
+    channelId: "fcbayern.com-de-de"
+    count: 20
+    offset: 0
+  ) {
+    total
+    count
+    offset
+    results {
+      id
+      path
+      channelId
+      channelPath
+      pageTitle
+      publicationDate
+      lastModificationDate
+      shortUrl
     }
   }
 }
@@ -31,7 +32,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN ARTICLE FIELDS")
+print("TESTING FC BAYERN GERMAN LATEST ARTICLES")
 
 try:
     response = requests.post(
@@ -42,9 +43,25 @@ try:
     )
 
     print("HTTP STATUS:", response.status_code)
-    print("RESPONSE LENGTH:", len(response.text))
-    print("RESPONSE:")
-    print(response.text[:15000])
+
+    data = response.json()
+
+    if "errors" in data:
+        print("GRAPHQL ERRORS:", data["errors"])
+    else:
+        articles = data["data"]["articles"]
+
+        print("TOTAL:", articles["total"])
+        print("COUNT:", articles["count"])
+        print()
+
+        for i, article in enumerate(articles["results"], 1):
+            print("ARTICLE", i)
+            print("TITLE:", article["pageTitle"])
+            print("DATE:", article["publicationDate"])
+            print("URL:", "https://fcbayern.com" + article["path"])
+            print("SHORT URL:", article["shortUrl"])
+            print("------------------------------")
 
 except Exception as e:
     print("ERROR:", str(e))

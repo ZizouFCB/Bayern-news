@@ -4,18 +4,18 @@ url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  article(
+  articles(
     channelId: "fcbayern.com-de-de"
-    id: "24-7-Ticker"
+    count: 20
+    offset: 0
   ) {
-    id
-    path
-    pageTitle
-    publicationDate
-    lastModificationDate
-    shortUrl
-    contentBlocks {
-      __typename
+    results {
+      id
+      path
+      pageTitle
+      publicationDate
+      lastModificationDate
+      shortUrl
     }
   }
 }
@@ -27,7 +27,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN LIVETICKER")
+print("FINDING FC BAYERN LIVETICKER ID")
 
 try:
     response = requests.post(
@@ -38,9 +38,22 @@ try:
     )
 
     print("HTTP STATUS:", response.status_code)
-    print("RESPONSE LENGTH:", len(response.text))
-    print("RESPONSE:")
-    print(response.text[:10000])
+
+    data = response.json()
+
+    if "errors" in data:
+        print("GRAPHQL ERRORS:", data["errors"])
+    else:
+        for article in data["data"]["articles"]["results"]:
+            if "Liveticker" in (article.get("pageTitle") or ""):
+                print()
+                print("FOUND LIVETICKER")
+                print("ID:", article["id"])
+                print("TITLE:", article["pageTitle"])
+                print("PATH:", article["path"])
+                print("DATE:", article["publicationDate"])
+                print("LAST MODIFIED:", article["lastModificationDate"])
+                print("SHORT URL:", article["shortUrl"])
 
 except Exception as e:
     print("ERROR:", str(e))

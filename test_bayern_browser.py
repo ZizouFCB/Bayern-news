@@ -1,24 +1,17 @@
-from playwright.sync_api import sync_playwright
+import requests
 
-print("TESTING FC BAYERN GERMAN WEBSITE")
+urls = [
+    "https://fcbayern.com/de/page-data.json",
+    "https://fcbayern.com/page-data/de/page-data.json",
+]
 
-with sync_playwright() as p:
-    browser = p.chromium.launch(headless=True)
-    page = browser.new_page(locale="de-DE")
+for url in urls:
+    print("\nTESTING:", url)
 
     try:
-        response = page.goto(
-            "https://fcbayern.com/de",
-            wait_until="domcontentloaded",
-            timeout=60000
-        )
-
-        print("HTTP STATUS:", response.status if response else "No response")
-        print("PAGE TITLE:", page.title())
-        print("NEWS LINKS:", page.locator("a[href*='/de/news/']").count())
-
+        response = requests.get(url, timeout=20)
+        print("STATUS:", response.status_code)
+        print("CONTENT TYPE:", response.headers.get("content-type"))
+        print("RESPONSE:", response.text[:300].replace("\n", " "))
     except Exception as e:
-        print("BROWSER ERROR:", str(e))
-
-    finally:
-        browser.close()
+        print("ERROR:", str(e))

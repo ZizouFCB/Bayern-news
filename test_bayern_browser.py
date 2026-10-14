@@ -1,11 +1,16 @@
 import requests
-import json
 
 url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  __typename
+  __schema {
+    queryType {
+      fields {
+        name
+      }
+    }
+  }
 }
 """
 
@@ -15,14 +20,12 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN GRAPHQL DISCOVERY")
+print("TESTING FC BAYERN GRAPHQL SCHEMA")
 
 try:
     response = requests.post(
         url,
         json={
-            "operationName": "Discovery",
-            "variables": {},
             "query": query
         },
         headers=headers,
@@ -30,8 +33,9 @@ try:
     )
 
     print("HTTP STATUS:", response.status_code)
+    print("RESPONSE LENGTH:", len(response.text))
     print("RESPONSE:")
-    print(response.text[:1000])
+    print(response.text[:5000])
 
 except Exception as e:
     print("ERROR:", str(e))

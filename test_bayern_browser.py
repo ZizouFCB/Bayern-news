@@ -4,7 +4,9 @@ url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  channels
+  newsOverview(channelId: "fcbayern.com-de-de") {
+    __typename
+  }
 }
 """
 
@@ -14,7 +16,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN CHANNEL LIST")
+print("TESTING FC BAYERN GERMAN NEWS")
 
 try:
     response = requests.post(
@@ -27,7 +29,7 @@ try:
     print("HTTP STATUS:", response.status_code)
     print("RESPONSE LENGTH:", len(response.text))
     print("RESPONSE:")
-    print(response.text[:10000])
+    print(response.text[:5000])
 
 except Exception as e:
     print("ERROR:", str(e))

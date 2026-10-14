@@ -7,11 +7,12 @@ query {
   newsOverview(channelId: "fcbayern.com-de-de") {
     id
     path
+    channelId
+    channelPath
+    locale
+    pageType
     pageTitle
-    widgetFeatures
-    filterTags
-    filterSections
-    filterTypes
+    subtitle
   }
 }
 """
@@ -35,7 +36,7 @@ try:
     print("HTTP STATUS:", response.status_code)
     print("RESPONSE LENGTH:", len(response.text))
     print("RESPONSE:")
-    print(response.text[:10000])
+    print(response.text[:5000])
 
 except Exception as e:
     print("ERROR:", str(e))

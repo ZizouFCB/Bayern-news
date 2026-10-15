@@ -4,7 +4,8 @@ url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  __type(name: "History") {
+  __type(name: "HistoryEntry") {
+    name
     fields {
       name
       type {
@@ -34,7 +35,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN HISTORY ENTRY TYPE")
+print("TESTING FC BAYERN HISTORY ENTRY FIELDS")
 
 try:
     response = requests.post(

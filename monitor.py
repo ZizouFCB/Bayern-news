@@ -47,6 +47,84 @@ def get_page(url):
     response.raise_for_status()
     return response.text
 
+def get_fcbayern_german_articles():
+    url = "https://fcbayern.com/graphql"
+
+    query = """
+    query {
+      articles(
+        channelId: "fcbayern.com-de-de"
+        count: 20
+        offset: 0
+      ) {
+        results {
+          id
+          path
+          pageTitle
+          publicationDate
+          lastModificationDate
+        }
+      }
+    }
+    """
+
+    headers = {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "User-Agent": "ArenaAppAndroid"
+    }
+
+    response = requests.post(
+        url,
+        json={"query": query},
+        headers=headers,
+        timeout=60
+    )
+
+    response.raise_for_status()
+
+    data = response.json()
+
+    if "errors" in data:
+        raise Exception(
+            f"FC Bayern GraphQL error: {data['errors']}"
+        )
+
+    results = data["data"]["articles"]["results"]
+
+    articles = []
+
+    for article in results:
+
+        article_id = article.get("id")
+        title = article.get("pageTitle")
+        path = article.get("path")
+        publication_date = article.get("publicationDate")
+
+        if not article_id or not title or not path:
+            continue
+
+        # The permanent Liveticker is handled separately.
+        if path == "/de/news/fc-bayern-liveticker-alle-infos-rund-um-unsere-profis":
+            continue
+
+        if not publication_date:
+            continue
+
+        article_url = urljoin(
+            "https://fcbayern.com",
+            path
+        )
+
+        articles.append({
+            "id": article_id,
+            "title": title,
+            "url": article_url,
+            "publicationDate": publication_date
+        })
+
+    return articles
+
 
 def is_bayern_article(title, url):
     text = (title + " " + url).lower()

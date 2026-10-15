@@ -4,14 +4,14 @@ url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  __type(name: "HistoryEntry") {
+  __type(name: "HistoryContent") {
     name
-    fields {
+    kind
+    possibleTypes {
       name
-      type {
-        kind
+      fields {
         name
-        ofType {
+        type {
           kind
           name
           ofType {
@@ -35,7 +35,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN HISTORY ENTRY FIELDS")
+print("TESTING FC BAYERN HISTORY CONTENT")
 
 try:
     response = requests.post(
@@ -48,7 +48,7 @@ try:
     print("HTTP STATUS:", response.status_code)
     print("RESPONSE LENGTH:", len(response.text))
     print("RESPONSE:")
-    print(response.text[:10000])
+    print(response.text[:15000])
 
 except Exception as e:
     print("ERROR:", str(e))

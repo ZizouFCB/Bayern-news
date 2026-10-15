@@ -4,18 +4,22 @@ url = "https://fcbayern.com/graphql"
 
 query = """
 query {
-  article(
-    channelId: "fcbayern.com-de-de"
-    id: "d2d3bd0a-129a-40b5-adf6-32ce0ec1d0b8"
-  ) {
-    id
-    path
-    pageTitle
-    publicationDate
-    lastModificationDate
-    shortUrl
-    contentBlocks {
-      __typename
+  __type(name: "History") {
+    name
+    fields {
+      name
+      type {
+        kind
+        name
+        ofType {
+          kind
+          name
+          ofType {
+            kind
+            name
+          }
+        }
+      }
     }
   }
 }
@@ -27,7 +31,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN LIVETICKER CONTENT")
+print("TESTING FC BAYERN LIVETICKER HISTORY FIELDS")
 
 try:
     response = requests.post(
@@ -40,7 +44,7 @@ try:
     print("HTTP STATUS:", response.status_code)
     print("RESPONSE LENGTH:", len(response.text))
     print("RESPONSE:")
-    print(response.text[:15000])
+    print(response.text[:10000])
 
 except Exception as e:
     print("ERROR:", str(e))

@@ -657,6 +657,146 @@ def main():
 
     notified_urls = set(state.get("_notified_urls", []))
 
+    # FC Bayern German website - GraphQL monitor
+    try:
+        print()
+        print("==============================")
+        print("FC Bayern Official - German")
+        print("==============================")
+
+        fcb_articles = get_fcbayern_german_articles()
+
+        print(
+            "FC Bayern articles found:",
+            len(fcb_articles)
+        )
+
+        old_fcb = state.get(
+            "FC Bayern Official",
+            {}
+        )
+
+        if not old_fcb:
+            print("Creating FC Bayern baseline.")
+
+            state["FC Bayern Official"] = {
+                article["url"]: article["title"]
+                for article in fcb_articles
+            }
+
+        else:
+            new_fcb_articles = []
+
+            for article in fcb_articles:
+
+                article_url = article["url"]
+
+                if (
+                    article_url not in old_fcb
+                    and article_url not in notified_urls
+                ):
+                    new_fcb_articles.append(article)
+
+            print(
+                "New FC Bayern articles:",
+                len(new_fcb_articles)
+            )
+
+            for article in reversed(new_fcb_articles):
+
+                message = (
+                    "🆕 NEW BAYERN ARTICLE\n\n"
+                    "FC Bayern Official\n\n"
+                    f"{article['title']}\n\n"
+                    f"{article['url']}"
+                )
+
+                send_telegram(message)
+
+                notified_urls.add(article["url"])
+
+                print(
+                    "Telegram notification sent:",
+                    article["title"]
+                )
+
+            state["FC Bayern Official"] = {
+                article["url"]: article["title"]
+                for article in fcb_articles
+            }
+
+    except Exception as e:
+
+        print(
+            f"ERROR: FC Bayern Official: {e}"
+        )
+
+    # FC Bayern permanent Liveticker monitor
+    try:
+        print()
+        print("==============================")
+        print("FC Bayern Liveticker")
+        print("==============================")
+
+        liveticker = get_fcbayern_liveticker()
+
+        if not liveticker:
+            print("No Liveticker entry found.")
+
+        else:
+            old_liveticker = state.get(
+                "_fcbayern_liveticker",
+                {}
+            )
+
+            fingerprint = liveticker["fingerprint"]
+
+            if not old_liveticker:
+
+                print(
+                    "Creating Liveticker baseline."
+                )
+
+                state["_fcbayern_liveticker"] = {
+                    "fingerprint": fingerprint
+                }
+
+            elif (
+                fingerprint
+                != old_liveticker.get("fingerprint")
+            ):
+
+                message = (
+                    "🆕 FC BAYERN LIVETICKER UPDATE\n\n"
+                    f"{liveticker['header']}\n"
+                    f"{liveticker['title']}\n\n"
+                    f"{liveticker['text']}\n\n"
+                    f"{liveticker['url']}"
+                )
+
+                send_telegram(message)
+
+                print(
+                    "Telegram Liveticker notification sent:",
+                    liveticker["title"]
+                )
+
+                state["_fcbayern_liveticker"] = {
+                    "fingerprint": fingerprint
+                }
+
+            else:
+
+                print(
+                    "No new Liveticker update."
+                )
+
+    except Exception as e:
+
+        print(
+            f"ERROR: FC Bayern Liveticker: {e}"
+        )
+
     for site_state in state.values():
         if isinstance(site_state, dict):
             notified_urls.update(site_state.keys())

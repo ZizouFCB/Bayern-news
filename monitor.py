@@ -125,6 +125,131 @@ def get_fcbayern_german_articles():
 
     return articles
 
+def get_fcbayern_liveticker():
+    url = "https://fcbayern.com/graphql"
+
+    query = """
+    query {
+      article(
+        channelId: "fcbayern.com-de-de"
+        id: "d2d3bd0a-129a-40b5-adf6-32ce0ec1d0b8"
+      ) {
+        pageTitle
+        lastModificationDate
+        contentBlocks {
+          __typename
+
+          ... on History {
+            entries {
+              header
+              title
+
+              content {
+                __typename
+
+                ... on MarkdownText {
+                  contentHtml {
+                    html
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    """
+
+    headers = {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "User-Agent": "ArenaAppAndroid"
+    }
+
+    response = requests.post(
+        url,
+        json={"query": query},
+        headers=headers,
+        timeout=60
+    )
+
+    response.raise_for_status()
+
+    data = response.json()
+
+    if "errors" in data:
+        raise Exception(
+            f"FC Bayern Liveticker GraphQL error: {data['errors']}"
+        )
+
+    article = data["data"]["article"]
+
+    if not article:
+        return None
+
+    for block in article.get("contentBlocks", []):
+
+        if block.get("__typename") != "History":
+            continue
+
+        entries = block.get("entries", [])
+
+        if not entries:
+            return None
+
+        newest = entries[0]
+
+        title = newest.get("title") or ""
+        header = newest.get("header") or ""
+
+        text_parts = []
+
+        for content in newest.get("content", []):
+
+            if content.get("__typename") != "MarkdownText":
+                continue
+
+            content_html = content.get("contentHtml")
+
+            if not content_html:
+                continue
+
+            html = content_html.get("html", "")
+
+            soup = BeautifulSoup(
+                html,
+                "html.parser"
+            )
+
+            text = soup.get_text(
+                " ",
+                strip=True
+            )
+
+            if text:
+                text_parts.append(text)
+
+        text = " ".join(text_parts).strip()
+
+        fingerprint = (
+            f"{header}|{title}|{text}"
+        )
+
+        return {
+            "header": header,
+            "title": title,
+            "text": text,
+            "fingerprint": fingerprint,
+            "url": (
+                "https://fcbayern.com"
+                "/de/news/"
+                "fc-bayern-liveticker-"
+                "alle-infos-rund-um-unsere-profis"
+            )
+        }
+
+    return None
+
 
 def is_bayern_article(title, url):
     text = (title + " " + url).lower()

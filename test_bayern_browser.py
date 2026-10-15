@@ -5,7 +5,6 @@ url = "https://fcbayern.com/graphql"
 query = """
 query {
   __type(name: "History") {
-    name
     fields {
       name
       type {
@@ -17,6 +16,10 @@ query {
           ofType {
             kind
             name
+            ofType {
+              kind
+              name
+            }
           }
         }
       }
@@ -31,7 +34,7 @@ headers = {
     "User-Agent": "ArenaAppAndroid"
 }
 
-print("TESTING FC BAYERN LIVETICKER HISTORY FIELDS")
+print("TESTING FC BAYERN HISTORY ENTRY TYPE")
 
 try:
     response = requests.post(

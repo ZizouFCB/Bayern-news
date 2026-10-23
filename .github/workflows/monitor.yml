@@ -2,8 +2,6 @@ name: Website Monitor
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/5 * * * *"
 
 permissions:
   contents: write
@@ -15,6 +13,7 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 4
 
     steps:
       - uses: actions/checkout@v4
@@ -38,20 +37,3 @@ jobs:
           git add state.json
           git diff --cached --quiet || git commit -m "Update monitor state"
           git push
-
-  bayern-browser-test:
-    runs-on: ubuntu-latest
-    timeout-minutes: 3
-
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4 playwright
-          playwright install chromium --with-deps
-
-      - name: Test FC Bayern browser
-        run: python test_bayern_browser.py

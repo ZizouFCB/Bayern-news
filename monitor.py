@@ -706,17 +706,15 @@ def main():
 
                 article_url = article["url"]
 
-                # Mark URL as notified BEFORE sending.
-                # This prevents the same URL from being sent again
-                # if another workflow run starts unexpectedly.
+                # Claim this URL immediately.
+                # It can never be selected again by this state.
                 notified_urls.add(article_url)
 
                 state["_notified_urls"] = list(notified_urls)
-                save_state(state)
 
                 message = (
                     "🆕 NEW BAYERN ARTICLE\n\n"
-                    f"{name}\n\n"
+                    f"FC Bayern Official\n\n"
                     f"{article['title']}\n\n"
                     f"{article_url}"
                 )
@@ -732,6 +730,8 @@ def main():
                 article["url"]: article["title"]
                 for article in fcb_articles
             }
+
+            save_state(state)
 
     except Exception as e:
 
@@ -866,7 +866,7 @@ def main():
                 len(new_articles)
             )
 
-            for article in reversed(new_articles):
+            for article in reversed(new_fcb_articles):
 
                 message = (
                     "🆕 NEW BAYERN ARTICLE\n\n"

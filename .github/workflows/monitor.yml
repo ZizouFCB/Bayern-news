@@ -10,8 +10,7 @@ permissions:
 
 concurrency:
   group: website-monitor
-  cancel-in-progress: false
-  queue: single
+  cancel-in-progress: true
 
 jobs:
   monitor:
@@ -25,11 +24,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4
-          pip install playwright
-          playwright install chromium --with-deps
-
-      - name: Test FC Bayern browser
-        run: python test_bayern_browser.py
 
       - name: Run monitor
         env:
@@ -44,3 +38,20 @@ jobs:
           git add state.json
           git diff --cached --quiet || git commit -m "Update monitor state"
           git push
+
+  bayern-browser-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 playwright
+          playwright install chromium --with-deps
+
+      - name: Test FC Bayern browser
+        run: python test_bayern_browser.py

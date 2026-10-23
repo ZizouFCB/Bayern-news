@@ -702,7 +702,7 @@ def main():
                 len(new_fcb_articles)
             )
 
-            for article in reversed(new_articles):
+            for article in reversed(new_fcb_articles):
 
                 article_url = article["url"]
 

@@ -702,18 +702,26 @@ def main():
                 len(new_fcb_articles)
             )
 
-            for article in reversed(new_fcb_articles):
+            for article in reversed(new_articles):
+
+                article_url = article["url"]
+
+                # Mark URL as notified BEFORE sending.
+                # This prevents the same URL from being sent again
+                # if another workflow run starts unexpectedly.
+                notified_urls.add(article_url)
+
+                state["_notified_urls"] = list(notified_urls)
+                save_state(state)
 
                 message = (
                     "🆕 NEW BAYERN ARTICLE\n\n"
-                    "FC Bayern Official\n\n"
+                    f"{name}\n\n"
                     f"{article['title']}\n\n"
-                    f"{article['url']}"
+                    f"{article_url}"
                 )
 
                 send_telegram(message)
-
-                notified_urls.add(article["url"])
 
                 print(
                     "Telegram notification sent:",

@@ -41,7 +41,7 @@ def get_page(url):
     response = requests.get(
         request_url,
         headers=headers,
-        timeout=60
+        timeout=15
 )
 
     response.raise_for_status()

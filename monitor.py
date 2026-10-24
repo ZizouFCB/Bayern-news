@@ -866,7 +866,7 @@ def main():
                 len(new_articles)
             )
 
-            for article in reversed(new_fcb_articles):
+            for article in reversed(new_articles):
 
                 message = (
                     "🆕 NEW BAYERN ARTICLE\n\n"

@@ -629,20 +629,27 @@ def save_state(state):
     )
 
 
+
 def send_telegram(message):
     token = os.environ["TELEGRAM_BOT_TOKEN"]
-    chat_id = os.environ["TELEGRAM_CHAT_ID"]
 
-    response = requests.post(
-        f"https://api.telegram.org/bot{token}/sendMessage",
-        data={
-            "chat_id": chat_id,
-            "text": message
-        },
-        timeout=30
-    )
+    chat_ids = [
+        os.environ["TELEGRAM_CHAT_ID"],
+        os.environ["TELEGRAM_CHAT_ID_2"],
+    ]
 
-    response.raise_for_status()
+    for chat_id in chat_ids:
+        response = requests.post(
+            f"https://api.telegram.org/bot{token}/sendMessage",
+            data={
+                "chat_id": chat_id,
+                "text": message
+            },
+            timeout=30
+        )
+
+        response.raise_for_status()
+
 
 
 def main():

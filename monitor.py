@@ -253,17 +253,17 @@ def get_fcbayern_liveticker():
         return articles
 
             
-            soup = BeautifulSoup(
+        soup = BeautifulSoup(
                 html,
                 "html.parser"
             )
 
-            text = soup.get_text(
+        text = soup.get_text(
                 " ",
                 strip=True
             )
 
-            if text:
+        if text:
                 text_parts.append(text)
 
         text = " ".join(text_parts).strip()

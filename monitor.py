@@ -125,6 +125,7 @@ def get_fcbayern_german_articles():
 
     return articles
 
+
 def get_fcbayern_liveticker():
     url = "https://fcbayern.com/graphql"
 
@@ -216,54 +217,17 @@ def get_fcbayern_liveticker():
 
             html = content_html.get("html", "")
 
-
-    if site["name"] == "SPORT DE":
-        articles = []
-        seen = set()
-
-        pattern = r'\[([^\]]+)\]\((https?://[^)\s]+)\)'
-
-        for match in re.finditer(pattern, html):
-            title = match.group(1).strip()
-            url = match.group(2).strip()
-
-            if "sport.de" not in url.lower():
-                continue
-
-            path = urlparse(url).path.lower()
-
-            if "/news/" not in path:
-                continue
-
-            if len(title) < 20:
-                continue
-
-            if url in seen:
-                continue
-
-            seen.add(url)
-
-            articles.append({
-                "title": title,
-                "url": url
-            })
-
-        print("SPORT DE Markdown articles found:", len(articles))
-
-        return articles
-
-            
-        soup = BeautifulSoup(
+            soup = BeautifulSoup(
                 html,
                 "html.parser"
             )
 
-        text = soup.get_text(
+            text = soup.get_text(
                 " ",
                 strip=True
             )
 
-        if text:
+            if text:
                 text_parts.append(text)
 
         text = " ".join(text_parts).strip()
@@ -286,6 +250,10 @@ def get_fcbayern_liveticker():
         }
 
     return None
+        
+
+            
+
 
 
 def is_bayern_article(title, url):
